@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253286000,CYLA,AirTemperature,39.2,fahrenheit
+1253545200,CYLA,AirTemperature,44.6,fahrenheit

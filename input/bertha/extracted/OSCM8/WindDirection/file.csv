@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1253145180,OSCM8,WindDirection,161.0,degrees
+1253231580,OSCM8,WindDirection,267.0,degrees
+1253317980,OSCM8,WindDirection,152.0,degrees
+1253404380,OSCM8,WindDirection,0.0,degrees
+1253487180,OSCM8,WindDirection,281.0,degrees
+1253490780,OSCM8,WindDirection,276.0,degrees
+1253566380,OSCM8,WindDirection,350.0,degrees
+1253569980,OSCM8,WindDirection,253.0,degrees
+1253573580,OSCM8,WindDirection,200.0,degrees
+1253577180,OSCM8,WindDirection,160.0,degrees

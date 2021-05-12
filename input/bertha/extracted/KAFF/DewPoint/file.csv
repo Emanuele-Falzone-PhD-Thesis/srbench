@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KAFF,DewPoint,45.1,fahrenheit
+1253231700,KAFF,DewPoint,43.9,fahrenheit
+1253318100,KAFF,DewPoint,41.9,fahrenheit
+1253404500,KAFF,DewPoint,41.9,fahrenheit
+1253490900,KAFF,DewPoint,39.9,fahrenheit
+1253577300,KAFF,DewPoint,29.1,fahrenheit

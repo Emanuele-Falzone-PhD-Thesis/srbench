@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1220061660,EDGW3,WindDirection,0.0,degrees
+1220076060,EDGW3,WindDirection,0.0,degrees
+1220090460,EDGW3,WindDirection,0.0,degrees
+1220104860,EDGW3,WindDirection,0.0,degrees
+1220119260,EDGW3,WindDirection,235.0,degrees
+1220133660,EDGW3,WindDirection,250.0,degrees

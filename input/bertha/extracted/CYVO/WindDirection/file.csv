@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYVO,WindDirection,220.0,degrees
+1253232000,CYVO,WindDirection,270.0,degrees
+1253318400,CYVO,WindDirection,360.0,degrees
+1253404800,CYVO,WindDirection,220.0,degrees
+1253491200,CYVO,WindDirection,230.0,degrees
+1253577600,CYVO,WindDirection,180.0,degrees

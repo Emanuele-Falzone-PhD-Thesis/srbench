@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KALO,DewPoint,57.9,fahrenheit
+1253231640,KALO,DewPoint,51.1,fahrenheit
+1253318040,KALO,DewPoint,55.4,fahrenheit
+1253404440,KALO,DewPoint,54.0,fahrenheit
+1253490840,KALO,DewPoint,53.6,fahrenheit
+1253577240,KALO,DewPoint,64.0,fahrenheit

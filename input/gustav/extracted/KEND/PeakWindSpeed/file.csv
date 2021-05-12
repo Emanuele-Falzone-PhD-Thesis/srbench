@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1220025300,KEND,PeakWindSpeed,37.0,milesPerHour
+1220025900,KEND,PeakWindSpeed,0.0,milesPerHour
+1220027880,KEND,PeakWindSpeed,0.0,milesPerHour
+1220028900,KEND,PeakWindSpeed,0.0,milesPerHour
+1220030580,KEND,PeakWindSpeed,0.0,milesPerHour
+1220032500,KEND,PeakWindSpeed,0.0,milesPerHour
+1220033160,KEND,PeakWindSpeed,0.0,milesPerHour
+1220036100,KEND,PeakWindSpeed,0.0,milesPerHour
+1220039700,KEND,PeakWindSpeed,0.0,milesPerHour
+1220043300,KEND,PeakWindSpeed,0.0,milesPerHour
+1220046900,KEND,PeakWindSpeed,0.0,milesPerHour
+1220050500,KEND,PeakWindSpeed,0.0,milesPerHour
+1220054100,KEND,PeakWindSpeed,0.0,milesPerHour

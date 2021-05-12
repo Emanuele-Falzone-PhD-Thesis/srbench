@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1124946000,MPLM8,AirTemperature,31.0,fahrenheit
+1124978400,MPLM8,AirTemperature,60.0,fahrenheit
+1125032400,MPLM8,AirTemperature,40.0,fahrenheit
+1125064800,MPLM8,AirTemperature,67.0,fahrenheit
+1125108000,MPLM8,AirTemperature,47.0,fahrenheit
+1125118800,MPLM8,AirTemperature,42.0,fahrenheit
+1125129600,MPLM8,AirTemperature,43.0,fahrenheit
+1125205200,MPLM8,AirTemperature,47.0,fahrenheit

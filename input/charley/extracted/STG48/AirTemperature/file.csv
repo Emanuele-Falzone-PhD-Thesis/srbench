@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1091926800,STG48,AirTemperature,48.0,fahrenheit
+1091930400,STG48,AirTemperature,49.0,fahrenheit
+1091934000,STG48,AirTemperature,49.0,fahrenheit

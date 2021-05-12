@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KERI,WindDirection,70.0,degrees
+1253231460,KERI,WindDirection,180.0,degrees
+1253317860,KERI,WindDirection,40.0,degrees
+1253404260,KERI,WindDirection,0.0,degrees
+1253490660,KERI,WindDirection,160.0,degrees
+1253577060,KERI,WindDirection,170.0,degrees

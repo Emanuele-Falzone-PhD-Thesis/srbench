@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KPIB,AirTemperature,73.4,fahrenheit
+1253231700,KPIB,AirTemperature,75.2,fahrenheit
+1253318100,KPIB,AirTemperature,73.4,fahrenheit
+1253404500,KPIB,AirTemperature,71.6,fahrenheit
+1253490900,KPIB,AirTemperature,75.2,fahrenheit
+1253577300,KPIB,AirTemperature,73.4,fahrenheit

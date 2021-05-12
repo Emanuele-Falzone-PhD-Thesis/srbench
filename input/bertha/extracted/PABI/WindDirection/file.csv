@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PABI,WindDirection,130.0,degrees
+1253231580,PABI,WindDirection,50.0,degrees
+1253317980,PABI,WindDirection,270.0,degrees
+1253404380,PABI,WindDirection,240.0,degrees
+1253490780,PABI,WindDirection,200.0,degrees
+1253577180,PABI,WindDirection,180.0,degrees

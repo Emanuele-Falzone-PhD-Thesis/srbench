@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1092196500,PAJV,Precipitation,0.0,centimeters
+1092203700,PAJV,Precipitation,0.0,centimeters
+1092210900,PAJV,Precipitation,0.0,centimeters
+1092232200,PAJV,Precipitation,0.01,centimeters

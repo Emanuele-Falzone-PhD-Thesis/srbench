@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KIRS,AirTemperature,53.6,fahrenheit
+1253231700,KIRS,AirTemperature,55.4,fahrenheit
+1253318100,KIRS,AirTemperature,64.4,fahrenheit
+1253404500,KIRS,AirTemperature,55.4,fahrenheit
+1253490900,KIRS,AirTemperature,66.2,fahrenheit
+1253548200,KIRS,AirTemperature,77.0,fahrenheit

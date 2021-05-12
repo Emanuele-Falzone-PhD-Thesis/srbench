@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1220158800,KRPE,WindSpeed,3.0,milesPerHour
+1220418300,KRPE,WindSpeed,12.0,milesPerHour
+1220504700,KRPE,WindSpeed,5.0,milesPerHour
+1220590800,KRPE,WindSpeed,0.0,milesPerHour
+1220677500,KRPE,WindSpeed,5.0,milesPerHour
+1220763900,KRPE,WindSpeed,0.0,milesPerHour
+1220850000,KRPE,WindSpeed,0.0,milesPerHour
+1220937000,KRPE,WindSpeed,0.0,milesPerHour
+1221022800,KRPE,WindSpeed,0.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KRAC,AirTemperature,63.0,fahrenheit
+1253231580,KRAC,AirTemperature,55.9,fahrenheit
+1253317980,KRAC,AirTemperature,63.0,fahrenheit
+1253404380,KRAC,AirTemperature,64.0,fahrenheit
+1253490780,KRAC,AirTemperature,66.0,fahrenheit
+1253577180,KRAC,AirTemperature,57.9,fahrenheit

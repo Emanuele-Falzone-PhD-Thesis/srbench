@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1220823420,KELP,PeakWindSpeed,46.0,milesPerHour
+1220824260,KELP,PeakWindSpeed,46.0,milesPerHour
+1220824560,KELP,PeakWindSpeed,30.0,milesPerHour
+1220827860,KELP,PeakWindSpeed,30.0,milesPerHour
+1220828580,KELP,PeakWindSpeed,0.0,milesPerHour
+1220830260,KELP,PeakWindSpeed,0.0,milesPerHour
+1220831460,KELP,PeakWindSpeed,0.0,milesPerHour

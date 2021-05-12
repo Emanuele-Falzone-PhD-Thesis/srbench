@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1219652400,K4SL,Precipitation,0.26,centimeters
+1219684800,K4SL,Precipitation,0.0,centimeters

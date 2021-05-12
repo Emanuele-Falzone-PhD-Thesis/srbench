@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1220829180,KICM8,PrecipitationAccumulated,2.09,centimeters
+1221273480,KICM8,PrecipitationAccumulated,9.09,centimeters

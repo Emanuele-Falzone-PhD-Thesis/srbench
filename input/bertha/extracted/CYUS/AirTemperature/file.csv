@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1253143080,CYUS,AirTemperature,32.0,fahrenheit
+1253143140,CYUS,AirTemperature,32.0,fahrenheit
+1253143260,CYUS,AirTemperature,32.0,fahrenheit
+1253143620,CYUS,AirTemperature,32.0,fahrenheit
+1253145180,CYUS,AirTemperature,32.0,fahrenheit
+1253145360,CYUS,AirTemperature,32.0,fahrenheit
+1253145600,CYUS,AirTemperature,32.0,fahrenheit
+1253232000,CYUS,AirTemperature,33.8,fahrenheit
+1253316120,CYUS,AirTemperature,37.4,fahrenheit
+1253317020,CYUS,AirTemperature,37.4,fahrenheit
+1253318400,CYUS,AirTemperature,37.4,fahrenheit
+1253404800,CYUS,AirTemperature,32.0,fahrenheit
+1253491200,CYUS,AirTemperature,28.4,fahrenheit
+1253577600,CYUS,AirTemperature,26.6,fahrenheit

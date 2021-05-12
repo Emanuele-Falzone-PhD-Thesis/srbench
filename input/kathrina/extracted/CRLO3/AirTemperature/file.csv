@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1124870400,CRLO3,AirTemperature,44.0,fahrenheit
+1125216000,CRLO3,AirTemperature,43.0,fahrenheit

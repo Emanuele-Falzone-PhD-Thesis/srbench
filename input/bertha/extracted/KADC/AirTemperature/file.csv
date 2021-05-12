@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145420,KADC,AirTemperature,57.2,fahrenheit
+1253231820,KADC,AirTemperature,57.2,fahrenheit
+1253318220,KADC,AirTemperature,62.6,fahrenheit
+1253404620,KADC,AirTemperature,57.2,fahrenheit
+1253491020,KADC,AirTemperature,57.2,fahrenheit
+1253577420,KADC,AirTemperature,60.8,fahrenheit

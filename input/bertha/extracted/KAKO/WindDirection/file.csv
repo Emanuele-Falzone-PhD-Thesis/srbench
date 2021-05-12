@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KAKO,WindDirection,190.0,degrees
+1253231580,KAKO,WindDirection,170.0,degrees
+1253317980,KAKO,WindDirection,160.0,degrees
+1253404380,KAKO,WindDirection,150.0,degrees
+1253490780,KAKO,WindDirection,50.0,degrees
+1253577180,KAKO,WindDirection,320.0,degrees

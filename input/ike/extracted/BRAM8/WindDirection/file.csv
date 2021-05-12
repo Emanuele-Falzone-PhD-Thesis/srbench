@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1221097800,BRAM8,WindDirection,244.0,degrees
+1221119400,BRAM8,WindDirection,0.0,degrees
+1221285000,BRAM8,WindDirection,353.0,degrees
+1221339000,BRAM8,WindDirection,237.0,degrees
+1221349800,BRAM8,WindDirection,0.0,degrees

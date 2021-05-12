@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253208240,MBZH,AirTemperature,79.5,fahrenheit
+1253397360,MBZH,AirTemperature,69.3,fahrenheit
+1253443320,MBZH,AirTemperature,50.9,fahrenheit

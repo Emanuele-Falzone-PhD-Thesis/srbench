@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KPEX,AirTemperature,56.1,fahrenheit
+1253231460,KPEX,AirTemperature,58.1,fahrenheit
+1253317860,KPEX,AirTemperature,67.1,fahrenheit
+1253404260,KPEX,AirTemperature,65.5,fahrenheit
+1253490660,KPEX,AirTemperature,64.4,fahrenheit
+1253577240,KPEX,AirTemperature,56.7,fahrenheit

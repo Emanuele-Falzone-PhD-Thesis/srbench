@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1220014620,AR145,AirTemperature,77.0,fahrenheit
+1220015820,AR145,AirTemperature,79.0,fahrenheit
+1220017620,AR145,AirTemperature,82.0,fahrenheit
+1220020080,AR145,AirTemperature,83.0,fahrenheit
+1220021280,AR145,AirTemperature,84.0,fahrenheit
+1220021460,AR145,AirTemperature,84.0,fahrenheit
+1220022480,AR145,AirTemperature,83.0,fahrenheit
+1220024280,AR145,AirTemperature,80.0,fahrenheit
+1220026080,AR145,AirTemperature,78.0,fahrenheit
+1220027940,AR145,AirTemperature,78.0,fahrenheit
+1220029140,AR145,AirTemperature,78.0,fahrenheit
+1220030340,AR145,AirTemperature,78.0,fahrenheit
+1220030940,AR145,AirTemperature,78.0,fahrenheit
+1220032140,AR145,AirTemperature,78.0,fahrenheit
+1220032740,AR145,AirTemperature,78.0,fahrenheit

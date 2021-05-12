@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253112420,KSUA,WindDirection,80.0,degrees
+1253213220,KSUA,WindDirection,90.0,degrees
+1253299620,KSUA,WindDirection,70.0,degrees
+1253386020,KSUA,WindDirection,120.0,degrees
+1253472600,KSUA,WindDirection,90.0,degrees
+1253559000,KSUA,WindDirection,80.0,degrees

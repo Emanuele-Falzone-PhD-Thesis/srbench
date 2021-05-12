@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,USJC2,AirTemperature,72.7,fahrenheit
+1219629600,USJC2,AirTemperature,68.7,fahrenheit
+1219716000,USJC2,AirTemperature,42.3,fahrenheit
+1219802400,USJC2,AirTemperature,43.2,fahrenheit
+1219888800,USJC2,AirTemperature,44.1,fahrenheit
+1219975200,USJC2,AirTemperature,45.5,fahrenheit
+1220061600,USJC2,AirTemperature,46.8,fahrenheit

@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253144760,KMWA,WindSpeed,10.0,milesPerHour
+1253231160,KMWA,WindSpeed,5.0,milesPerHour
+1253315160,KMWA,WindSpeed,3.0,milesPerHour
+1253316360,KMWA,WindSpeed,5.0,milesPerHour
+1253317560,KMWA,WindSpeed,6.0,milesPerHour
+1253404020,KMWA,WindSpeed,5.0,milesPerHour
+1253490360,KMWA,WindSpeed,0.0,milesPerHour
+1253576760,KMWA,WindSpeed,7.0,milesPerHour

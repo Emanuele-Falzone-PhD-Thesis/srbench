@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253144700,KOSA,WindSpeed,8.0,milesPerHour
+1253231100,KOSA,WindSpeed,8.0,milesPerHour
+1253317500,KOSA,WindSpeed,0.0,milesPerHour
+1253401500,KOSA,WindSpeed,0.0,milesPerHour
+1253402700,KOSA,WindSpeed,0.0,milesPerHour
+1253403900,KOSA,WindSpeed,0.0,milesPerHour
+1253490300,KOSA,WindSpeed,0.0,milesPerHour
+1253576700,KOSA,WindSpeed,6.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,KEKO,AirTemperature,60.1,fahrenheit
+1253231760,KEKO,AirTemperature,55.0,fahrenheit
+1253318160,KEKO,AirTemperature,60.1,fahrenheit
+1253404560,KEKO,AirTemperature,62.1,fahrenheit
+1253490960,KEKO,AirTemperature,46.9,fahrenheit
+1253577360,KEKO,AirTemperature,43.0,fahrenheit

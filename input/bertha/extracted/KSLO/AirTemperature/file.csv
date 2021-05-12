@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KSLO,AirTemperature,66.2,fahrenheit
+1253231400,KSLO,AirTemperature,66.9,fahrenheit
+1253317800,KSLO,AirTemperature,64.8,fahrenheit
+1253404260,KSLO,AirTemperature,69.8,fahrenheit
+1253490540,KSLO,AirTemperature,66.2,fahrenheit
+1253577120,KSLO,AirTemperature,71.6,fahrenheit

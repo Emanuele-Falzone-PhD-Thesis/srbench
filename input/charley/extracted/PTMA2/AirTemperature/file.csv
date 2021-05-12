@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1091966400,PTMA2,AirTemperature,69.1,fahrenheit
+1092009600,PTMA2,AirTemperature,58.8,fahrenheit
+1092052800,PTMA2,AirTemperature,69.6,fahrenheit
+1092096000,PTMA2,AirTemperature,55.8,fahrenheit
+1092139200,PTMA2,AirTemperature,72.1,fahrenheit
+1092182400,PTMA2,AirTemperature,56.1,fahrenheit
+1092225600,PTMA2,AirTemperature,71.2,fahrenheit
+1092268800,PTMA2,AirTemperature,60.6,fahrenheit
+1092355200,PTMA2,AirTemperature,51.4,fahrenheit
+1092398400,PTMA2,AirTemperature,66.4,fahrenheit
+1092441600,PTMA2,AirTemperature,50.0,fahrenheit

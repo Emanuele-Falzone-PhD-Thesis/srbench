@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253120400,CZFN,AirTemperature,59.0,fahrenheit
+1253206800,CZFN,AirTemperature,60.8,fahrenheit
+1253293200,CZFN,AirTemperature,53.6,fahrenheit
+1253552400,CZFN,AirTemperature,44.6,fahrenheit

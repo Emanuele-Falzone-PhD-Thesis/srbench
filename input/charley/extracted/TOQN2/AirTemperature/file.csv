@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1092211800,TOQN2,AirTemperature,12.0,fahrenheit
+1092388800,TOQN2,AirTemperature,327.7,fahrenheit

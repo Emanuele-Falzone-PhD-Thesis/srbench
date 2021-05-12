@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1124989200,MSOA2,AirTemperature,42.8,fahrenheit
+1124992800,MSOA2,AirTemperature,43.2,fahrenheit
+1125064800,MSOA2,AirTemperature,46.9,fahrenheit
+1125068400,MSOA2,AirTemperature,47.1,fahrenheit
+1125100800,MSOA2,AirTemperature,39.2,fahrenheit
+1125226800,MSOA2,AirTemperature,52.9,fahrenheit
+1125230400,MSOA2,AirTemperature,61.0,fahrenheit

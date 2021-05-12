@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1220313360,KSHV,PeakWindSpeed,39.0,milesPerHour
+1221335760,KSHV,PeakWindSpeed,49.0,milesPerHour
+1221337140,KSHV,PeakWindSpeed,44.0,milesPerHour
+1221339360,KSHV,PeakWindSpeed,44.0,milesPerHour
+1221342960,KSHV,PeakWindSpeed,43.0,milesPerHour
+1221346560,KSHV,PeakWindSpeed,0.0,milesPerHour
+1221350160,KSHV,PeakWindSpeed,0.0,milesPerHour

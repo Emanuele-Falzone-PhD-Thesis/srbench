@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1124866200,PAXK,WindGust,0.0,milesPerHour
+1124869800,PAXK,WindGust,0.0,milesPerHour
+1124873100,PAXK,WindGust,0.0,milesPerHour
+1124876700,PAXK,WindGust,16.0,milesPerHour
+1124884200,PAXK,WindGust,17.0,milesPerHour
+1124888100,PAXK,WindGust,17.0,milesPerHour
+1124895300,PAXK,WindGust,0.0,milesPerHour
+1124898300,PAXK,WindGust,0.0,milesPerHour
+1124905500,PAXK,WindGust,0.0,milesPerHour
+1124920500,PAXK,WindGust,0.0,milesPerHour

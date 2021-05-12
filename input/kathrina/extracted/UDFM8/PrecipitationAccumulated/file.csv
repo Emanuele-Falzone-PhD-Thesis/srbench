@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1124798100,UDFM8,PrecipitationAccumulated,0.08,centimeters
+1124970900,UDFM8,PrecipitationAccumulated,0.08,centimeters
+1125143700,UDFM8,PrecipitationAccumulated,0.08,centimeters

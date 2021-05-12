@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1092034200,PAAP,WindGust,0.0,milesPerHour
+1092034500,PAAP,WindGust,29.0,milesPerHour
+1092041400,PAAP,WindGust,0.0,milesPerHour
+1092045000,PAAP,WindGust,0.0,milesPerHour
+1092048600,PAAP,WindGust,0.0,milesPerHour
+1092051900,PAAP,WindGust,0.0,milesPerHour
+1092056100,PAAP,WindGust,0.0,milesPerHour
+1092059400,PAAP,WindGust,0.0,milesPerHour
+1092063000,PAAP,WindGust,0.0,milesPerHour
+1092069900,PAAP,WindGust,0.0,milesPerHour

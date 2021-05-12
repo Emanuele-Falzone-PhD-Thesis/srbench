@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1092054300,MS6,WindDirection,354.0,degrees
+1092055200,MS6,WindDirection,309.0,degrees
+1092056100,MS6,WindDirection,109.0,degrees
+1092437700,MS6,WindDirection,259.0,degrees

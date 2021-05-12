@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1091926800,XSCA3,AirTemperature,48.0,fahrenheit
+1091937600,XSCA3,AirTemperature,42.3,fahrenheit
+1092013200,XSCA3,AirTemperature,43.5,fahrenheit
+1092024000,XSCA3,AirTemperature,43.0,fahrenheit
+1092099600,XSCA3,AirTemperature,56.3,fahrenheit
+1092110400,XSCA3,AirTemperature,57.2,fahrenheit
+1092186000,XSCA3,AirTemperature,57.9,fahrenheit
+1092196800,XSCA3,AirTemperature,58.5,fahrenheit
+1092272400,XSCA3,AirTemperature,53.2,fahrenheit
+1092283200,XSCA3,AirTemperature,55.9,fahrenheit
+1092358800,XSCA3,AirTemperature,47.3,fahrenheit
+1092369600,XSCA3,AirTemperature,48.9,fahrenheit

@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,BAMN5,PrecipitationSmoothed,20.3,centimeters
+1219629600,BAMN5,PrecipitationSmoothed,20.3,centimeters
+1219716000,BAMN5,PrecipitationSmoothed,20.6,centimeters
+1219802400,BAMN5,PrecipitationSmoothed,20.8,centimeters
+1219888800,BAMN5,PrecipitationSmoothed,20.8,centimeters
+1219975200,BAMN5,PrecipitationSmoothed,20.8,centimeters
+1220061600,BAMN5,PrecipitationSmoothed,20.8,centimeters

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CWCA,RelativeHumidity,81.0,percent
+1253232000,CWCA,RelativeHumidity,54.0,percent
+1253318400,CWCA,RelativeHumidity,81.0,percent
+1253404800,CWCA,RelativeHumidity,87.0,percent
+1253491200,CWCA,RelativeHumidity,81.0,percent
+1253577600,CWCA,RelativeHumidity,68.0,percent

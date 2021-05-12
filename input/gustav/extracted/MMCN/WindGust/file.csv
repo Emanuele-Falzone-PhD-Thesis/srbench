@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1219603260,MMCN,WindGust,0.0,milesPerHour
+1219606920,MMCN,WindGust,0.0,milesPerHour
+1219610460,MMCN,WindGust,0.0,milesPerHour

@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253112900,PHSF,AirTemperature,69.8,fahrenheit
+1253199300,PHSF,AirTemperature,66.2,fahrenheit
+1253285700,PHSF,AirTemperature,73.4,fahrenheit
+1253544900,PHSF,AirTemperature,68.0,fahrenheit

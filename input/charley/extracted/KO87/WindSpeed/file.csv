@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1091951700,KO87,WindSpeed,0.0,milesPerHour
+1091962500,KO87,WindSpeed,6.0,milesPerHour
+1091984100,KO87,WindSpeed,5.0,milesPerHour
+1092038100,KO87,WindSpeed,0.0,milesPerHour
+1092048900,KO87,WindSpeed,0.0,milesPerHour
+1092070500,KO87,WindSpeed,0.0,milesPerHour
+1092124500,KO87,WindSpeed,0.0,milesPerHour
+1092135300,KO87,WindSpeed,6.0,milesPerHour
+1092146100,KO87,WindSpeed,6.0,milesPerHour
+1092156900,KO87,WindSpeed,7.0,milesPerHour
+1092210900,KO87,WindSpeed,0.0,milesPerHour
+1092221700,KO87,WindSpeed,6.0,milesPerHour
+1092243300,KO87,WindSpeed,6.0,milesPerHour
+1092297300,KO87,WindSpeed,0.0,milesPerHour
+1092308100,KO87,WindSpeed,5.0,milesPerHour

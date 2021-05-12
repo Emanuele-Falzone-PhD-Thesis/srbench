@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KDLL,WindDirection,0.0,degrees
+1253231700,KDLL,WindDirection,0.0,degrees
+1253318100,KDLL,WindDirection,100.0,degrees
+1253404500,KDLL,WindDirection,0.0,degrees
+1253490900,KDLL,WindDirection,0.0,degrees
+1253577300,KDLL,WindDirection,90.0,degrees

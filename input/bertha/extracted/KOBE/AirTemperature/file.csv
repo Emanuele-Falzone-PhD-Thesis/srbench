@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144940,KOBE,AirTemperature,75.2,fahrenheit
+1253231460,KOBE,AirTemperature,75.2,fahrenheit
+1253317800,KOBE,AirTemperature,75.2,fahrenheit
+1253404260,KOBE,AirTemperature,78.8,fahrenheit
+1253490420,KOBE,AirTemperature,78.8,fahrenheit
+1253576820,KOBE,AirTemperature,77.0,fahrenheit

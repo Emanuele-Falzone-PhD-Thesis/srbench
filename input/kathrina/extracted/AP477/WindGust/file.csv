@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1124755800,AP477,WindGust,0.0,milesPerHour
+1124776500,AP477,WindGust,3.0,milesPerHour
+1125202800,AP477,WindGust,5.0,milesPerHour

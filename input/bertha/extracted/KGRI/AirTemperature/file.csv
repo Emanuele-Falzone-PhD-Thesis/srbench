@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KGRI,AirTemperature,60.1,fahrenheit
+1253231580,KGRI,AirTemperature,59.0,fahrenheit
+1253317980,KGRI,AirTemperature,59.0,fahrenheit
+1253404380,KGRI,AirTemperature,54.0,fahrenheit
+1253490780,KGRI,AirTemperature,66.9,fahrenheit
+1253577180,KGRI,AirTemperature,46.9,fahrenheit

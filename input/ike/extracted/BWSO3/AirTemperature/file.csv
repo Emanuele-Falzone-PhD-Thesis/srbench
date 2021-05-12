@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1220144100,BWSO3,AirTemperature,27.0,fahrenheit
+1220147700,BWSO3,AirTemperature,27.0,fahrenheit
+1220151300,BWSO3,AirTemperature,27.0,fahrenheit
+1220154900,BWSO3,AirTemperature,26.0,fahrenheit
+1220158500,BWSO3,AirTemperature,25.0,fahrenheit
+1220162100,BWSO3,AirTemperature,25.0,fahrenheit
+1220165700,BWSO3,AirTemperature,24.0,fahrenheit
+1220169300,BWSO3,AirTemperature,29.0,fahrenheit
+1220172900,BWSO3,AirTemperature,38.0,fahrenheit
+1220180100,BWSO3,AirTemperature,56.0,fahrenheit

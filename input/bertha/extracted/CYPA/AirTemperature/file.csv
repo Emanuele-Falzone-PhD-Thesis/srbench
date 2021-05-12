@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYPA,AirTemperature,57.2,fahrenheit
+1253232000,CYPA,AirTemperature,75.2,fahrenheit
+1253318400,CYPA,AirTemperature,51.8,fahrenheit
+1253404800,CYPA,AirTemperature,75.2,fahrenheit
+1253491200,CYPA,AirTemperature,53.6,fahrenheit
+1253577600,CYPA,AirTemperature,53.6,fahrenheit

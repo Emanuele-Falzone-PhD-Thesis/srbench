@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KROW,WindSpeed,5.0,milesPerHour
+1253231460,KROW,WindSpeed,9.0,milesPerHour
+1253317860,KROW,WindSpeed,6.0,milesPerHour
+1253404260,KROW,WindSpeed,3.0,milesPerHour
+1253490660,KROW,WindSpeed,10.0,milesPerHour
+1253577060,KROW,WindSpeed,17.0,milesPerHour

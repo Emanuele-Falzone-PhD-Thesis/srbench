@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144700,KRUQ,WindDirection,30.0,degrees
+1253231100,KRUQ,WindDirection,0.0,degrees
+1253317500,KRUQ,WindDirection,0.0,degrees
+1253403960,KRUQ,WindDirection,70.0,degrees
+1253490360,KRUQ,WindDirection,70.0,degrees
+1253576460,KRUQ,WindDirection,40.0,degrees

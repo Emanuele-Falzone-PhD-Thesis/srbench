@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PAYA,AirTemperature,52.0,fahrenheit
+1253231580,PAYA,AirTemperature,46.0,fahrenheit
+1253317980,PAYA,AirTemperature,39.9,fahrenheit
+1253404380,PAYA,AirTemperature,48.9,fahrenheit
+1253490780,PAYA,AirTemperature,46.9,fahrenheit
+1253577180,PAYA,AirTemperature,44.1,fahrenheit

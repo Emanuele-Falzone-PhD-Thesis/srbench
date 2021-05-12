@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,UTMCO,AirTemperature,50.2,fahrenheit
+1253232000,UTMCO,AirTemperature,53.4,fahrenheit
+1253318400,UTMCO,AirTemperature,50.8,fahrenheit
+1253404800,UTMCO,AirTemperature,55.5,fahrenheit
+1253491200,UTMCO,AirTemperature,0.0,fahrenheit
+1253577600,UTMCO,AirTemperature,42.2,fahrenheit

@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAMD,WindGust,32.0,milesPerHour
+1253231760,PAMD,WindGust,0.0,milesPerHour
+1253404560,PAMD,WindGust,0.0,milesPerHour
+1253490960,PAMD,WindGust,33.0,milesPerHour
+1253577360,PAMD,WindGust,0.0,milesPerHour

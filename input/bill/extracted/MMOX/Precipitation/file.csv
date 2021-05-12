@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253445000,MMOX,Precipitation,0.0,centimeters
+1253454720,MMOX,Precipitation,29.85,centimeters
+1253480100,MMOX,Precipitation,207.27,centimeters

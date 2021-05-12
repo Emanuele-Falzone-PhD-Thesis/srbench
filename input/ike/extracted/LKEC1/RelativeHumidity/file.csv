@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1220877000,LKEC1,RelativeHumidity,60.0,percent
+1221326100,LKEC1,RelativeHumidity,12.0,percent

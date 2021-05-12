@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1220700000,CRSC1,RelativeHumidity,34.0,percent

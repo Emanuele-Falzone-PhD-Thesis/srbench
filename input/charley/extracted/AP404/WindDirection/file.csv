@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1092103800,AP404,WindDirection,0.0,degrees
+1092105000,AP404,WindDirection,0.0,degrees
+1092107400,AP404,WindDirection,0.0,degrees
+1092109500,AP404,WindDirection,0.0,degrees
+1092291000,AP404,WindDirection,0.0,degrees
+1092295500,AP404,WindDirection,0.0,degrees
+1092308400,AP404,WindDirection,90.0,degrees

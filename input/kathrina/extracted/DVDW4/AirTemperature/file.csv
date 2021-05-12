@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1124762400,DVDW4,AirTemperature,51.4,fahrenheit
+1124773200,DVDW4,AirTemperature,50.2,fahrenheit
+1124848800,DVDW4,AirTemperature,51.8,fahrenheit
+1124859600,DVDW4,AirTemperature,49.8,fahrenheit
+1124935200,DVDW4,AirTemperature,52.3,fahrenheit
+1124946000,DVDW4,AirTemperature,55.2,fahrenheit
+1125021600,DVDW4,AirTemperature,54.3,fahrenheit
+1125032400,DVDW4,AirTemperature,52.5,fahrenheit
+1125108000,DVDW4,AirTemperature,54.1,fahrenheit
+1125118800,DVDW4,AirTemperature,53.1,fahrenheit
+1125194400,DVDW4,AirTemperature,71.6,fahrenheit
+1125205200,DVDW4,AirTemperature,53.1,fahrenheit

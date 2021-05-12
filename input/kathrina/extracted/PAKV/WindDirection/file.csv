@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1125222900,PAKV,WindDirection,0.0,degrees
+1125231900,PAKV,WindDirection,0.0,degrees
+1125251400,PAKV,WindDirection,0.0,degrees
+1125254700,PAKV,WindDirection,0.0,degrees
+1125258600,PAKV,WindDirection,0.0,degrees
+1125261900,PAKV,WindDirection,0.0,degrees
+1125265800,PAKV,WindDirection,0.0,degrees
+1125269100,PAKV,WindDirection,0.0,degrees
+1125269400,PAKV,WindDirection,200.0,degrees
+1125272700,PAKV,WindDirection,0.0,degrees

@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAPM,DewPoint,46.9,fahrenheit
+1253231760,PAPM,DewPoint,47.8,fahrenheit
+1253264160,PAPM,DewPoint,45.9,fahrenheit

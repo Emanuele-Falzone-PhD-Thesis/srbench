@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KAUM,WindDirection,0.0,degrees
+1253231700,KAUM,WindDirection,0.0,degrees
+1253318100,KAUM,WindDirection,120.0,degrees
+1253404500,KAUM,WindDirection,0.0,degrees
+1253490900,KAUM,WindDirection,150.0,degrees
+1253577300,KAUM,WindDirection,290.0,degrees

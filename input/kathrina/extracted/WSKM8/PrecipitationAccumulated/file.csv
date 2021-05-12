@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1124773200,WSKM8,PrecipitationAccumulated,32.3,centimeters
+1124794800,WSKM8,PrecipitationAccumulated,32.2,centimeters
+1124935200,WSKM8,PrecipitationAccumulated,32.0,centimeters
+1124946000,WSKM8,PrecipitationAccumulated,31.7,centimeters

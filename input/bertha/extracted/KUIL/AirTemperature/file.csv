@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145420,KUIL,AirTemperature,57.2,fahrenheit
+1253231580,KUIL,AirTemperature,60.1,fahrenheit
+1253317980,KUIL,AirTemperature,61.0,fahrenheit
+1253404380,KUIL,AirTemperature,51.1,fahrenheit
+1253490780,KUIL,AirTemperature,48.0,fahrenheit
+1253577180,KUIL,AirTemperature,59.0,fahrenheit

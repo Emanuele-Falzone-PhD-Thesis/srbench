@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253173200,PAKT,PeakWindSpeed,32.0,milesPerHour
+1253173980,PAKT,PeakWindSpeed,32.0,milesPerHour
+1253519580,PAKT,PeakWindSpeed,0.0,milesPerHour

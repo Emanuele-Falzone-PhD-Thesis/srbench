@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYMX,RelativeHumidity,87.0,percent
+1253232000,CYMX,RelativeHumidity,88.0,percent
+1253318400,CYMX,RelativeHumidity,76.0,percent
+1253404800,CYMX,RelativeHumidity,87.0,percent
+1253491200,CYMX,RelativeHumidity,87.0,percent
+1253577600,CYMX,RelativeHumidity,72.0,percent

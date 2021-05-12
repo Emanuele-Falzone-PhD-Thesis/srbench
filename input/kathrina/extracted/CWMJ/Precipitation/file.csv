@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1124758800,CWMJ,Precipitation,88.77,centimeters
+1124762400,CWMJ,Precipitation,88.83,centimeters
+1124766000,CWMJ,Precipitation,29.74,centimeters
+1124769600,CWMJ,Precipitation,59.27,centimeters
+1124773200,CWMJ,Precipitation,29.65,centimeters
+1124776800,CWMJ,Precipitation,88.8,centimeters
+1124780400,CWMJ,Precipitation,88.94,centimeters
+1124784000,CWMJ,Precipitation,89.09,centimeters
+1124787600,CWMJ,Precipitation,30.03,centimeters
+1124791200,CWMJ,Precipitation,89.03,centimeters
+1124794800,CWMJ,Precipitation,29.91,centimeters
+1124798400,CWMJ,Precipitation,29.8,centimeters
+1124802000,CWMJ,Precipitation,29.68,centimeters
+1124805600,CWMJ,Precipitation,236.27,centimeters

@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1220850600,ODT37,AirTemperature,48.0,fahrenheit
+1220856600,ODT37,AirTemperature,46.0,fahrenheit
+1220857200,ODT37,AirTemperature,46.0,fahrenheit
+1220857800,ODT37,AirTemperature,47.0,fahrenheit
+1220859000,ODT37,AirTemperature,50.0,fahrenheit
+1220859600,ODT37,AirTemperature,51.0,fahrenheit
+1220860800,ODT37,AirTemperature,53.0,fahrenheit
+1220865600,ODT37,AirTemperature,63.0,fahrenheit
+1220866800,ODT37,AirTemperature,64.0,fahrenheit
+1221294600,ODT37,AirTemperature,56.0,fahrenheit

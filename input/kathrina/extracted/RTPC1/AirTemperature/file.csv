@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1124714700,RTPC1,AirTemperature,-28.0,fahrenheit
+1124877600,RTPC1,AirTemperature,137.0,fahrenheit

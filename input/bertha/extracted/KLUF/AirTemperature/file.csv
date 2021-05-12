@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KLUF,AirTemperature,77.9,fahrenheit
+1253231700,KLUF,AirTemperature,86.4,fahrenheit
+1253318100,KLUF,AirTemperature,83.7,fahrenheit
+1253404500,KLUF,AirTemperature,84.9,fahrenheit
+1253490900,KLUF,AirTemperature,88.0,fahrenheit
+1253577300,KLUF,AirTemperature,87.6,fahrenheit

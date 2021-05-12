@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145120,KIEN,RelativeHumidity,55.0,percent
+1253231520,KIEN,RelativeHumidity,53.0,percent
+1253317920,KIEN,RelativeHumidity,50.0,percent
+1253404320,KIEN,RelativeHumidity,40.0,percent
+1253490720,KIEN,RelativeHumidity,89.0,percent
+1253577120,KIEN,RelativeHumidity,71.0,percent

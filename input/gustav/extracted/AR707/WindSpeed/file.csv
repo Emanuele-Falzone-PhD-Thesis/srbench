@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1219680180,AR707,WindSpeed,0.0,milesPerHour
+1219751280,AR707,WindSpeed,0.0,milesPerHour
+1220025720,AR707,WindSpeed,0.0,milesPerHour

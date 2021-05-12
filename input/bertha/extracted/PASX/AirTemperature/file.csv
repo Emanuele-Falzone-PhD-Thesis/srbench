@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PASX,AirTemperature,53.6,fahrenheit
+1253231760,PASX,AirTemperature,42.8,fahrenheit
+1253318160,PASX,AirTemperature,42.8,fahrenheit
+1253404560,PASX,AirTemperature,42.8,fahrenheit
+1253490960,PASX,AirTemperature,46.4,fahrenheit
+1253577360,PASX,AirTemperature,46.4,fahrenheit

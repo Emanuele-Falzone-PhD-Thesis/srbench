@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1091971800,PABL,AirTemperature,59.0,fahrenheit
+1092024000,PABL,AirTemperature,57.2,fahrenheit
+1092099600,PABL,AirTemperature,51.8,fahrenheit
+1092120600,PABL,AirTemperature,50.0,fahrenheit
+1092127800,PABL,AirTemperature,51.8,fahrenheit
+1092186900,PABL,AirTemperature,55.4,fahrenheit
+1092197100,PABL,AirTemperature,53.6,fahrenheit
+1092207000,PABL,AirTemperature,53.6,fahrenheit
+1092272400,PABL,AirTemperature,53.6,fahrenheit
+1092283200,PABL,AirTemperature,50.0,fahrenheit
+1092293400,PABL,AirTemperature,53.6,fahrenheit
+1092358800,PABL,AirTemperature,57.2,fahrenheit
+1092369600,PABL,AirTemperature,57.2,fahrenheit
+1092379800,PABL,AirTemperature,57.2,fahrenheit

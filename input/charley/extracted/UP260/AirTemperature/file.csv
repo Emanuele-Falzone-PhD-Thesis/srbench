@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1091988000,UP260,AirTemperature,76.0,fahrenheit
+1091995200,UP260,AirTemperature,61.0,fahrenheit
+1092045600,UP260,AirTemperature,79.0,fahrenheit
+1092052800,UP260,AirTemperature,81.0,fahrenheit
+1092123300,UP260,AirTemperature,52.0,fahrenheit
+1092157200,UP260,AirTemperature,69.0,fahrenheit
+1092209400,UP260,AirTemperature,48.0,fahrenheit
+1092297600,UP260,AirTemperature,44.0,fahrenheit
+1092304800,UP260,AirTemperature,56.0,fahrenheit
+1092392400,UP260,AirTemperature,67.0,fahrenheit

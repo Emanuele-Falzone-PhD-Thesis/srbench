@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KAIA,WindDirection,160.0,degrees
+1253231580,KAIA,WindDirection,160.0,degrees
+1253317980,KAIA,WindDirection,150.0,degrees
+1253404380,KAIA,WindDirection,160.0,degrees
+1253491200,KAIA,WindDirection,340.0,degrees
+1253577180,KAIA,WindDirection,320.0,degrees

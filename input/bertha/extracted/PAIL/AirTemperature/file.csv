@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253141580,PAIL,AirTemperature,54.0,fahrenheit
+1253231580,PAIL,AirTemperature,50.0,fahrenheit
+1253317980,PAIL,AirTemperature,41.0,fahrenheit
+1253404380,PAIL,AirTemperature,50.0,fahrenheit
+1253490780,PAIL,AirTemperature,46.0,fahrenheit
+1253577180,PAIL,AirTemperature,42.1,fahrenheit

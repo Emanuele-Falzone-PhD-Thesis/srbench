@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PASI,AirTemperature,53.1,fahrenheit
+1253231580,PASI,AirTemperature,55.0,fahrenheit
+1253317980,PASI,AirTemperature,51.1,fahrenheit
+1253404380,PASI,AirTemperature,52.0,fahrenheit
+1253490780,PASI,AirTemperature,52.0,fahrenheit
+1253577180,PASI,AirTemperature,53.1,fahrenheit

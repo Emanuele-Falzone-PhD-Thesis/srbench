@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KTOR,DewPoint,46.9,fahrenheit
+1253231580,KTOR,DewPoint,43.0,fahrenheit
+1253317980,KTOR,DewPoint,43.0,fahrenheit
+1253404380,KTOR,DewPoint,44.1,fahrenheit
+1253490780,KTOR,DewPoint,48.0,fahrenheit
+1253577180,KTOR,DewPoint,32.0,fahrenheit

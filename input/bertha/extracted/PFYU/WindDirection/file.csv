@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PFYU,WindDirection,40.0,degrees
+1253231760,PFYU,WindDirection,250.0,degrees
+1253316960,PFYU,WindDirection,0.0,degrees
+1253404560,PFYU,WindDirection,30.0,degrees
+1253490960,PFYU,WindDirection,50.0,degrees
+1253577360,PFYU,WindDirection,50.0,degrees

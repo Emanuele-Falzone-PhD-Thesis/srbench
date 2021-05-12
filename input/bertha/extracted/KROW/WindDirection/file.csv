@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KROW,WindDirection,340.0,degrees
+1253231460,KROW,WindDirection,310.0,degrees
+1253317860,KROW,WindDirection,300.0,degrees
+1253404260,KROW,WindDirection,210.0,degrees
+1253490660,KROW,WindDirection,240.0,degrees
+1253577060,KROW,WindDirection,360.0,degrees

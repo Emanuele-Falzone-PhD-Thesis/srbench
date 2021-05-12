@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1219655700,BHGRP,AirTemperature,51.0,fahrenheit
+1219656000,BHGRP,AirTemperature,0.0,fahrenheit
+1219656720,BHGRP,AirTemperature,54.0,fahrenheit

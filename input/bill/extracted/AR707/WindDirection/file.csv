@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1253550360,AR707,WindDirection,48.0,degrees
+1253561160,AR707,WindDirection,44.0,degrees
+1253566560,AR707,WindDirection,37.0,degrees
+1253591760,AR707,WindDirection,32.0,degrees
+1253076060,AR707,WindDirection,0.0,degrees
+1253094960,AR707,WindDirection,0.0,degrees
+1253102160,AR707,WindDirection,0.0,degrees
+1253103960,AR707,WindDirection,0.0,degrees
+1253120160,AR707,WindDirection,202.0,degrees

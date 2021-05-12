@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1221147480,KBLH,PeakWindSpeed,49.0,milesPerHour
+1221147840,KBLH,PeakWindSpeed,49.0,milesPerHour
+1221148020,KBLH,PeakWindSpeed,49.0,milesPerHour
+1221148320,KBLH,PeakWindSpeed,49.0,milesPerHour
+1221149100,KBLH,PeakWindSpeed,35.0,milesPerHour
+1221151380,KBLH,PeakWindSpeed,40.0,milesPerHour
+1221151920,KBLH,PeakWindSpeed,40.0,milesPerHour
+1221153060,KBLH,PeakWindSpeed,0.0,milesPerHour
+1221155520,KBLH,PeakWindSpeed,0.0,milesPerHour
+1221159120,KBLH,PeakWindSpeed,0.0,milesPerHour
+1221162720,KBLH,PeakWindSpeed,0.0,milesPerHour
+1221166320,KBLH,PeakWindSpeed,0.0,milesPerHour
+1221169920,KBLH,PeakWindSpeed,0.0,milesPerHour
+1221173520,KBLH,PeakWindSpeed,0.0,milesPerHour
+1221177120,KBLH,PeakWindSpeed,0.0,milesPerHour

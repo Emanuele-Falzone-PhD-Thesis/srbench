@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253286000,CYLA,WindSpeed,23.0,milesPerHour
+1253545200,CYLA,WindSpeed,16.0,milesPerHour

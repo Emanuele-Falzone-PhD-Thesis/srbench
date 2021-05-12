@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144700,KARM,WindDirection,0.0,degrees
+1253231100,KARM,WindDirection,270.0,degrees
+1253317500,KARM,WindDirection,330.0,degrees
+1253403900,KARM,WindDirection,0.0,degrees
+1253490300,KARM,WindDirection,0.0,degrees
+1253576700,KARM,WindDirection,150.0,degrees

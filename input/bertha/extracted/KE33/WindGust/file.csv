@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1253375100,KE33,WindGust,17.0,milesPerHour

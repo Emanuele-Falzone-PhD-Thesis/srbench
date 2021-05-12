@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1092054300,MS5,WindSpeed,2.0,milesPerHour
+1092055200,MS5,WindSpeed,4.0,milesPerHour
+1092056100,MS5,WindSpeed,4.0,milesPerHour
+1092437700,MS5,WindSpeed,4.0,milesPerHour

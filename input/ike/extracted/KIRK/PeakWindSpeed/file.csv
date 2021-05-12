@@ -1,0 +1,17 @@
+timestamp,sensorId,property,value,unit
+1220380080,KIRK,PeakWindSpeed,36.0,milesPerHour
+1220381220,KIRK,PeakWindSpeed,36.0,milesPerHour
+1220381700,KIRK,PeakWindSpeed,0.0,milesPerHour
+1220382420,KIRK,PeakWindSpeed,0.0,milesPerHour
+1220385300,KIRK,PeakWindSpeed,0.0,milesPerHour
+1220388900,KIRK,PeakWindSpeed,0.0,milesPerHour
+1220389380,KIRK,PeakWindSpeed,0.0,milesPerHour
+1220389920,KIRK,PeakWindSpeed,0.0,milesPerHour
+1220391240,KIRK,PeakWindSpeed,0.0,milesPerHour
+1220392500,KIRK,PeakWindSpeed,0.0,milesPerHour
+1220394000,KIRK,PeakWindSpeed,0.0,milesPerHour
+1220394600,KIRK,PeakWindSpeed,0.0,milesPerHour
+1220395860,KIRK,PeakWindSpeed,0.0,milesPerHour
+1220396100,KIRK,PeakWindSpeed,0.0,milesPerHour
+1220398620,KIRK,PeakWindSpeed,0.0,milesPerHour
+1220399700,KIRK,PeakWindSpeed,0.0,milesPerHour

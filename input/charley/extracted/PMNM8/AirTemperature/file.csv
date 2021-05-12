@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1092038400,PMNM8,AirTemperature,54.0,fahrenheit
+1092243600,PMNM8,AirTemperature,73.0,fahrenheit
+1092276000,PMNM8,AirTemperature,52.0,fahrenheit
+1092362400,PMNM8,AirTemperature,54.0,fahrenheit
+1092384000,PMNM8,AirTemperature,60.0,fahrenheit
+1092438000,PMNM8,AirTemperature,57.0,fahrenheit

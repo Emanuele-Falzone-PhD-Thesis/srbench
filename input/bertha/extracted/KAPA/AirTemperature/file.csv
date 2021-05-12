@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KAPA,AirTemperature,52.0,fahrenheit
+1253231580,KAPA,AirTemperature,57.9,fahrenheit
+1253317980,KAPA,AirTemperature,57.0,fahrenheit
+1253404380,KAPA,AirTemperature,61.0,fahrenheit
+1253490780,KAPA,AirTemperature,53.1,fahrenheit
+1253577180,KAPA,AirTemperature,39.9,fahrenheit

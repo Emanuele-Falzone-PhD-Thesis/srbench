@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYMX,WindDirection,20.0,degrees
+1253232000,CYMX,WindDirection,220.0,degrees
+1253318400,CYMX,WindDirection,290.0,degrees
+1253404800,CYMX,WindDirection,230.0,degrees
+1253491200,CYMX,WindDirection,250.0,degrees
+1253577600,CYMX,WindDirection,0.0,degrees

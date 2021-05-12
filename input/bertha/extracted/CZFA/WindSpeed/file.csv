@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253124000,CZFA,WindSpeed,5.0,milesPerHour
+1253210400,CZFA,WindSpeed,9.0,milesPerHour
+1253296800,CZFA,WindSpeed,3.0,milesPerHour
+1253383200,CZFA,WindSpeed,8.0,milesPerHour
+1253469600,CZFA,WindSpeed,12.0,milesPerHour
+1253556000,CZFA,WindSpeed,9.0,milesPerHour

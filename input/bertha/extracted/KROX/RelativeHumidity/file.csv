@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KROX,RelativeHumidity,88.0,percent
+1253231640,KROX,RelativeHumidity,94.0,percent
+1253318100,KROX,RelativeHumidity,88.0,percent
+1253404500,KROX,RelativeHumidity,88.0,percent
+1253490840,KROX,RelativeHumidity,83.0,percent
+1253577240,KROX,RelativeHumidity,94.0,percent

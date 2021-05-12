@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253505900,AP080,WindDirection,0.0,degrees
+1253383920,AP080,WindDirection,0.0,degrees
+1253413320,AP080,WindDirection,0.0,degrees
+1253565720,AP080,WindDirection,0.0,degrees

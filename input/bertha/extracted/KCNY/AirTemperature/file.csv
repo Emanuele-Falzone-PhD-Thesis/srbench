@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KCNY,AirTemperature,61.0,fahrenheit
+1253231580,KCNY,AirTemperature,69.1,fahrenheit
+1253317980,KCNY,AirTemperature,71.1,fahrenheit
+1253404380,KCNY,AirTemperature,71.1,fahrenheit
+1253490780,KCNY,AirTemperature,60.1,fahrenheit
+1253577180,KCNY,AirTemperature,51.1,fahrenheit

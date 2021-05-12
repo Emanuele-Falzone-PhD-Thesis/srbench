@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KBDE,WindDirection,220.0,degrees
+1253231580,KBDE,WindDirection,0.0,degrees
+1253317980,KBDE,WindDirection,170.0,degrees
+1253404380,KBDE,WindDirection,0.0,degrees
+1253490780,KBDE,WindDirection,170.0,degrees
+1253577180,KBDE,WindDirection,0.0,degrees

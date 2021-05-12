@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1092239100,KLYH,WindGust,0.0,milesPerHour
+1092242100,KLYH,WindGust,0.0,milesPerHour
+1092243000,KLYH,WindGust,0.0,milesPerHour
+1092246600,KLYH,WindGust,0.0,milesPerHour
+1092250200,KLYH,WindGust,0.0,milesPerHour
+1092253800,KLYH,WindGust,0.0,milesPerHour
+1092257400,KLYH,WindGust,0.0,milesPerHour
+1092261000,KLYH,WindGust,0.0,milesPerHour
+1092264600,KLYH,WindGust,0.0,milesPerHour
+1092268200,KLYH,WindGust,0.0,milesPerHour

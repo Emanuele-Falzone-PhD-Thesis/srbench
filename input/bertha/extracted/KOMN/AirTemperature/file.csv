@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253119800,KOMN,AirTemperature,86.0,fahrenheit
+1253195400,KOMN,AirTemperature,89.6,fahrenheit
+1253285400,KOMN,AirTemperature,87.8,fahrenheit
+1253371800,KOMN,AirTemperature,86.0,fahrenheit
+1253559000,KOMN,AirTemperature,82.4,fahrenheit

@@ -1,0 +1,17 @@
+timestamp,sensorId,property,value,unit
+1124672400,CI123,SoilTemperature,74.7,fahrenheit
+1124676000,CI123,SoilTemperature,74.3,fahrenheit
+1124679600,CI123,SoilTemperature,74.0,fahrenheit
+1124683200,CI123,SoilTemperature,73.7,fahrenheit
+1124686800,CI123,SoilTemperature,73.4,fahrenheit
+1124690400,CI123,SoilTemperature,73.1,fahrenheit
+1124694000,CI123,SoilTemperature,72.8,fahrenheit
+1124697600,CI123,SoilTemperature,72.6,fahrenheit
+1124701200,CI123,SoilTemperature,72.4,fahrenheit
+1124704800,CI123,SoilTemperature,72.2,fahrenheit
+1124708400,CI123,SoilTemperature,72.2,fahrenheit
+1124712000,CI123,SoilTemperature,72.4,fahrenheit
+1124715600,CI123,SoilTemperature,72.7,fahrenheit
+1124719200,CI123,SoilTemperature,73.2,fahrenheit
+1124722800,CI123,SoilTemperature,73.9,fahrenheit
+1124726400,CI123,SoilTemperature,74.5,fahrenheit

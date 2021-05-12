@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1220463600,KTIK,PeakWindSpeed,0.0,milesPerHour
+1220464500,KTIK,PeakWindSpeed,0.0,milesPerHour
+1220468100,KTIK,PeakWindSpeed,0.0,milesPerHour
+1220471700,KTIK,PeakWindSpeed,0.0,milesPerHour
+1220475300,KTIK,PeakWindSpeed,30.0,milesPerHour
+1220475660,KTIK,PeakWindSpeed,0.0,milesPerHour
+1220478900,KTIK,PeakWindSpeed,0.0,milesPerHour
+1220482500,KTIK,PeakWindSpeed,0.0,milesPerHour
+1220486100,KTIK,PeakWindSpeed,0.0,milesPerHour

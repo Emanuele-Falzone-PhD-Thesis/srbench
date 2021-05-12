@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253137200,MMCU,DewPoint,50.0,fahrenheit
+1253230800,MMCU,DewPoint,60.8,fahrenheit
+1253313600,MMCU,DewPoint,53.6,fahrenheit
+1253396400,MMCU,DewPoint,55.4,fahrenheit
+1253486400,MMCU,DewPoint,55.4,fahrenheit
+1253576400,MMCU,DewPoint,51.8,fahrenheit

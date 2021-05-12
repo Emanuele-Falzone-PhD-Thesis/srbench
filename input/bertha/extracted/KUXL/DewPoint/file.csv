@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,KUXL,DewPoint,71.6,fahrenheit
+1253232000,KUXL,DewPoint,71.6,fahrenheit
+1253318400,KUXL,DewPoint,71.6,fahrenheit
+1253404800,KUXL,DewPoint,73.4,fahrenheit
+1253491200,KUXL,DewPoint,73.4,fahrenheit
+1253577600,KUXL,DewPoint,77.0,fahrenheit

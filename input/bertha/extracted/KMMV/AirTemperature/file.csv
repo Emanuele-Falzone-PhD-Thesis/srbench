@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KMMV,AirTemperature,54.0,fahrenheit
+1253231580,KMMV,AirTemperature,50.0,fahrenheit
+1253317980,KMMV,AirTemperature,57.9,fahrenheit
+1253404380,KMMV,AirTemperature,50.0,fahrenheit
+1253490780,KMMV,AirTemperature,57.0,fahrenheit
+1253577180,KMMV,AirTemperature,64.9,fahrenheit

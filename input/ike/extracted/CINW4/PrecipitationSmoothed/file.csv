@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1220148000,CINW4,PrecipitationSmoothed,32.6,centimeters
+1220234400,CINW4,PrecipitationSmoothed,32.6,centimeters
+1220320800,CINW4,PrecipitationSmoothed,32.7,centimeters
+1220407200,CINW4,PrecipitationSmoothed,32.7,centimeters
+1220493600,CINW4,PrecipitationSmoothed,32.7,centimeters
+1220580000,CINW4,PrecipitationSmoothed,32.7,centimeters
+1220666400,CINW4,PrecipitationSmoothed,32.7,centimeters
+1220752800,CINW4,PrecipitationSmoothed,32.9,centimeters
+1220839200,CINW4,PrecipitationSmoothed,32.9,centimeters
+1220925600,CINW4,PrecipitationSmoothed,32.9,centimeters
+1221012000,CINW4,PrecipitationSmoothed,32.9,centimeters
+1221098400,CINW4,PrecipitationSmoothed,32.9,centimeters
+1221184800,CINW4,PrecipitationSmoothed,33.0,centimeters
+1221271200,CINW4,PrecipitationSmoothed,33.1,centimeters

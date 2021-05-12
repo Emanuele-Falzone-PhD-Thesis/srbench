@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KROX,AirTemperature,60.8,fahrenheit
+1253231640,KROX,AirTemperature,62.6,fahrenheit
+1253318100,KROX,AirTemperature,68.0,fahrenheit
+1253404500,KROX,AirTemperature,64.4,fahrenheit
+1253490840,KROX,AirTemperature,66.2,fahrenheit
+1253577240,KROX,AirTemperature,62.6,fahrenheit

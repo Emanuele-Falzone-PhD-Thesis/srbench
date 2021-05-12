@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253490900,KTNU,DewPoint,53.6,fahrenheit
+1253577300,KTNU,DewPoint,59.0,fahrenheit

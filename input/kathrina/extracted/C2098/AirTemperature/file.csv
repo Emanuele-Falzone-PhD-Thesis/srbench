@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1124670600,C2098,AirTemperature,82.0,fahrenheit
+1125252900,C2098,AirTemperature,85.0,fahrenheit
+1125262200,C2098,AirTemperature,84.0,fahrenheit
+1125262500,C2098,AirTemperature,84.0,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KSCK,RelativeHumidity,73.0,percent
+1253231700,KSCK,RelativeHumidity,61.0,percent
+1253318100,KSCK,RelativeHumidity,45.0,percent
+1253404500,KSCK,RelativeHumidity,59.0,percent
+1253490900,KSCK,RelativeHumidity,57.0,percent
+1253577300,KSCK,RelativeHumidity,50.0,percent

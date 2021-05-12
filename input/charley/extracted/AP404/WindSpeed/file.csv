@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1092103800,AP404,WindSpeed,0.0,milesPerHour
+1092105000,AP404,WindSpeed,0.0,milesPerHour
+1092107400,AP404,WindSpeed,0.0,milesPerHour
+1092109500,AP404,WindSpeed,0.0,milesPerHour
+1092291000,AP404,WindSpeed,0.0,milesPerHour
+1092295500,AP404,WindSpeed,0.0,milesPerHour
+1092308400,AP404,WindSpeed,3.0,milesPerHour

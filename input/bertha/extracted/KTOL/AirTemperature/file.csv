@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145120,KTOL,AirTemperature,55.9,fahrenheit
+1253231520,KTOL,AirTemperature,53.1,fahrenheit
+1253317920,KTOL,AirTemperature,60.1,fahrenheit
+1253404320,KTOL,AirTemperature,50.0,fahrenheit
+1253490720,KTOL,AirTemperature,68.0,fahrenheit
+1253577120,KTOL,AirTemperature,69.1,fahrenheit

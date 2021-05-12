@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1092221400,BBYM8,WindGust,16.0,milesPerHour
+1092250200,BBYM8,WindGust,16.0,milesPerHour

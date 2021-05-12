@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1220612400,K3B6,AirTemperature,78.8,fahrenheit
+1220633700,K3B6,AirTemperature,80.6,fahrenheit
+1220679600,K3B6,AirTemperature,78.8,fahrenheit
+1220698800,K3B6,AirTemperature,80.6,fahrenheit
+1220721000,K3B6,AirTemperature,78.8,fahrenheit
+1220766300,K3B6,AirTemperature,80.6,fahrenheit
+1220784600,K3B6,AirTemperature,84.2,fahrenheit
+1220805900,K3B6,AirTemperature,82.4,fahrenheit
+1220852400,K3B6,AirTemperature,82.4,fahrenheit
+1220870700,K3B6,AirTemperature,82.4,fahrenheit
+1220892600,K3B6,AirTemperature,82.4,fahrenheit
+1220938800,K3B6,AirTemperature,82.4,fahrenheit
+1220957100,K3B6,AirTemperature,82.4,fahrenheit

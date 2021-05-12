@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,IVHC2,PrecipitationAccumulated,21.3,centimeters
+1219629600,IVHC2,PrecipitationAccumulated,21.1,centimeters
+1219716000,IVHC2,PrecipitationAccumulated,41.7,centimeters
+1219802400,IVHC2,PrecipitationAccumulated,41.9,centimeters
+1219888800,IVHC2,PrecipitationAccumulated,41.7,centimeters
+1219975200,IVHC2,PrecipitationAccumulated,41.8,centimeters
+1220061600,IVHC2,PrecipitationAccumulated,41.8,centimeters

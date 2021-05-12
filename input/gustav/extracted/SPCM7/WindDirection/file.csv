@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1219539600,SPCM7,WindDirection,85.0,degrees
+1219543200,SPCM7,WindDirection,85.0,degrees
+1219546800,SPCM7,WindDirection,95.0,degrees
+1219550400,SPCM7,WindDirection,103.0,degrees
+1219554000,SPCM7,WindDirection,113.0,degrees
+1219557600,SPCM7,WindDirection,97.0,degrees
+1219892400,SPCM7,WindDirection,357.0,degrees
+1219896000,SPCM7,WindDirection,361.0,degrees
+1219899600,SPCM7,WindDirection,655.0,degrees
+1219903200,SPCM7,WindDirection,655.0,degrees

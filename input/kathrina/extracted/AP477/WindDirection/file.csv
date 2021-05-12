@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1124755800,AP477,WindDirection,0.0,degrees
+1124776500,AP477,WindDirection,287.0,degrees
+1125202800,AP477,WindDirection,277.0,degrees

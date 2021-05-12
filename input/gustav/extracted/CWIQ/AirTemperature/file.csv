@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1220000400,CWIQ,AirTemperature,44.6,fahrenheit
+1220004000,CWIQ,AirTemperature,51.8,fahrenheit
+1220007600,CWIQ,AirTemperature,59.0,fahrenheit

@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAPM,WindSpeed,7.0,milesPerHour
+1253231760,PAPM,WindSpeed,17.0,milesPerHour
+1253264160,PAPM,WindSpeed,7.0,milesPerHour

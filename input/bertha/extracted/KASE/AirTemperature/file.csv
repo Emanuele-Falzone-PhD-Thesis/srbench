@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KASE,AirTemperature,48.9,fahrenheit
+1253231580,KASE,AirTemperature,51.1,fahrenheit
+1253317980,KASE,AirTemperature,46.9,fahrenheit
+1253404380,KASE,AirTemperature,44.1,fahrenheit
+1253490780,KASE,AirTemperature,42.1,fahrenheit
+1253577180,KASE,AirTemperature,30.0,fahrenheit

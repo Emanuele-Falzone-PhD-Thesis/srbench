@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1124844000,AP176,AirTemperature,54.0,fahrenheit
+1124850000,AP176,AirTemperature,54.0,fahrenheit
+1124851500,AP176,AirTemperature,53.0,fahrenheit
+1125039300,AP176,AirTemperature,53.0,fahrenheit

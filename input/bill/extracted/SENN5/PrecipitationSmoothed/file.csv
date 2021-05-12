@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253520000,SENN5,PrecipitationSmoothed,22.3,centimeters
+1253088000,SENN5,PrecipitationSmoothed,21.4,centimeters
+1253174400,SENN5,PrecipitationSmoothed,22.1,centimeters
+1253260800,SENN5,PrecipitationSmoothed,22.2,centimeters
+1253347200,SENN5,PrecipitationSmoothed,22.2,centimeters
+1253433600,SENN5,PrecipitationSmoothed,22.2,centimeters

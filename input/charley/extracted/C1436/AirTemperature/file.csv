@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1092332700,C1436,AirTemperature,71.0,fahrenheit
+1092334500,C1436,AirTemperature,71.0,fahrenheit
+1092336300,C1436,AirTemperature,70.0,fahrenheit
+1092338100,C1436,AirTemperature,70.0,fahrenheit
+1092348900,C1436,AirTemperature,69.0,fahrenheit
+1092392100,C1436,AirTemperature,73.0,fahrenheit
+1092393900,C1436,AirTemperature,72.0,fahrenheit
+1092395700,C1436,AirTemperature,73.0,fahrenheit
+1092397500,C1436,AirTemperature,74.0,fahrenheit
+1092399300,C1436,AirTemperature,76.0,fahrenheit
+1092401100,C1436,AirTemperature,76.0,fahrenheit
+1092402900,C1436,AirTemperature,75.0,fahrenheit

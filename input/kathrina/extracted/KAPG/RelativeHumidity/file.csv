@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1124790600,KAPG,RelativeHumidity,61.0,percent
+1124794200,KAPG,RelativeHumidity,48.0,percent
+1124801400,KAPG,RelativeHumidity,42.0,percent
+1124873700,KAPG,RelativeHumidity,64.0,percent
+1124877000,KAPG,RelativeHumidity,57.0,percent
+1124880600,KAPG,RelativeHumidity,57.0,percent
+1124887800,KAPG,RelativeHumidity,42.0,percent
+1124977800,KAPG,RelativeHumidity,45.0,percent
+1124981100,KAPG,RelativeHumidity,40.0,percent

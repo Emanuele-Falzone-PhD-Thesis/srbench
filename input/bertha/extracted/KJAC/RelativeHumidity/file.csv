@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KJAC,RelativeHumidity,71.0,percent
+1253231700,KJAC,RelativeHumidity,58.0,percent
+1253318100,KJAC,RelativeHumidity,58.0,percent
+1253404500,KJAC,RelativeHumidity,51.0,percent
+1253490900,KJAC,RelativeHumidity,42.0,percent
+1253577300,KJAC,RelativeHumidity,47.0,percent

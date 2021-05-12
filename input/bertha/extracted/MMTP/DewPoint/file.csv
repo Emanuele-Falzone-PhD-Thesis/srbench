@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144400,MMTP,DewPoint,75.2,fahrenheit
+1253230800,MMTP,DewPoint,73.4,fahrenheit
+1253317200,MMTP,DewPoint,71.6,fahrenheit
+1253403600,MMTP,DewPoint,75.2,fahrenheit
+1253490000,MMTP,DewPoint,73.4,fahrenheit
+1253576400,MMTP,DewPoint,73.4,fahrenheit

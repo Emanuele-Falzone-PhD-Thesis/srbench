@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1220143500,GLVNV,WindSpeed,11.0,milesPerHour
+1220148000,GLVNV,WindSpeed,10.0,milesPerHour
+1220156100,GLVNV,WindSpeed,9.0,milesPerHour
+1220159700,GLVNV,WindSpeed,8.0,milesPerHour
+1220163300,GLVNV,WindSpeed,7.0,milesPerHour

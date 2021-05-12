@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KOFP,AirTemperature,69.1,fahrenheit
+1253231640,KOFP,AirTemperature,66.0,fahrenheit
+1253318040,KOFP,AirTemperature,62.1,fahrenheit
+1253404440,KOFP,AirTemperature,57.0,fahrenheit
+1253490840,KOFP,AirTemperature,59.0,fahrenheit
+1253577240,KOFP,AirTemperature,62.1,fahrenheit

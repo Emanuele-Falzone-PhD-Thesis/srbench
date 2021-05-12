@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1220386860,KCNU,PeakWindSpeed,53.0,milesPerHour
+1220387340,KCNU,PeakWindSpeed,53.0,milesPerHour
+1220388720,KCNU,PeakWindSpeed,53.0,milesPerHour
+1220390280,KCNU,PeakWindSpeed,0.0,milesPerHour
+1220392320,KCNU,PeakWindSpeed,0.0,milesPerHour
+1220392800,KCNU,PeakWindSpeed,0.0,milesPerHour
+1220394180,KCNU,PeakWindSpeed,0.0,milesPerHour
+1220395920,KCNU,PeakWindSpeed,0.0,milesPerHour
+1220396520,KCNU,PeakWindSpeed,0.0,milesPerHour
+1220397060,KCNU,PeakWindSpeed,0.0,milesPerHour
+1220397900,KCNU,PeakWindSpeed,0.0,milesPerHour
+1220399520,KCNU,PeakWindSpeed,0.0,milesPerHour

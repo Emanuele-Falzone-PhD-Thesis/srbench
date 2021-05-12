@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1253551920,NATL1,DewPoint,76.7,fahrenheit
+1253555520,NATL1,DewPoint,71.0,fahrenheit
+1253562720,NATL1,DewPoint,66.4,fahrenheit
+1253566320,NATL1,DewPoint,70.0,fahrenheit
+1253569920,NATL1,DewPoint,71.3,fahrenheit
+1253573520,NATL1,DewPoint,64.8,fahrenheit
+1253577120,NATL1,DewPoint,68.1,fahrenheit
+1253580720,NATL1,DewPoint,70.9,fahrenheit
+1253584320,NATL1,DewPoint,72.2,fahrenheit
+1253587920,NATL1,DewPoint,74.0,fahrenheit
+1253591520,NATL1,DewPoint,72.0,fahrenheit
+1253595120,NATL1,DewPoint,72.0,fahrenheit

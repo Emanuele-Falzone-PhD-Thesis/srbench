@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253490900,KTNU,AirTemperature,57.2,fahrenheit
+1253577300,KTNU,AirTemperature,62.6,fahrenheit

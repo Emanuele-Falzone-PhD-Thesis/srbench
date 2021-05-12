@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1124775000,AP229,Precipitation,0.2,centimeters
+1124776800,AP229,Precipitation,0.2,centimeters
+1124795700,AP229,Precipitation,1.0,centimeters

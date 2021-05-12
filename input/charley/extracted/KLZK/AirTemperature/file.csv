@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1092142200,KLZK,AirTemperature,92.8,fahrenheit
+1092145800,KLZK,AirTemperature,91.9,fahrenheit
+1092315000,KLZK,AirTemperature,73.8,fahrenheit
+1092318600,KLZK,AirTemperature,75.9,fahrenheit

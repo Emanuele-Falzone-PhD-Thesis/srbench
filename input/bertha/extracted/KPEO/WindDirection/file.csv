@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KPEO,WindDirection,0.0,degrees
+1253231580,KPEO,WindDirection,210.0,degrees
+1253317980,KPEO,WindDirection,350.0,degrees
+1253404380,KPEO,WindDirection,0.0,degrees
+1253490780,KPEO,WindDirection,220.0,degrees
+1253577180,KPEO,WindDirection,200.0,degrees

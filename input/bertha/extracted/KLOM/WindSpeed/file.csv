@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,KLOM,WindSpeed,13.0,milesPerHour
+1253232000,KLOM,WindSpeed,0.0,milesPerHour
+1253318400,KLOM,WindSpeed,0.0,milesPerHour
+1253404800,KLOM,WindSpeed,0.0,milesPerHour
+1253491200,KLOM,WindSpeed,0.0,milesPerHour
+1253577600,KLOM,WindSpeed,0.0,milesPerHour

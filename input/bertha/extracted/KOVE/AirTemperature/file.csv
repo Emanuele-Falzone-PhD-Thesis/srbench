@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KOVE,AirTemperature,73.0,fahrenheit
+1253231580,KOVE,AirTemperature,72.0,fahrenheit
+1253317980,KOVE,AirTemperature,79.0,fahrenheit
+1253404380,KOVE,AirTemperature,73.9,fahrenheit
+1253490780,KOVE,AirTemperature,72.0,fahrenheit
+1253577180,KOVE,AirTemperature,75.9,fahrenheit

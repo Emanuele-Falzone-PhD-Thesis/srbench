@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1220359320,DTLM4,AirTemperature,70.3,fahrenheit
+1220457600,DTLM4,AirTemperature,66.4,fahrenheit
+1220996520,DTLM4,AirTemperature,52.5,fahrenheit
+1221085800,DTLM4,AirTemperature,59.1,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAJC,WindSpeed,7.0,milesPerHour
+1253231760,PAJC,WindSpeed,0.0,milesPerHour
+1253318160,PAJC,WindSpeed,0.0,milesPerHour
+1253404560,PAJC,WindSpeed,0.0,milesPerHour
+1253490960,PAJC,WindSpeed,13.0,milesPerHour
+1253577360,PAJC,WindSpeed,14.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KEUL,AirTemperature,73.4,fahrenheit
+1253231700,KEUL,AirTemperature,66.2,fahrenheit
+1253318100,KEUL,AirTemperature,62.6,fahrenheit
+1253404500,KEUL,AirTemperature,66.2,fahrenheit
+1253490900,KEUL,AirTemperature,55.4,fahrenheit
+1253577300,KEUL,AirTemperature,48.2,fahrenheit

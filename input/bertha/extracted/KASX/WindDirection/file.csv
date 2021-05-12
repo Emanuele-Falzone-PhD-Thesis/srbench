@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KASX,WindDirection,0.0,degrees
+1253232000,KASX,WindDirection,0.0,degrees
+1253317980,KASX,WindDirection,0.0,degrees
+1253404380,KASX,WindDirection,210.0,degrees
+1253490780,KASX,WindDirection,170.0,degrees
+1253577540,KASX,WindDirection,0.0,degrees

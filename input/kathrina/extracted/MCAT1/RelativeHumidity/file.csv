@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1125082800,MCAT1,RelativeHumidity,75.0,percent
+1125086400,MCAT1,RelativeHumidity,86.0,percent
+1125090000,MCAT1,RelativeHumidity,91.0,percent
+1125093600,MCAT1,RelativeHumidity,84.0,percent
+1125097200,MCAT1,RelativeHumidity,92.0,percent
+1125100800,MCAT1,RelativeHumidity,94.0,percent
+1125104400,MCAT1,RelativeHumidity,96.0,percent
+1125108000,MCAT1,RelativeHumidity,98.0,percent

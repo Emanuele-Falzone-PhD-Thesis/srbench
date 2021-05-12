@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253122440,BGBO3,AirTemperature,82.0,fahrenheit
+1253126040,BGBO3,AirTemperature,79.0,fahrenheit
+1253302440,BGBO3,AirTemperature,79.0,fahrenheit
+1253536440,BGBO3,AirTemperature,67.0,fahrenheit
+1253561640,BGBO3,AirTemperature,68.0,fahrenheit

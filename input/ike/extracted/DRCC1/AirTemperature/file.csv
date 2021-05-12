@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1220256300,DRCC1,AirTemperature,35.0,fahrenheit
+1220299200,DRCC1,AirTemperature,0.0,fahrenheit

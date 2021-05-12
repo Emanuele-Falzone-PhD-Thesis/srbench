@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253174400,STPC2,PrecipitationSmoothed,29.7,centimeters
+1253260800,STPC2,PrecipitationSmoothed,30.0,centimeters
+1253520000,STPC2,PrecipitationSmoothed,30.4,centimeters
+1253088000,STPC2,PrecipitationSmoothed,29.4,centimeters
+1253347200,STPC2,PrecipitationSmoothed,30.3,centimeters
+1253433600,STPC2,PrecipitationSmoothed,30.4,centimeters

@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1124805600,WYSM8,AirTemperature,72.0,fahrenheit
+1124881200,WYSM8,AirTemperature,59.0,fahrenheit
+1124967600,WYSM8,AirTemperature,58.0,fahrenheit
+1125043200,WYSM8,AirTemperature,39.0,fahrenheit
+1125118800,WYSM8,AirTemperature,33.0,fahrenheit
+1125129600,WYSM8,AirTemperature,42.0,fahrenheit
+1125140400,WYSM8,AirTemperature,64.0,fahrenheit
+1125151200,WYSM8,AirTemperature,76.0,fahrenheit
+1125205200,WYSM8,AirTemperature,34.0,fahrenheit
+1125248400,WYSM8,AirTemperature,79.0,fahrenheit

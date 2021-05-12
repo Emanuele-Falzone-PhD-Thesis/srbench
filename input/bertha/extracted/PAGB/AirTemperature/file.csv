@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253184600,PAGB,AirTemperature,32.0,fahrenheit
+1253281680,PAGB,AirTemperature,26.6,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYRV,AirTemperature,59.0,fahrenheit
+1253232000,CYRV,AirTemperature,53.6,fahrenheit
+1253318400,CYRV,AirTemperature,51.8,fahrenheit
+1253404800,CYRV,AirTemperature,51.8,fahrenheit
+1253491200,CYRV,AirTemperature,42.8,fahrenheit
+1253577600,CYRV,AirTemperature,46.4,fahrenheit

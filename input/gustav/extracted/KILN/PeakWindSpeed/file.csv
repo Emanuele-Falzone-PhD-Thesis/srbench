@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1220046840,KILN,PeakWindSpeed,0.0,milesPerHour
+1220050440,KILN,PeakWindSpeed,0.0,milesPerHour
+1220054040,KILN,PeakWindSpeed,0.0,milesPerHour

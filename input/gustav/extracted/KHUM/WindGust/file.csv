@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1219643700,KHUM,WindGust,0.0,milesPerHour
+1219647000,KHUM,WindGust,0.0,milesPerHour
+1219650600,KHUM,WindGust,0.0,milesPerHour
+1219654200,KHUM,WindGust,0.0,milesPerHour
+1219657800,KHUM,WindGust,0.0,milesPerHour
+1219661700,KHUM,WindGust,0.0,milesPerHour
+1219665000,KHUM,WindGust,0.0,milesPerHour
+1219668720,KHUM,WindGust,0.0,milesPerHour
+1219672200,KHUM,WindGust,21.0,milesPerHour
+1219675800,KHUM,WindGust,23.0,milesPerHour
+1219679400,KHUM,WindGust,23.0,milesPerHour
+1219683120,KHUM,WindGust,20.0,milesPerHour
+1219686600,KHUM,WindGust,0.0,milesPerHour
+1219690200,KHUM,WindGust,0.0,milesPerHour

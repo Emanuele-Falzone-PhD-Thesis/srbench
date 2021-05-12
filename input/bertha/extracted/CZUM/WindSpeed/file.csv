@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CZUM,WindSpeed,7.0,milesPerHour
+1253232000,CZUM,WindSpeed,6.0,milesPerHour
+1253318400,CZUM,WindSpeed,18.0,milesPerHour
+1253404800,CZUM,WindSpeed,3.0,milesPerHour
+1253491200,CZUM,WindSpeed,5.0,milesPerHour
+1253577600,CZUM,WindSpeed,6.0,milesPerHour

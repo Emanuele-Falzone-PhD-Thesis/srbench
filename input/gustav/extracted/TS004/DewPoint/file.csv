@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1220109840,TS004,DewPoint,22.8,fahrenheit
+1220113440,TS004,DewPoint,26.3,fahrenheit
+1220117040,TS004,DewPoint,25.1,fahrenheit
+1220120640,TS004,DewPoint,22.8,fahrenheit
+1220124240,TS004,DewPoint,24.0,fahrenheit
+1220127840,TS004,DewPoint,23.4,fahrenheit
+1220131440,TS004,DewPoint,30.8,fahrenheit
+1220135040,TS004,DewPoint,32.4,fahrenheit
+1220138640,TS004,DewPoint,32.7,fahrenheit

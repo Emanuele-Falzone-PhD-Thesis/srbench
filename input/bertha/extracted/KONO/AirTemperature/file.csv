@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KONO,AirTemperature,68.0,fahrenheit
+1253231580,KONO,AirTemperature,71.1,fahrenheit
+1253317980,KONO,AirTemperature,63.0,fahrenheit
+1253404380,KONO,AirTemperature,69.1,fahrenheit
+1253490780,KONO,AirTemperature,57.9,fahrenheit
+1253577180,KONO,AirTemperature,48.9,fahrenheit

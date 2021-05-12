@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1124775600,KMLD,Precipitation,0.0,centimeters
+1124783100,KMLD,Precipitation,0.1,centimeters
+1124786700,KMLD,Precipitation,0.0,centimeters

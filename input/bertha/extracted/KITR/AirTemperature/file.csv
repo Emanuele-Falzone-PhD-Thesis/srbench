@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KITR,AirTemperature,52.0,fahrenheit
+1253231580,KITR,AirTemperature,52.0,fahrenheit
+1253317980,KITR,AirTemperature,52.0,fahrenheit
+1253404380,KITR,AirTemperature,55.0,fahrenheit
+1253490780,KITR,AirTemperature,59.0,fahrenheit
+1253577180,KITR,AirTemperature,46.0,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PABT,WindDirection,60.0,degrees
+1253227980,PABT,WindDirection,0.0,degrees
+1253317980,PABT,WindDirection,20.0,degrees
+1253404380,PABT,WindDirection,350.0,degrees
+1253490780,PABT,WindDirection,40.0,degrees
+1253577180,PABT,WindDirection,60.0,degrees

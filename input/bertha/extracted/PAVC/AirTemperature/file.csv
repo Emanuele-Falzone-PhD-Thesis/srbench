@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAVC,AirTemperature,50.9,fahrenheit
+1253231760,PAVC,AirTemperature,47.8,fahrenheit
+1253318160,PAVC,AirTemperature,45.0,fahrenheit
+1253404560,PAVC,AirTemperature,46.4,fahrenheit
+1253490960,PAVC,AirTemperature,47.8,fahrenheit
+1253577360,PAVC,AirTemperature,45.9,fahrenheit

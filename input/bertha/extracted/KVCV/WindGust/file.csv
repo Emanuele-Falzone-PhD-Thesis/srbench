@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1253544600,KVCV,WindGust,21.0,milesPerHour

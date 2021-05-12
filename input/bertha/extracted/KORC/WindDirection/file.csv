@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KORC,WindDirection,70.0,degrees
+1253231700,KORC,WindDirection,0.0,degrees
+1253318100,KORC,WindDirection,0.0,degrees
+1253404500,KORC,WindDirection,150.0,degrees
+1253490900,KORC,WindDirection,150.0,degrees
+1253577300,KORC,WindDirection,0.0,degrees

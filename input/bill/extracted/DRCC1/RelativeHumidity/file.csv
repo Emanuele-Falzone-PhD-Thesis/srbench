@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253593200,DRCC1,RelativeHumidity,0.0,percent
+1253597400,DRCC1,RelativeHumidity,12.0,percent

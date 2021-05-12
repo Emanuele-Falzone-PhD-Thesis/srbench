@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1092322500,AP509,WindDirection,87.0,degrees
+1092323100,AP509,WindDirection,178.0,degrees
+1092411900,AP509,WindDirection,261.0,degrees
+1092413100,AP509,WindDirection,212.0,degrees
+1092414600,AP509,WindDirection,192.0,degrees
+1092417300,AP509,WindDirection,137.0,degrees
+1092417900,AP509,WindDirection,137.0,degrees
+1092421200,AP509,WindDirection,206.0,degrees
+1092421800,AP509,WindDirection,185.0,degrees
+1092423000,AP509,WindDirection,209.0,degrees

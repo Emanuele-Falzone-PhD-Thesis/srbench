@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,BAC,DewPoint,46.2,fahrenheit
+1253232000,BAC,DewPoint,45.4,fahrenheit
+1253318400,BAC,DewPoint,35.5,fahrenheit
+1253404800,BAC,DewPoint,46.5,fahrenheit
+1253491200,BAC,DewPoint,21.4,fahrenheit
+1253577600,BAC,DewPoint,21.0,fahrenheit

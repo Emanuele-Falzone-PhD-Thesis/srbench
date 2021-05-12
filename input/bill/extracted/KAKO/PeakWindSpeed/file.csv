@@ -1,0 +1,17 @@
+timestamp,sensorId,property,value,unit
+1253555580,KAKO,PeakWindSpeed,30.0,milesPerHour
+1253557320,KAKO,PeakWindSpeed,40.0,milesPerHour
+1253558220,KAKO,PeakWindSpeed,40.0,milesPerHour
+1253559180,KAKO,PeakWindSpeed,40.0,milesPerHour
+1253560740,KAKO,PeakWindSpeed,32.0,milesPerHour
+1253562780,KAKO,PeakWindSpeed,32.0,milesPerHour
+1253566380,KAKO,PeakWindSpeed,31.0,milesPerHour
+1253569980,KAKO,PeakWindSpeed,0.0,milesPerHour
+1253573580,KAKO,PeakWindSpeed,37.0,milesPerHour
+1253577180,KAKO,PeakWindSpeed,36.0,milesPerHour
+1253580780,KAKO,PeakWindSpeed,0.0,milesPerHour
+1253584380,KAKO,PeakWindSpeed,33.0,milesPerHour
+1253587980,KAKO,PeakWindSpeed,35.0,milesPerHour
+1253591580,KAKO,PeakWindSpeed,0.0,milesPerHour
+1253595180,KAKO,PeakWindSpeed,0.0,milesPerHour
+1253598780,KAKO,PeakWindSpeed,0.0,milesPerHour

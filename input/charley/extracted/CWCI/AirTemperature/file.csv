@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1092408600,CWCI,AirTemperature,59.0,fahrenheit
+1092412200,CWCI,AirTemperature,59.0,fahrenheit
+1092415800,CWCI,AirTemperature,59.0,fahrenheit
+1092426600,CWCI,AirTemperature,55.4,fahrenheit
+1092427200,CWCI,AirTemperature,107.6,fahrenheit
+1092433800,CWCI,AirTemperature,55.4,fahrenheit
+1092437400,CWCI,AirTemperature,55.4,fahrenheit
+1092441000,CWCI,AirTemperature,53.6,fahrenheit

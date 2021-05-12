@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1219552380,AR184,WindGust,49.0,milesPerHour
+1219644660,AR184,WindGust,49.0,milesPerHour
+1219646460,AR184,WindGust,49.0,milesPerHour
+1219647660,AR184,WindGust,49.0,milesPerHour
+1219648260,AR184,WindGust,49.0,milesPerHour
+1219706460,AR184,WindGust,49.0,milesPerHour
+1219716060,AR184,WindGust,49.0,milesPerHour
+1219732860,AR184,WindGust,49.0,milesPerHour
+1219815180,AR184,WindGust,49.0,milesPerHour
+1220068860,AR184,WindGust,49.0,milesPerHour
+1220070060,AR184,WindGust,49.0,milesPerHour
+1220081640,AR184,WindGust,49.0,milesPerHour
+1220082660,AR184,WindGust,49.0,milesPerHour
+1220090460,AR184,WindGust,49.0,milesPerHour

@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253144700,KOSA,DewPoint,69.4,fahrenheit
+1253231100,KOSA,DewPoint,70.0,fahrenheit
+1253317500,KOSA,DewPoint,69.1,fahrenheit
+1253401500,KOSA,DewPoint,70.7,fahrenheit
+1253402700,KOSA,DewPoint,69.1,fahrenheit
+1253403900,KOSA,DewPoint,69.3,fahrenheit
+1253490300,KOSA,DewPoint,71.1,fahrenheit
+1253576700,KOSA,DewPoint,72.0,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PPIZ,AirTemperature,34.0,fahrenheit
+1253231760,PPIZ,AirTemperature,36.9,fahrenheit
+1253318160,PPIZ,AirTemperature,36.0,fahrenheit
+1253404560,PPIZ,AirTemperature,32.0,fahrenheit
+1253490960,PPIZ,AirTemperature,31.1,fahrenheit
+1253577360,PPIZ,AirTemperature,28.0,fahrenheit

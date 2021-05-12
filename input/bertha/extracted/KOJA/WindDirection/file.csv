@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145000,KOJA,WindDirection,360.0,degrees
+1253231100,KOJA,WindDirection,10.0,degrees
+1253317500,KOJA,WindDirection,0.0,degrees
+1253403900,KOJA,WindDirection,0.0,degrees
+1253490300,KOJA,WindDirection,160.0,degrees
+1253576700,KOJA,WindDirection,350.0,degrees

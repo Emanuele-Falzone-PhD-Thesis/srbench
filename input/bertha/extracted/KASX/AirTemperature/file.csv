@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KASX,AirTemperature,50.0,fahrenheit
+1253232000,KASX,AirTemperature,59.0,fahrenheit
+1253317980,KASX,AirTemperature,46.0,fahrenheit
+1253404380,KASX,AirTemperature,61.0,fahrenheit
+1253490780,KASX,AirTemperature,62.1,fahrenheit
+1253577540,KASX,AirTemperature,55.4,fahrenheit

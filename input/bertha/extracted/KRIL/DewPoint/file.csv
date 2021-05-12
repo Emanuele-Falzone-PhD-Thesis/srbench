@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KRIL,DewPoint,50.0,fahrenheit
+1253231580,KRIL,DewPoint,46.9,fahrenheit
+1253317980,KRIL,DewPoint,43.0,fahrenheit
+1253404380,KRIL,DewPoint,44.1,fahrenheit
+1253490780,KRIL,DewPoint,46.9,fahrenheit
+1253577180,KRIL,DewPoint,25.0,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253174400,STPC2,AirTemperature,39.6,fahrenheit
+1253260800,STPC2,AirTemperature,38.3,fahrenheit
+1253520000,STPC2,AirTemperature,42.1,fahrenheit
+1253088000,STPC2,AirTemperature,42.4,fahrenheit
+1253347200,STPC2,AirTemperature,36.0,fahrenheit
+1253433600,STPC2,AirTemperature,39.7,fahrenheit

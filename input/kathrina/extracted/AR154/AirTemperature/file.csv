@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1125260700,AR154,AirTemperature,79.0,fahrenheit
+1125261900,AR154,AirTemperature,78.0,fahrenheit
+1125262500,AR154,AirTemperature,77.0,fahrenheit
+1125263700,AR154,AirTemperature,77.0,fahrenheit
+1125264300,AR154,AirTemperature,77.0,fahrenheit
+1125265500,AR154,AirTemperature,76.0,fahrenheit
+1125266100,AR154,AirTemperature,76.0,fahrenheit
+1125267300,AR154,AirTemperature,76.0,fahrenheit
+1125267900,AR154,AirTemperature,76.0,fahrenheit
+1125269100,AR154,AirTemperature,75.0,fahrenheit
+1125269700,AR154,AirTemperature,76.0,fahrenheit
+1125270900,AR154,AirTemperature,76.0,fahrenheit
+1125271500,AR154,AirTemperature,76.0,fahrenheit
+1125272700,AR154,AirTemperature,75.0,fahrenheit
+1125273300,AR154,AirTemperature,75.0,fahrenheit

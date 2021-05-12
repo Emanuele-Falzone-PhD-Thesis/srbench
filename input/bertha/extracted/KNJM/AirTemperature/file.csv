@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253231820,KNJM,AirTemperature,0.0,fahrenheit
+1253318220,KNJM,AirTemperature,1.0,fahrenheit
+1253404620,KNJM,AirTemperature,0.0,fahrenheit
+1253577420,KNJM,AirTemperature,1.0,fahrenheit

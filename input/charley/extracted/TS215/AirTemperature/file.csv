@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1092394500,TS215,AirTemperature,69.0,fahrenheit
+1092398100,TS215,AirTemperature,72.0,fahrenheit
+1092401700,TS215,AirTemperature,70.0,fahrenheit
+1092405300,TS215,AirTemperature,67.0,fahrenheit
+1092408900,TS215,AirTemperature,67.0,fahrenheit
+1092412500,TS215,AirTemperature,65.0,fahrenheit
+1092416100,TS215,AirTemperature,63.0,fahrenheit
+1092419700,TS215,AirTemperature,61.0,fahrenheit
+1092423300,TS215,AirTemperature,60.0,fahrenheit
+1092426900,TS215,AirTemperature,57.0,fahrenheit
+1092430500,TS215,AirTemperature,54.0,fahrenheit
+1092434100,TS215,AirTemperature,51.0,fahrenheit
+1092437700,TS215,AirTemperature,49.0,fahrenheit
+1092441300,TS215,AirTemperature,48.0,fahrenheit

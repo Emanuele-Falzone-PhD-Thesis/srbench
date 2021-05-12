@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1253144700,KSAR,AirTemperature,68.0,fahrenheit
+1253229900,KSAR,AirTemperature,66.2,fahrenheit
+1253231100,KSAR,AirTemperature,64.4,fahrenheit
+1253317500,KSAR,AirTemperature,62.6,fahrenheit
+1253403900,KSAR,AirTemperature,69.8,fahrenheit
+1253490300,KSAR,AirTemperature,68.0,fahrenheit
+1253576700,KSAR,AirTemperature,71.6,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253137500,MMDO,AirTemperature,71.6,fahrenheit
+1253224020,MMDO,AirTemperature,59.0,fahrenheit
+1253317440,MMDO,AirTemperature,62.6,fahrenheit
+1253404500,MMDO,AirTemperature,60.8,fahrenheit
+1253483340,MMDO,AirTemperature,60.8,fahrenheit
+1253569380,MMDO,AirTemperature,62.6,fahrenheit

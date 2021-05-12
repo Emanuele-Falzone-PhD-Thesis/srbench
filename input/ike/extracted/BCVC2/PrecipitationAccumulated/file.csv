@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1220148000,BCVC2,PrecipitationAccumulated,28.5,centimeters
+1220234400,BCVC2,PrecipitationAccumulated,28.5,centimeters
+1220320800,BCVC2,PrecipitationAccumulated,6.4,centimeters
+1220407200,BCVC2,PrecipitationAccumulated,28.7,centimeters
+1220493600,BCVC2,PrecipitationAccumulated,28.7,centimeters
+1220580000,BCVC2,PrecipitationAccumulated,28.8,centimeters
+1220666400,BCVC2,PrecipitationAccumulated,28.7,centimeters
+1220752800,BCVC2,PrecipitationAccumulated,7.3,centimeters
+1220839200,BCVC2,PrecipitationAccumulated,7.5,centimeters
+1220925600,BCVC2,PrecipitationAccumulated,28.7,centimeters
+1221012000,BCVC2,PrecipitationAccumulated,28.8,centimeters
+1221098400,BCVC2,PrecipitationAccumulated,28.8,centimeters
+1221184800,BCVC2,PrecipitationAccumulated,29.3,centimeters
+1221271200,BCVC2,PrecipitationAccumulated,29.5,centimeters

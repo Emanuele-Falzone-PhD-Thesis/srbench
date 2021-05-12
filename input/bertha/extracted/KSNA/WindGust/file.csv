@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1253490780,KSNA,WindGust,0.0,milesPerHour

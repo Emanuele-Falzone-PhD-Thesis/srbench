@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1125239400,TR236,WindSpeed,2.0,milesPerHour
+1125243000,TR236,WindSpeed,2.0,milesPerHour
+1125246600,TR236,WindSpeed,0.0,milesPerHour
+1125250200,TR236,WindSpeed,2.0,milesPerHour
+1125253800,TR236,WindSpeed,3.0,milesPerHour
+1125257400,TR236,WindSpeed,3.0,milesPerHour
+1125261000,TR236,WindSpeed,0.0,milesPerHour
+1125264600,TR236,WindSpeed,5.0,milesPerHour
+1125268200,TR236,WindSpeed,2.0,milesPerHour
+1125271800,TR236,WindSpeed,0.0,milesPerHour

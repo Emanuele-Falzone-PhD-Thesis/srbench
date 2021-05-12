@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1091970000,AP785,WindGust,15.0,milesPerHour
+1092006600,AP785,WindGust,3.0,milesPerHour
+1092009300,AP785,WindGust,2.0,milesPerHour
+1092012000,AP785,WindGust,2.0,milesPerHour
+1092012900,AP785,WindGust,1.0,milesPerHour
+1092030900,AP785,WindGust,5.0,milesPerHour
+1092101400,AP785,WindGust,2.0,milesPerHour
+1092102300,AP785,WindGust,2.0,milesPerHour
+1092105000,AP785,WindGust,1.0,milesPerHour
+1092286200,AP785,WindGust,1.0,milesPerHour

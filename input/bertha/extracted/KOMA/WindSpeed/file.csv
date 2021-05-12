@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145120,KOMA,WindSpeed,0.0,milesPerHour
+1253231520,KOMA,WindSpeed,5.0,milesPerHour
+1253317920,KOMA,WindSpeed,3.0,milesPerHour
+1253404320,KOMA,WindSpeed,0.0,milesPerHour
+1253490720,KOMA,WindSpeed,15.0,milesPerHour
+1253577120,KOMA,WindSpeed,5.0,milesPerHour

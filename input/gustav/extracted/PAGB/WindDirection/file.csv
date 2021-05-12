@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219908000,PAGB,WindDirection,340.0,degrees
+1219909800,PAGB,WindDirection,350.0,degrees
+1219913400,PAGB,WindDirection,0.0,degrees
+1219917000,PAGB,WindDirection,160.0,degrees
+1219920600,PAGB,WindDirection,0.0,degrees
+1219924200,PAGB,WindDirection,280.0,degrees
+1219927920,PAGB,WindDirection,330.0,degrees

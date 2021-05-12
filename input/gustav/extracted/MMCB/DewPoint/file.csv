@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1219560660,MMCB,DewPoint,59.0,fahrenheit
+1219562220,MMCB,DewPoint,59.0,fahrenheit
+1219648620,MMCB,DewPoint,62.6,fahrenheit
+1219652160,MMCB,DewPoint,62.6,fahrenheit
+1219655400,MMCB,DewPoint,64.4,fahrenheit
+1219669800,MMCB,DewPoint,62.6,fahrenheit
+1219905840,MMCB,DewPoint,60.8,fahrenheit
+1219917720,MMCB,DewPoint,0.0,fahrenheit
+1219922640,MMCB,DewPoint,64.4,fahrenheit
+1219994400,MMCB,DewPoint,62.6,fahrenheit
+1220079060,MMCB,DewPoint,59.0,fahrenheit

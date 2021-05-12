@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1092416700,KTPA,PeakWindSpeed,0.0,milesPerHour
+1092417900,KTPA,PeakWindSpeed,0.0,milesPerHour
+1092419400,KTPA,PeakWindSpeed,0.0,milesPerHour
+1092423000,KTPA,PeakWindSpeed,30.0,milesPerHour
+1092426600,KTPA,PeakWindSpeed,0.0,milesPerHour
+1092430200,KTPA,PeakWindSpeed,0.0,milesPerHour
+1092433800,KTPA,PeakWindSpeed,0.0,milesPerHour
+1092437400,KTPA,PeakWindSpeed,0.0,milesPerHour
+1092441000,KTPA,PeakWindSpeed,0.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1092114000,CWGP,WindSpeed,0.0,milesPerHour
+1092117600,CWGP,WindSpeed,0.0,milesPerHour
+1092121200,CWGP,WindSpeed,0.0,milesPerHour
+1092124800,CWGP,WindSpeed,0.0,milesPerHour
+1092128400,CWGP,WindSpeed,2.0,milesPerHour
+1092132000,CWGP,WindSpeed,5.0,milesPerHour

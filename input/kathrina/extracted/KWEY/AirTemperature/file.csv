@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1124778300,KWEY,AirTemperature,41.0,fahrenheit
+1124831700,KWEY,AirTemperature,64.4,fahrenheit
+1124865900,KWEY,AirTemperature,44.6,fahrenheit
+1124873100,KWEY,AirTemperature,55.4,fahrenheit
+1124905500,KWEY,AirTemperature,66.2,fahrenheit
+1124951700,KWEY,AirTemperature,24.8,fahrenheit
+1124991300,KWEY,AirTemperature,69.8,fahrenheit
+1125002700,KWEY,AirTemperature,50.0,fahrenheit
+1125036300,KWEY,AirTemperature,24.8,fahrenheit
+1125045000,KWEY,AirTemperature,42.8,fahrenheit
+1125250800,KWEY,AirTemperature,78.8,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144700,KBEA,AirTemperature,77.9,fahrenheit
+1253231100,KBEA,AirTemperature,74.5,fahrenheit
+1253317500,KBEA,AirTemperature,76.3,fahrenheit
+1253403900,KBEA,AirTemperature,77.4,fahrenheit
+1253490300,KBEA,AirTemperature,79.9,fahrenheit
+1253576700,KBEA,AirTemperature,81.0,fahrenheit

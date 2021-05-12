@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145480,KVTP,AirTemperature,42.8,fahrenheit
+1253231880,KVTP,AirTemperature,42.8,fahrenheit
+1253318280,KVTP,AirTemperature,42.8,fahrenheit
+1253404680,KVTP,AirTemperature,42.8,fahrenheit
+1253491080,KVTP,AirTemperature,39.2,fahrenheit
+1253501340,KVTP,AirTemperature,39.2,fahrenheit

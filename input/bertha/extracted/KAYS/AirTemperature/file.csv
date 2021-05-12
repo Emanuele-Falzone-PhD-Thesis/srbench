@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,KAYS,AirTemperature,77.0,fahrenheit
+1253232000,KAYS,AirTemperature,77.0,fahrenheit
+1253318400,KAYS,AirTemperature,75.2,fahrenheit
+1253404800,KAYS,AirTemperature,78.8,fahrenheit
+1253491200,KAYS,AirTemperature,77.0,fahrenheit
+1253577600,KAYS,AirTemperature,75.2,fahrenheit

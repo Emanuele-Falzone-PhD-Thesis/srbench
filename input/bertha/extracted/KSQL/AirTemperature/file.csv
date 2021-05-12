@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253134020,KSQL,AirTemperature,68.0,fahrenheit
+1253220420,KSQL,AirTemperature,71.6,fahrenheit
+1253306820,KSQL,AirTemperature,73.4,fahrenheit
+1253393400,KSQL,AirTemperature,64.4,fahrenheit
+1253480100,KSQL,AirTemperature,64.4,fahrenheit
+1253566020,KSQL,AirTemperature,64.4,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYNE,WindDirection,320.0,degrees
+1253232000,CYNE,WindDirection,110.0,degrees
+1253318400,CYNE,WindDirection,270.0,degrees
+1253404800,CYNE,WindDirection,150.0,degrees
+1253491200,CYNE,WindDirection,250.0,degrees
+1253577600,CYNE,WindDirection,230.0,degrees

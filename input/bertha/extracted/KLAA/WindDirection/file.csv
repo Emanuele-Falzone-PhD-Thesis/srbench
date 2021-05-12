@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KLAA,WindDirection,0.0,degrees
+1253231580,KLAA,WindDirection,0.0,degrees
+1253317980,KLAA,WindDirection,140.0,degrees
+1253404380,KLAA,WindDirection,150.0,degrees
+1253490780,KLAA,WindDirection,20.0,degrees
+1253577180,KLAA,WindDirection,350.0,degrees

@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1091951700,KO87,AirTemperature,60.8,fahrenheit
+1091962500,KO87,AirTemperature,66.2,fahrenheit
+1091984100,KO87,AirTemperature,64.4,fahrenheit
+1092038100,KO87,AirTemperature,57.2,fahrenheit
+1092048900,KO87,AirTemperature,60.8,fahrenheit
+1092070500,KO87,AirTemperature,68.0,fahrenheit
+1092124500,KO87,AirTemperature,59.0,fahrenheit
+1092135300,KO87,AirTemperature,60.8,fahrenheit
+1092146100,KO87,AirTemperature,64.4,fahrenheit
+1092156900,KO87,AirTemperature,69.8,fahrenheit
+1092210900,KO87,AirTemperature,57.2,fahrenheit
+1092221700,KO87,AirTemperature,62.6,fahrenheit
+1092243300,KO87,AirTemperature,64.4,fahrenheit
+1092297300,KO87,AirTemperature,57.2,fahrenheit
+1092308100,KO87,AirTemperature,57.2,fahrenheit

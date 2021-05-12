@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,KGWW,AirTemperature,69.3,fahrenheit
+1253232000,KGWW,AirTemperature,68.9,fahrenheit
+1253318400,KGWW,AirTemperature,64.8,fahrenheit
+1253404800,KGWW,AirTemperature,66.2,fahrenheit
+1253491200,KGWW,AirTemperature,64.6,fahrenheit
+1253577600,KGWW,AirTemperature,70.3,fahrenheit

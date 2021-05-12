@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1124758800,FMRM7,WindSpeed,6.0,milesPerHour
+1124762400,FMRM7,WindSpeed,7.0,milesPerHour
+1124766000,FMRM7,WindSpeed,6.0,milesPerHour
+1124769600,FMRM7,WindSpeed,7.0,milesPerHour
+1124773200,FMRM7,WindSpeed,5.0,milesPerHour

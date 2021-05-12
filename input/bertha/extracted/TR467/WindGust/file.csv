@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145540,TR467,WindGust,7.0,milesPerHour
+1253231940,TR467,WindGust,7.0,milesPerHour
+1253318340,TR467,WindGust,7.0,milesPerHour
+1253404740,TR467,WindGust,21.0,milesPerHour
+1253491140,TR467,WindGust,23.0,milesPerHour
+1253577540,TR467,WindGust,11.0,milesPerHour

@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1219561080,K4CR,AirTemperature,55.4,fahrenheit
+1219600680,K4CR,AirTemperature,75.2,fahrenheit
+1219647480,K4CR,AirTemperature,53.6,fahrenheit
+1219687080,K4CR,AirTemperature,78.8,fahrenheit
+1219733880,K4CR,AirTemperature,60.8,fahrenheit
+1219773480,K4CR,AirTemperature,80.6,fahrenheit
+1219859880,K4CR,AirTemperature,71.6,fahrenheit
+1219906680,K4CR,AirTemperature,57.2,fahrenheit
+1219946280,K4CR,AirTemperature,64.4,fahrenheit
+1219993080,K4CR,AirTemperature,59.0,fahrenheit
+1220032680,K4CR,AirTemperature,69.8,fahrenheit
+1220079480,K4CR,AirTemperature,55.4,fahrenheit
+1220119080,K4CR,AirTemperature,62.6,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CZUM,DewPoint,32.0,fahrenheit
+1253232000,CZUM,DewPoint,32.0,fahrenheit
+1253318400,CZUM,DewPoint,35.6,fahrenheit
+1253404800,CZUM,DewPoint,32.0,fahrenheit
+1253491200,CZUM,DewPoint,41.0,fahrenheit
+1253577600,CZUM,DewPoint,55.4,fahrenheit

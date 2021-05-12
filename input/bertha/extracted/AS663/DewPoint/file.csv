@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1253149920,AS663,DewPoint,47.2,fahrenheit
+1253151240,AS663,DewPoint,47.2,fahrenheit
+1253509860,AS663,DewPoint,37.5,fahrenheit
+1253514540,AS663,DewPoint,36.5,fahrenheit
+1253517060,AS663,DewPoint,37.5,fahrenheit
+1253517720,AS663,DewPoint,37.5,fahrenheit
+1253552520,AS663,DewPoint,55.0,fahrenheit

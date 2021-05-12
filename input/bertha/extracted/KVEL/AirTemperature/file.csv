@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KVEL,AirTemperature,57.0,fahrenheit
+1253231580,KVEL,AirTemperature,57.9,fahrenheit
+1253317980,KVEL,AirTemperature,59.0,fahrenheit
+1253404380,KVEL,AirTemperature,55.0,fahrenheit
+1253490780,KVEL,AirTemperature,50.0,fahrenheit
+1253577180,KVEL,AirTemperature,41.0,fahrenheit

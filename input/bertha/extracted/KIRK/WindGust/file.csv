@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253145300,KIRK,WindGust,0.0,milesPerHour
+1253231700,KIRK,WindGust,0.0,milesPerHour
+1253404500,KIRK,WindGust,0.0,milesPerHour
+1253577300,KIRK,WindGust,0.0,milesPerHour

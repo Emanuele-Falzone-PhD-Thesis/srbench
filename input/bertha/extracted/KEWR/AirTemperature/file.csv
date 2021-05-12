@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KEWR,AirTemperature,64.9,fahrenheit
+1253231460,KEWR,AirTemperature,57.0,fahrenheit
+1253317860,KEWR,AirTemperature,66.0,fahrenheit
+1253404260,KEWR,AirTemperature,60.1,fahrenheit
+1253490660,KEWR,AirTemperature,59.0,fahrenheit
+1253577060,KEWR,AirTemperature,66.0,fahrenheit

@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1092398400,MTRA2,AirTemperature,66.9,fahrenheit
+1092423600,MTRA2,AirTemperature,68.0,fahrenheit

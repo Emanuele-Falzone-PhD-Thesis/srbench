@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1219543500,JAKW3,WindDirection,330.0,degrees
+1219557900,JAKW3,WindDirection,330.0,degrees
+1219586700,JAKW3,WindDirection,305.0,degrees
+1219601100,JAKW3,WindDirection,25.0,degrees
+1219615500,JAKW3,WindDirection,340.0,degrees
+1219658700,JAKW3,WindDirection,60.0,degrees
+1219673100,JAKW3,WindDirection,75.0,degrees
+1219687500,JAKW3,WindDirection,55.0,degrees
+1219730700,JAKW3,WindDirection,15.0,degrees
+1219745100,JAKW3,WindDirection,80.0,degrees
+1219773900,JAKW3,WindDirection,85.0,degrees
+1219788300,JAKW3,WindDirection,15.0,degrees
+1219802700,JAKW3,WindDirection,10.0,degrees

@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1253471280,KNSI,WindGust,20.0,milesPerHour

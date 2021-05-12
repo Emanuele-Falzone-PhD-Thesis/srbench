@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1253066400,NESA2,AirTemperature,33.1,fahrenheit
+1253070000,NESA2,AirTemperature,46.2,fahrenheit
+1253073600,NESA2,AirTemperature,53.4,fahrenheit
+1253077200,NESA2,AirTemperature,44.8,fahrenheit
+1253080800,NESA2,AirTemperature,43.2,fahrenheit
+1253084400,NESA2,AirTemperature,43.3,fahrenheit
+1253088000,NESA2,AirTemperature,52.5,fahrenheit
+1253091600,NESA2,AirTemperature,57.6,fahrenheit
+1253095200,NESA2,AirTemperature,61.7,fahrenheit
+1253102400,NESA2,AirTemperature,32.4,fahrenheit
+1253134800,NESA2,AirTemperature,54.3,fahrenheit
+1253142000,NESA2,AirTemperature,59.2,fahrenheit
+1253145600,NESA2,AirTemperature,58.6,fahrenheit
+1253188800,NESA2,AirTemperature,58.6,fahrenheit

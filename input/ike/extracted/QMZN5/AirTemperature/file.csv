@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1220148000,QMZN5,AirTemperature,49.5,fahrenheit
+1220234400,QMZN5,AirTemperature,90.7,fahrenheit
+1220320800,QMZN5,AirTemperature,125.1,fahrenheit
+1220407200,QMZN5,AirTemperature,42.3,fahrenheit
+1220493600,QMZN5,AirTemperature,42.1,fahrenheit
+1220580000,QMZN5,AirTemperature,45.1,fahrenheit
+1220666400,QMZN5,AirTemperature,46.6,fahrenheit
+1220752800,QMZN5,AirTemperature,68.2,fahrenheit
+1220839200,QMZN5,AirTemperature,69.3,fahrenheit
+1220925600,QMZN5,AirTemperature,42.1,fahrenheit
+1221012000,QMZN5,AirTemperature,46.0,fahrenheit
+1221098400,QMZN5,AirTemperature,42.8,fahrenheit
+1221184800,QMZN5,AirTemperature,46.6,fahrenheit
+1221271200,QMZN5,AirTemperature,40.3,fahrenheit

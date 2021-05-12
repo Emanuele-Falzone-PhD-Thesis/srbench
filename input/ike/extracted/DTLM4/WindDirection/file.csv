@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1220359320,DTLM4,WindDirection,175.0,degrees
+1220457600,DTLM4,WindDirection,331.0,degrees
+1220996520,DTLM4,WindDirection,307.0,degrees
+1221085800,DTLM4,WindDirection,151.0,degrees

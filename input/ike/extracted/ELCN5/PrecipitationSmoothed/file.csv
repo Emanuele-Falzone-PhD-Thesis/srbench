@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1220148000,ELCN5,PrecipitationSmoothed,21.1,centimeters
+1220234400,ELCN5,PrecipitationSmoothed,23.3,centimeters
+1220320800,ELCN5,PrecipitationSmoothed,23.3,centimeters
+1220407200,ELCN5,PrecipitationSmoothed,23.3,centimeters
+1220493600,ELCN5,PrecipitationSmoothed,23.3,centimeters
+1220580000,ELCN5,PrecipitationSmoothed,23.4,centimeters
+1220666400,ELCN5,PrecipitationSmoothed,23.4,centimeters
+1220752800,ELCN5,PrecipitationSmoothed,23.4,centimeters
+1220839200,ELCN5,PrecipitationSmoothed,23.4,centimeters
+1220925600,ELCN5,PrecipitationSmoothed,23.4,centimeters
+1221012000,ELCN5,PrecipitationSmoothed,23.4,centimeters
+1221098400,ELCN5,PrecipitationSmoothed,23.4,centimeters
+1221184800,ELCN5,PrecipitationSmoothed,23.4,centimeters
+1221271200,ELCN5,PrecipitationSmoothed,23.4,centimeters

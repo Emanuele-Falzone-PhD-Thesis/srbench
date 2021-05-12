@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KROS,AirTemperature,57.4,fahrenheit
+1253231640,KROS,AirTemperature,63.3,fahrenheit
+1253318040,KROS,AirTemperature,60.4,fahrenheit
+1253404440,KROS,AirTemperature,61.7,fahrenheit
+1253490840,KROS,AirTemperature,60.1,fahrenheit
+1253577240,KROS,AirTemperature,64.6,fahrenheit

@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1091970000,NS237,AirTemperature,35.0,fahrenheit
+1092142800,NS237,AirTemperature,36.0,fahrenheit
+1092315600,NS237,AirTemperature,35.0,fahrenheit
+1092402000,NS237,AirTemperature,35.0,fahrenheit

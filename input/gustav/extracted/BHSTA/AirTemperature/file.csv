@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1219654800,BHSTA,AirTemperature,55.0,fahrenheit
+1219658400,BHSTA,AirTemperature,56.0,fahrenheit

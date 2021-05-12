@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253142060,PADM,AirTemperature,47.8,fahrenheit
+1253228460,PADM,AirTemperature,47.8,fahrenheit
+1253314860,PADM,AirTemperature,39.9,fahrenheit
+1253401260,PADM,AirTemperature,48.9,fahrenheit
+1253487660,PADM,AirTemperature,43.9,fahrenheit
+1253574060,PADM,AirTemperature,34.0,fahrenheit

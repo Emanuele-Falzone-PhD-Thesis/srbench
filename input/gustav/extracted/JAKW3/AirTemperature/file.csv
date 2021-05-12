@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1219543500,JAKW3,AirTemperature,61.7,fahrenheit
+1219557900,JAKW3,AirTemperature,58.3,fahrenheit
+1219586700,JAKW3,AirTemperature,74.0,fahrenheit
+1219601100,JAKW3,AirTemperature,69.3,fahrenheit
+1219615500,JAKW3,AirTemperature,58.8,fahrenheit
+1219658700,JAKW3,AirTemperature,66.0,fahrenheit
+1219673100,JAKW3,AirTemperature,69.5,fahrenheit
+1219687500,JAKW3,AirTemperature,66.9,fahrenheit
+1219730700,JAKW3,AirTemperature,50.9,fahrenheit
+1219745100,JAKW3,AirTemperature,67.1,fahrenheit
+1219773900,JAKW3,AirTemperature,69.1,fahrenheit
+1219788300,JAKW3,AirTemperature,58.7,fahrenheit
+1219802700,JAKW3,AirTemperature,55.6,fahrenheit

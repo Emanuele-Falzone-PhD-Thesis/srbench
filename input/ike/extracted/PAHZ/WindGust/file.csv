@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1220165400,PAHZ,WindGust,0.0,milesPerHour
+1220172600,PAHZ,WindGust,0.0,milesPerHour
+1220179800,PAHZ,WindGust,0.0,milesPerHour
+1220187000,PAHZ,WindGust,0.0,milesPerHour
+1220194200,PAHZ,WindGust,0.0,milesPerHour
+1220201400,PAHZ,WindGust,21.0,milesPerHour
+1220208600,PAHZ,WindGust,0.0,milesPerHour
+1220215800,PAHZ,WindGust,0.0,milesPerHour
+1220219400,PAHZ,WindGust,0.0,milesPerHour
+1220223000,PAHZ,WindGust,0.0,milesPerHour

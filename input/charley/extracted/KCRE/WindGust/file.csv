@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1092333000,KCRE,WindGust,0.0,milesPerHour
+1092408600,KCRE,WindGust,0.0,milesPerHour
+1092419400,KCRE,WindGust,0.0,milesPerHour
+1092423000,KCRE,WindGust,0.0,milesPerHour
+1092426600,KCRE,WindGust,0.0,milesPerHour
+1092430200,KCRE,WindGust,0.0,milesPerHour
+1092433800,KCRE,WindGust,0.0,milesPerHour
+1092437400,KCRE,WindGust,0.0,milesPerHour
+1092441000,KCRE,WindGust,0.0,milesPerHour

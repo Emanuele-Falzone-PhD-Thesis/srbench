@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1091946600,APWN2,AirTemperature,79.0,fahrenheit
+1092061800,APWN2,AirTemperature,105.0,fahrenheit
+1092115800,APWN2,AirTemperature,84.0,fahrenheit
+1092170700,APWN2,AirTemperature,99.0,fahrenheit
+1092188700,APWN2,AirTemperature,91.0,fahrenheit
+1092192300,APWN2,AirTemperature,88.0,fahrenheit
+1092231000,APWN2,AirTemperature,106.0,fahrenheit
+1092280500,APWN2,AirTemperature,87.0,fahrenheit
+1092321000,APWN2,AirTemperature,103.0,fahrenheit
+1092327300,APWN2,AirTemperature,100.0,fahrenheit
+1092357000,APWN2,AirTemperature,77.0,fahrenheit
+1092364200,APWN2,AirTemperature,80.0,fahrenheit
+1092387600,APWN2,AirTemperature,84.0,fahrenheit
+1092429000,APWN2,AirTemperature,87.0,fahrenheit

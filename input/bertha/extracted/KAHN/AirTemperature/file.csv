@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KAHN,AirTemperature,71.1,fahrenheit
+1253231460,KAHN,AirTemperature,69.1,fahrenheit
+1253317860,KAHN,AirTemperature,72.0,fahrenheit
+1253404260,KAHN,AirTemperature,72.0,fahrenheit
+1253490660,KAHN,AirTemperature,71.1,fahrenheit
+1253577060,KAHN,AirTemperature,69.1,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KROC,AirTemperature,59.0,fahrenheit
+1253231640,KROC,AirTemperature,53.1,fahrenheit
+1253318040,KROC,AirTemperature,54.0,fahrenheit
+1253404440,KROC,AirTemperature,43.0,fahrenheit
+1253490840,KROC,AirTemperature,54.0,fahrenheit
+1253577240,KROC,AirTemperature,68.0,fahrenheit

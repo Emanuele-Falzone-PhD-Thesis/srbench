@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1124766300,MABR,WindSpeed,5.0,milesPerHour
+1124787600,MABR,WindSpeed,11.0,milesPerHour
+1124787900,MABR,WindSpeed,4.0,milesPerHour
+1124798400,MABR,WindSpeed,9.0,milesPerHour
+1124885100,MABR,WindSpeed,2.0,milesPerHour
+1124939100,MABR,WindSpeed,1.0,milesPerHour
+1124949900,MABR,WindSpeed,7.0,milesPerHour
+1124992800,MABR,WindSpeed,12.0,milesPerHour
+1125046800,MABR,WindSpeed,2.0,milesPerHour
+1125068400,MABR,WindSpeed,12.0,milesPerHour
+1125144300,MABR,WindSpeed,19.0,milesPerHour
+1125155100,MABR,WindSpeed,16.0,milesPerHour
+1125176400,MABR,WindSpeed,4.0,milesPerHour
+1125198000,MABR,WindSpeed,5.0,milesPerHour

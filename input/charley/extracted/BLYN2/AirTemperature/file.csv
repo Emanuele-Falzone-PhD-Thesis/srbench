@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1092122400,BLYN2,AirTemperature,3.0,fahrenheit
+1092302400,BLYN2,AirTemperature,7.0,fahrenheit

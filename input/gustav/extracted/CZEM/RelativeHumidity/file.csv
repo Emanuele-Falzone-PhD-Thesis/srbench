@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1219744800,CZEM,RelativeHumidity,59.0,percent
+1219748400,CZEM,RelativeHumidity,64.0,percent
+1219752000,CZEM,RelativeHumidity,68.0,percent
+1219755600,CZEM,RelativeHumidity,56.0,percent
+1219759200,CZEM,RelativeHumidity,56.0,percent
+1219762800,CZEM,RelativeHumidity,57.0,percent
+1219766400,CZEM,RelativeHumidity,57.0,percent
+1219831200,CZEM,RelativeHumidity,64.0,percent
+1219834800,CZEM,RelativeHumidity,60.0,percent
+1219838400,CZEM,RelativeHumidity,61.0,percent
+1219842000,CZEM,RelativeHumidity,53.0,percent
+1219845600,CZEM,RelativeHumidity,44.0,percent
+1219849200,CZEM,RelativeHumidity,54.0,percent
+1219852800,CZEM,RelativeHumidity,42.0,percent

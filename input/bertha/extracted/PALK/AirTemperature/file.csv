@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253101980,PALK,AirTemperature,50.0,fahrenheit
+1253188800,PALK,AirTemperature,51.8,fahrenheit
+1253274960,PALK,AirTemperature,46.4,fahrenheit
+1253361060,PALK,AirTemperature,51.8,fahrenheit
+1253466120,PALK,AirTemperature,42.8,fahrenheit
+1253533800,PALK,AirTemperature,39.2,fahrenheit

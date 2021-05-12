@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253123280,PHJH,AirTemperature,80.6,fahrenheit
+1253209500,PHJH,AirTemperature,77.0,fahrenheit
+1253295900,PHJH,AirTemperature,78.8,fahrenheit
+1253382300,PHJH,AirTemperature,80.6,fahrenheit
+1253468700,PHJH,AirTemperature,80.6,fahrenheit
+1253551500,PHJH,AirTemperature,82.4,fahrenheit

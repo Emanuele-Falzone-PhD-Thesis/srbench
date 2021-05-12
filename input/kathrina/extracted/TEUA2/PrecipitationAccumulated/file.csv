@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1124866800,TEUA2,PrecipitationAccumulated,15.0,centimeters
+1124906400,TEUA2,PrecipitationAccumulated,15.4,centimeters

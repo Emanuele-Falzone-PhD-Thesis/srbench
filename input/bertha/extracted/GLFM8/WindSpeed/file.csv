@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,GLFM8,WindSpeed,3.0,milesPerHour
+1253231460,GLFM8,WindSpeed,9.0,milesPerHour
+1253317860,GLFM8,WindSpeed,3.0,milesPerHour
+1253404260,GLFM8,WindSpeed,6.0,milesPerHour
+1253490660,GLFM8,WindSpeed,6.0,milesPerHour
+1253577060,GLFM8,WindSpeed,7.0,milesPerHour

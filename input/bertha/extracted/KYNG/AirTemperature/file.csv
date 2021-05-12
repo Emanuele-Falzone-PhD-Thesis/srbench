@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KYNG,AirTemperature,53.1,fahrenheit
+1253231460,KYNG,AirTemperature,54.0,fahrenheit
+1253317860,KYNG,AirTemperature,57.9,fahrenheit
+1253404260,KYNG,AirTemperature,48.9,fahrenheit
+1253490660,KYNG,AirTemperature,69.1,fahrenheit
+1253577060,KYNG,AirTemperature,68.0,fahrenheit

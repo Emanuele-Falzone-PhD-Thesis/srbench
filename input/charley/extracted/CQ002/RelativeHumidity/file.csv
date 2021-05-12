@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1092042000,CQ002,RelativeHumidity,100.0,percent

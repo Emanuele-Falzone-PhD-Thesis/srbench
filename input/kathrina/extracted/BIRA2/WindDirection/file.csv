@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1124813400,BIRA2,WindDirection,80.0,degrees
+1124817000,BIRA2,WindDirection,314.0,degrees

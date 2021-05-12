@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1220227200,AP913,DewPoint,70.1,fahrenheit
+1220519940,AP913,DewPoint,62.7,fahrenheit
+1220631960,AP913,DewPoint,60.9,fahrenheit
+1220971620,AP913,DewPoint,71.9,fahrenheit
+1220973960,AP913,DewPoint,72.9,fahrenheit
+1221065760,AP913,DewPoint,68.6,fahrenheit
+1221267960,AP913,DewPoint,70.6,fahrenheit
+1221271020,AP913,DewPoint,70.2,fahrenheit

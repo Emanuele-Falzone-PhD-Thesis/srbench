@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,BAC,AirTemperature,65.3,fahrenheit
+1253232000,BAC,AirTemperature,65.7,fahrenheit
+1253318400,BAC,AirTemperature,69.4,fahrenheit
+1253404800,BAC,AirTemperature,65.7,fahrenheit
+1253491200,BAC,AirTemperature,57.4,fahrenheit
+1253577600,BAC,AirTemperature,51.1,fahrenheit

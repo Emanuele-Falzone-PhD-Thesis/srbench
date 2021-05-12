@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1220292720,KU96,WindGust,21.0,milesPerHour
+1220303760,KU96,WindGust,0.0,milesPerHour
+1221061080,KU96,WindGust,0.0,milesPerHour
+1221070860,KU96,WindGust,0.0,milesPerHour
+1221085320,KU96,WindGust,20.0,milesPerHour

@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253144700,KOSA,AirTemperature,70.2,fahrenheit
+1253231100,KOSA,AirTemperature,71.2,fahrenheit
+1253317500,KOSA,AirTemperature,70.9,fahrenheit
+1253401500,KOSA,AirTemperature,71.4,fahrenheit
+1253402700,KOSA,AirTemperature,69.4,fahrenheit
+1253403900,KOSA,AirTemperature,69.8,fahrenheit
+1253490300,KOSA,AirTemperature,72.5,fahrenheit
+1253576700,KOSA,AirTemperature,77.2,fahrenheit

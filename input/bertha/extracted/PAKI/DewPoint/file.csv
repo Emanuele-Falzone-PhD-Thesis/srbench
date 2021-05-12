@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAKI,DewPoint,45.9,fahrenheit
+1253231760,PAKI,DewPoint,48.9,fahrenheit
+1253318160,PAKI,DewPoint,45.9,fahrenheit
+1253404560,PAKI,DewPoint,45.9,fahrenheit
+1253490960,PAKI,DewPoint,37.9,fahrenheit
+1253577360,PAKI,DewPoint,32.0,fahrenheit

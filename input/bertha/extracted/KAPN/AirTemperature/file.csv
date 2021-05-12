@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KAPN,AirTemperature,43.0,fahrenheit
+1253231640,KAPN,AirTemperature,59.0,fahrenheit
+1253318040,KAPN,AirTemperature,43.0,fahrenheit
+1253404440,KAPN,AirTemperature,43.0,fahrenheit
+1253490840,KAPN,AirTemperature,48.0,fahrenheit
+1253577240,KAPN,AirTemperature,61.0,fahrenheit

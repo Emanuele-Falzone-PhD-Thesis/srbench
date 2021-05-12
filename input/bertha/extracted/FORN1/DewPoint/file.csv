@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253144640,FORN1,DewPoint,45.5,fahrenheit
+1253227440,FORN1,DewPoint,39.5,fahrenheit
+1253231040,FORN1,DewPoint,41.3,fahrenheit
+1253317440,FORN1,DewPoint,39.2,fahrenheit
+1253403840,FORN1,DewPoint,45.9,fahrenheit
+1253490240,FORN1,DewPoint,48.4,fahrenheit
+1253573040,FORN1,DewPoint,33.7,fahrenheit
+1253576640,FORN1,DewPoint,34.8,fahrenheit

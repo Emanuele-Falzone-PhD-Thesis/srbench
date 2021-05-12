@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1220426160,A26,DewPoint,0.0,fahrenheit
+1220449380,A26,DewPoint,0.0,fahrenheit
+1220450340,A26,DewPoint,26.2,fahrenheit
+1220451300,A26,DewPoint,28.4,fahrenheit
+1220461980,A26,DewPoint,21.3,fahrenheit
+1220462940,A26,DewPoint,23.4,fahrenheit
+1220463900,A26,DewPoint,21.2,fahrenheit
+1220484480,A26,DewPoint,0.0,fahrenheit
+1220485440,A26,DewPoint,0.0,fahrenheit

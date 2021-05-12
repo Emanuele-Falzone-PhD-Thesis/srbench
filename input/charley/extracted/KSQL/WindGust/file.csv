@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1092383100,KSQL,WindGust,0.0,milesPerHour
+1092386700,KSQL,WindGust,0.0,milesPerHour
+1092390300,KSQL,WindGust,0.0,milesPerHour
+1092393900,KSQL,WindGust,0.0,milesPerHour
+1092397500,KSQL,WindGust,0.0,milesPerHour
+1092401400,KSQL,WindGust,0.0,milesPerHour
+1092404700,KSQL,WindGust,0.0,milesPerHour
+1092408300,KSQL,WindGust,0.0,milesPerHour
+1092411900,KSQL,WindGust,23.0,milesPerHour
+1092415500,KSQL,WindGust,0.0,milesPerHour
+1092419100,KSQL,WindGust,0.0,milesPerHour
+1092422700,KSQL,WindGust,0.0,milesPerHour
+1092426600,KSQL,WindGust,0.0,milesPerHour
+1092429900,KSQL,WindGust,0.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KAUS,AirTemperature,75.0,fahrenheit
+1253231580,KAUS,AirTemperature,73.0,fahrenheit
+1253317980,KAUS,AirTemperature,73.9,fahrenheit
+1253404380,KAUS,AirTemperature,72.0,fahrenheit
+1253490780,KAUS,AirTemperature,77.0,fahrenheit
+1253577180,KAUS,AirTemperature,81.0,fahrenheit

@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1219554300,KRPE,AirTemperature,73.4,fahrenheit
+1219596300,KRPE,AirTemperature,82.4,fahrenheit
+1219640700,KRPE,AirTemperature,75.2,fahrenheit
+1219726800,KRPE,AirTemperature,75.2,fahrenheit
+1219813500,KRPE,AirTemperature,77.0,fahrenheit
+1219899900,KRPE,AirTemperature,78.8,fahrenheit
+1219986600,KRPE,AirTemperature,77.0,fahrenheit
+1220072700,KRPE,AirTemperature,75.2,fahrenheit
+1220087460,KRPE,AirTemperature,78.8,fahrenheit
+1220099400,KRPE,AirTemperature,89.6,fahrenheit

@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253122440,BGBO3,PeakWindDirection,42.0,degrees
+1253126040,BGBO3,PeakWindDirection,49.0,degrees
+1253302440,BGBO3,PeakWindDirection,19.0,degrees
+1253536440,BGBO3,PeakWindDirection,0.0,degrees
+1253561640,BGBO3,PeakWindDirection,13.0,degrees

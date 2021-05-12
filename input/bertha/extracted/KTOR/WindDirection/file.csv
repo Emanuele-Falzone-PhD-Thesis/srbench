@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KTOR,WindDirection,100.0,degrees
+1253231580,KTOR,WindDirection,80.0,degrees
+1253317980,KTOR,WindDirection,90.0,degrees
+1253404380,KTOR,WindDirection,110.0,degrees
+1253490780,KTOR,WindDirection,300.0,degrees
+1253577180,KTOR,WindDirection,290.0,degrees

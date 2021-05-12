@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253169000,WI042,AirTemperature,56.5,fahrenheit
+1253183460,WI042,AirTemperature,69.5,fahrenheit
+1253269860,WI042,AirTemperature,73.2,fahrenheit

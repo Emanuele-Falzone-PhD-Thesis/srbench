@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KOEO,DewPoint,55.4,fahrenheit
+1253231700,KOEO,DewPoint,57.2,fahrenheit
+1253318100,KOEO,DewPoint,57.2,fahrenheit
+1253404500,KOEO,DewPoint,60.8,fahrenheit
+1253490900,KOEO,DewPoint,55.4,fahrenheit
+1253577300,KOEO,DewPoint,62.6,fahrenheit

@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1253544600,PALR,WindGust,0.0,milesPerHour
+1253548200,PALR,WindGust,0.0,milesPerHour
+1253551800,PALR,WindGust,0.0,milesPerHour
+1253559000,PALR,WindGust,0.0,milesPerHour
+1253566200,PALR,WindGust,35.0,milesPerHour
+1253580600,PALR,WindGust,23.0,milesPerHour
+1253587800,PALR,WindGust,23.0,milesPerHour
+1253591400,PALR,WindGust,32.0,milesPerHour
+1253598600,PALR,WindGust,0.0,milesPerHour

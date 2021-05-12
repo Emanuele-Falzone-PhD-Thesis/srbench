@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1092071100,PLKC1,AirTemperature,285.0,fahrenheit
+1092141300,PLKC1,AirTemperature,327.7,fahrenheit

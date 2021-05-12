@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAIG,WindSpeed,17.0,milesPerHour
+1253231760,PAIG,WindSpeed,10.0,milesPerHour
+1253318160,PAIG,WindSpeed,0.0,milesPerHour
+1253404560,PAIG,WindSpeed,13.0,milesPerHour
+1253490960,PAIG,WindSpeed,0.0,milesPerHour
+1253577360,PAIG,WindSpeed,6.0,milesPerHour

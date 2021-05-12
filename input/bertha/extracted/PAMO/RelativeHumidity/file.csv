@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAMO,RelativeHumidity,86.0,percent
+1253231760,PAMO,RelativeHumidity,74.0,percent
+1253278560,PAMO,RelativeHumidity,83.0,percent

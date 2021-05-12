@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1220000400,CWIQ,WindDirection,220.0,degrees
+1220004000,CWIQ,WindDirection,270.0,degrees
+1220007600,CWIQ,WindDirection,240.0,degrees

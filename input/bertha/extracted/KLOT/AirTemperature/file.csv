@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144640,KLOT,AirTemperature,57.2,fahrenheit
+1253231040,KLOT,AirTemperature,55.4,fahrenheit
+1253317440,KLOT,AirTemperature,62.6,fahrenheit
+1253403840,KLOT,AirTemperature,60.8,fahrenheit
+1253490240,KLOT,AirTemperature,66.2,fahrenheit
+1253576640,KLOT,AirTemperature,60.8,fahrenheit

@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1124784000,BEAM8,AirTemperature,46.0,fahrenheit
+1124805600,BEAM8,AirTemperature,62.0,fahrenheit
+1124816400,BEAM8,AirTemperature,61.0,fahrenheit
+1124827200,BEAM8,AirTemperature,63.0,fahrenheit
+1124946000,BEAM8,AirTemperature,34.0,fahrenheit

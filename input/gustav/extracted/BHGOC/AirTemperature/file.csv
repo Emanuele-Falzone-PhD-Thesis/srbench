@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1219655340,BHGOC,AirTemperature,49.0,fahrenheit
+1219657140,BHGOC,AirTemperature,49.0,fahrenheit
+1219658940,BHGOC,AirTemperature,49.0,fahrenheit

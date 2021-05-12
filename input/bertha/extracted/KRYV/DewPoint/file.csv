@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KRYV,DewPoint,44.6,fahrenheit
+1253231700,KRYV,DewPoint,46.4,fahrenheit
+1253318100,KRYV,DewPoint,51.8,fahrenheit
+1253404500,KRYV,DewPoint,50.0,fahrenheit
+1253490900,KRYV,DewPoint,53.6,fahrenheit
+1253577300,KRYV,DewPoint,55.4,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PMDY,AirTemperature,79.0,fahrenheit
+1253231760,PMDY,AirTemperature,77.0,fahrenheit
+1253318160,PMDY,AirTemperature,77.9,fahrenheit
+1253404560,PMDY,AirTemperature,77.9,fahrenheit
+1253490960,PMDY,AirTemperature,77.0,fahrenheit
+1253577360,PMDY,AirTemperature,77.0,fahrenheit

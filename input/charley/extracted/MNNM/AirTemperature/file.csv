@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1091926800,MNNM,AirTemperature,47.8,fahrenheit
+1091927400,MNNM,AirTemperature,47.6,fahrenheit
+1091941200,MNNM,AirTemperature,41.4,fahrenheit
+1091941500,MNNM,AirTemperature,41.2,fahrenheit
+1091941800,MNNM,AirTemperature,41.0,fahrenheit
+1092186000,MNNM,AirTemperature,54.5,fahrenheit
+1092186300,MNNM,AirTemperature,54.5,fahrenheit
+1092186900,MNNM,AirTemperature,54.1,fahrenheit
+1092200400,MNNM,AirTemperature,47.6,fahrenheit
+1092201000,MNNM,AirTemperature,47.3,fahrenheit

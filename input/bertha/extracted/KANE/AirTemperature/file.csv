@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KANE,AirTemperature,59.0,fahrenheit
+1253231640,KANE,AirTemperature,64.4,fahrenheit
+1253318100,KANE,AirTemperature,66.2,fahrenheit
+1253404440,KANE,AirTemperature,68.0,fahrenheit
+1253490840,KANE,AirTemperature,64.4,fahrenheit
+1253577240,KANE,AirTemperature,62.6,fahrenheit

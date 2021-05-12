@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253137200,MMCU,RelativeHumidity,37.0,percent
+1253230800,MMCU,RelativeHumidity,78.0,percent
+1253313600,MMCU,RelativeHumidity,64.0,percent
+1253396400,MMCU,RelativeHumidity,73.0,percent
+1253486400,MMCU,RelativeHumidity,77.0,percent
+1253576400,MMCU,RelativeHumidity,68.0,percent

@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1220014620,AR145,WindGust,4.0,milesPerHour
+1220015820,AR145,WindGust,4.0,milesPerHour
+1220017620,AR145,WindGust,0.0,milesPerHour
+1220020080,AR145,WindGust,5.0,milesPerHour
+1220021280,AR145,WindGust,0.0,milesPerHour
+1220021460,AR145,WindGust,0.0,milesPerHour
+1220022480,AR145,WindGust,3.0,milesPerHour
+1220024280,AR145,WindGust,3.0,milesPerHour
+1220026080,AR145,WindGust,4.0,milesPerHour
+1220027940,AR145,WindGust,0.0,milesPerHour
+1220029140,AR145,WindGust,0.0,milesPerHour
+1220030340,AR145,WindGust,0.0,milesPerHour
+1220030940,AR145,WindGust,0.0,milesPerHour
+1220032140,AR145,WindGust,0.0,milesPerHour
+1220032740,AR145,WindGust,0.0,milesPerHour

@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1092301200,GRVA2,PrecipitationAccumulated,52.5,centimeters
+1092308400,GRVA2,PrecipitationAccumulated,52.3,centimeters
+1092333600,GRVA2,PrecipitationAccumulated,52.2,centimeters

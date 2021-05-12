@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,SRRM8,WindDirection,158.0,degrees
+1253231640,SRRM8,WindDirection,99.0,degrees
+1253318040,SRRM8,WindDirection,91.0,degrees
+1253404440,SRRM8,WindDirection,268.0,degrees
+1253490840,SRRM8,WindDirection,205.0,degrees
+1253577240,SRRM8,WindDirection,35.0,degrees

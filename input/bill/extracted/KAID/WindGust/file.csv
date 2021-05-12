@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1253101860,KAID,WindGust,0.0,milesPerHour
+1253105460,KAID,WindGust,20.0,milesPerHour
+1253109060,KAID,WindGust,0.0,milesPerHour
+1253145300,KAID,WindGust,0.0,milesPerHour
+1253274660,KAID,WindGust,0.0,milesPerHour
+1253278440,KAID,WindGust,0.0,milesPerHour
+1253289180,KAID,WindGust,0.0,milesPerHour
+1253303580,KAID,WindGust,10.0,milesPerHour
+1253310300,KAID,WindGust,0.0,milesPerHour
+1253310720,KAID,WindGust,0.0,milesPerHour
+1253317860,KAID,WindGust,0.0,milesPerHour

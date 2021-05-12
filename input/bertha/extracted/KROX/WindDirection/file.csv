@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KROX,WindDirection,190.0,degrees
+1253231640,KROX,WindDirection,120.0,degrees
+1253318100,KROX,WindDirection,170.0,degrees
+1253404500,KROX,WindDirection,190.0,degrees
+1253490840,KROX,WindDirection,170.0,degrees
+1253577240,KROX,WindDirection,350.0,degrees

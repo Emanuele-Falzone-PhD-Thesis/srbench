@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1253066400,NESA2,WindDirection,213.0,degrees
+1253070000,NESA2,WindDirection,81.0,degrees
+1253073600,NESA2,WindDirection,66.0,degrees
+1253077200,NESA2,WindDirection,56.0,degrees
+1253080800,NESA2,WindDirection,0.0,degrees
+1253084400,NESA2,WindDirection,241.0,degrees
+1253088000,NESA2,WindDirection,51.0,degrees
+1253091600,NESA2,WindDirection,0.0,degrees
+1253095200,NESA2,WindDirection,103.0,degrees
+1253102400,NESA2,WindDirection,0.0,degrees
+1253134800,NESA2,WindDirection,144.0,degrees
+1253142000,NESA2,WindDirection,359.0,degrees
+1253145600,NESA2,WindDirection,0.0,degrees

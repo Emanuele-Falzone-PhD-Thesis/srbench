@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144700,KRPH,AirTemperature,70.0,fahrenheit
+1253231100,KRPH,AirTemperature,72.7,fahrenheit
+1253317500,KRPH,AirTemperature,67.5,fahrenheit
+1253403900,KRPH,AirTemperature,68.4,fahrenheit
+1253490300,KRPH,AirTemperature,75.4,fahrenheit
+1253576700,KRPH,AirTemperature,70.2,fahrenheit

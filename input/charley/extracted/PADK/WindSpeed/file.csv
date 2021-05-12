@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1091973300,PADK,WindSpeed,3.0,milesPerHour
+1091975400,PADK,WindSpeed,3.0,milesPerHour
+1091980200,PADK,WindSpeed,3.0,milesPerHour
+1092218100,PADK,WindSpeed,3.0,milesPerHour
+1092308100,PADK,WindSpeed,14.0,milesPerHour

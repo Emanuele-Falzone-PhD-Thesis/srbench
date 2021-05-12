@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1220125980,KAPF,PeakWindSpeed,35.0,milesPerHour
+1220129580,KAPF,PeakWindSpeed,0.0,milesPerHour
+1220133180,KAPF,PeakWindSpeed,0.0,milesPerHour
+1220136780,KAPF,PeakWindSpeed,0.0,milesPerHour
+1220140380,KAPF,PeakWindSpeed,0.0,milesPerHour

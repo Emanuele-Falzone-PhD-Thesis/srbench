@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253144640,FORN1,WindDirection,188.0,degrees
+1253227440,FORN1,WindDirection,155.0,degrees
+1253231040,FORN1,WindDirection,158.0,degrees
+1253317440,FORN1,WindDirection,171.0,degrees
+1253403840,FORN1,WindDirection,172.0,degrees
+1253490240,FORN1,WindDirection,106.0,degrees
+1253573040,FORN1,WindDirection,341.0,degrees
+1253576640,FORN1,WindDirection,271.0,degrees

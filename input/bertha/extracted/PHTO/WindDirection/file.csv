@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PHTO,WindDirection,260.0,degrees
+1253231580,PHTO,WindDirection,240.0,degrees
+1253317980,PHTO,WindDirection,220.0,degrees
+1253404380,PHTO,WindDirection,0.0,degrees
+1253490780,PHTO,WindDirection,210.0,degrees
+1253577180,PHTO,WindDirection,210.0,degrees

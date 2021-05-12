@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253216760,TS634,PeakWindSpeed,5.0,milesPerHour
+1253223960,TS634,PeakWindSpeed,15.0,milesPerHour
+1253227560,TS634,PeakWindSpeed,15.0,milesPerHour

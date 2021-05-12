@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CCS,AirTemperature,46.5,fahrenheit
+1253232000,CCS,AirTemperature,52.0,fahrenheit
+1253318400,CCS,AirTemperature,50.9,fahrenheit
+1253404800,CCS,AirTemperature,52.3,fahrenheit
+1253491200,CCS,AirTemperature,0.0,fahrenheit
+1253577600,CCS,AirTemperature,38.7,fahrenheit

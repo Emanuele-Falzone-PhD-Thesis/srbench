@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253208240,MBZH,DewPoint,44.4,fahrenheit
+1253397360,MBZH,DewPoint,45.2,fahrenheit
+1253443320,MBZH,DewPoint,43.6,fahrenheit

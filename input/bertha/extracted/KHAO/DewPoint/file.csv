@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KHAO,DewPoint,51.1,fahrenheit
+1253231580,KHAO,DewPoint,53.1,fahrenheit
+1253317980,KHAO,DewPoint,48.9,fahrenheit
+1253404380,KHAO,DewPoint,54.0,fahrenheit
+1253490780,KHAO,DewPoint,66.0,fahrenheit
+1253577600,KHAO,DewPoint,68.0,fahrenheit

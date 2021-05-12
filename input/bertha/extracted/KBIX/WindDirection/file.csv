@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KBIX,WindDirection,200.0,degrees
+1253231700,KBIX,WindDirection,200.0,degrees
+1253318100,KBIX,WindDirection,180.0,degrees
+1253404500,KBIX,WindDirection,200.0,degrees
+1253490900,KBIX,WindDirection,190.0,degrees
+1253577300,KBIX,WindDirection,140.0,degrees

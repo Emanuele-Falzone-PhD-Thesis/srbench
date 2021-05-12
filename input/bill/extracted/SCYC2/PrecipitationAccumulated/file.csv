@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253574000,SCYC2,PrecipitationAccumulated,42.3,centimeters
+1253577600,SCYC2,PrecipitationAccumulated,42.4,centimeters
+1253581200,SCYC2,PrecipitationAccumulated,42.4,centimeters
+1253584800,SCYC2,PrecipitationAccumulated,42.4,centimeters

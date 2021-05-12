@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1219568100,KBMC,AirTemperature,68.0,fahrenheit
+1219571700,KBMC,AirTemperature,75.2,fahrenheit
+1219575300,KBMC,AirTemperature,80.6,fahrenheit
+1219586100,KBMC,AirTemperature,91.4,fahrenheit
+1219622100,KBMC,AirTemperature,73.4,fahrenheit
+1219632900,KBMC,AirTemperature,69.8,fahrenheit
+1219643700,KBMC,AirTemperature,68.0,fahrenheit
+1219920900,KBMC,AirTemperature,71.6,fahrenheit
+1219935300,KBMC,AirTemperature,82.4,fahrenheit
+1220003700,KBMC,AirTemperature,68.0,fahrenheit
+1220007300,KBMC,AirTemperature,73.4,fahrenheit
+1220025300,KBMC,AirTemperature,86.0,fahrenheit
+1220054100,KBMC,AirTemperature,57.2,fahrenheit
+1220079300,KBMC,AirTemperature,53.6,fahrenheit
+1220140500,KBMC,AirTemperature,80.6,fahrenheit

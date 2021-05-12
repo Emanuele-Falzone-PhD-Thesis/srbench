@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1219539600,CCOL1,WindDirection,322.0,degrees
+1219543200,CCOL1,WindDirection,317.0,degrees

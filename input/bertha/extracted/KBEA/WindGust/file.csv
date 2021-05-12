@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253144700,KBEA,WindGust,0.0,milesPerHour
+1253231100,KBEA,WindGust,0.0,milesPerHour
+1253317500,KBEA,WindGust,0.0,milesPerHour
+1253403900,KBEA,WindGust,0.0,milesPerHour
+1253576700,KBEA,WindGust,0.0,milesPerHour

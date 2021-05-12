@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PAHO,WindDirection,40.0,degrees
+1253231580,PAHO,WindDirection,0.0,degrees
+1253317980,PAHO,WindDirection,0.0,degrees
+1253404380,PAHO,WindDirection,0.0,degrees
+1253490780,PAHO,WindDirection,0.0,degrees
+1253577180,PAHO,WindDirection,230.0,degrees

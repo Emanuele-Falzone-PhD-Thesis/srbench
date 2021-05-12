@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1220486400,JDPC1,WindSpeed,5.0,milesPerHour
+1220490000,JDPC1,WindSpeed,5.0,milesPerHour
+1220493600,JDPC1,WindSpeed,21.0,milesPerHour

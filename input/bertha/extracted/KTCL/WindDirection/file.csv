@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KTCL,WindDirection,100.0,degrees
+1253231580,KTCL,WindDirection,90.0,degrees
+1253317980,KTCL,WindDirection,70.0,degrees
+1253404380,KTCL,WindDirection,0.0,degrees
+1253490780,KTCL,WindDirection,140.0,degrees
+1253577180,KTCL,WindDirection,50.0,degrees

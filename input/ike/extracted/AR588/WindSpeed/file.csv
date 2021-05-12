@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1220296380,AR588,WindSpeed,10.0,milesPerHour
+1220611380,AR588,WindSpeed,3.0,milesPerHour
+1220973780,AR588,WindSpeed,3.0,milesPerHour
+1221102240,AR588,WindSpeed,1.0,milesPerHour

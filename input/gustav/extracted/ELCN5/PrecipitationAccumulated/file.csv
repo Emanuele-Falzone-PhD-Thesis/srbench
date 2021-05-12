@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,ELCN5,PrecipitationAccumulated,10.6,centimeters
+1219629600,ELCN5,PrecipitationAccumulated,9.3,centimeters
+1219716000,ELCN5,PrecipitationAccumulated,20.4,centimeters
+1219802400,ELCN5,PrecipitationAccumulated,20.4,centimeters
+1219888800,ELCN5,PrecipitationAccumulated,20.4,centimeters
+1219975200,ELCN5,PrecipitationAccumulated,20.5,centimeters
+1220061600,ELCN5,PrecipitationAccumulated,20.9,centimeters

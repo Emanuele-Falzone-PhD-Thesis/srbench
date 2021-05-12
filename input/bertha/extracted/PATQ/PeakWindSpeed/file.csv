@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1253228160,PATQ,PeakWindSpeed,0.0,milesPerHour
+1253231760,PATQ,PeakWindSpeed,0.0,milesPerHour
+1253465760,PATQ,PeakWindSpeed,0.0,milesPerHour
+1253469360,PATQ,PeakWindSpeed,0.0,milesPerHour
+1253472960,PATQ,PeakWindSpeed,0.0,milesPerHour
+1253476560,PATQ,PeakWindSpeed,0.0,milesPerHour
+1253480160,PATQ,PeakWindSpeed,0.0,milesPerHour
+1253483760,PATQ,PeakWindSpeed,28.0,milesPerHour
+1253487360,PATQ,PeakWindSpeed,0.0,milesPerHour
+1253490960,PATQ,PeakWindSpeed,0.0,milesPerHour
+1253566560,PATQ,PeakWindSpeed,0.0,milesPerHour
+1253570160,PATQ,PeakWindSpeed,27.1,milesPerHour
+1253573760,PATQ,PeakWindSpeed,0.0,milesPerHour
+1253577360,PATQ,PeakWindSpeed,0.0,milesPerHour

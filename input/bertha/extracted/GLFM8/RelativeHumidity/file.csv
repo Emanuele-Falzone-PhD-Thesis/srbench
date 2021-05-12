@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,GLFM8,RelativeHumidity,30.0,percent
+1253231460,GLFM8,RelativeHumidity,48.0,percent
+1253317860,GLFM8,RelativeHumidity,44.0,percent
+1253404260,GLFM8,RelativeHumidity,32.0,percent
+1253490660,GLFM8,RelativeHumidity,91.0,percent
+1253577060,GLFM8,RelativeHumidity,41.0,percent

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KORB,DewPoint,55.4,fahrenheit
+1253231640,KORB,DewPoint,50.0,fahrenheit
+1253318040,KORB,DewPoint,48.2,fahrenheit
+1253404440,KORB,DewPoint,57.2,fahrenheit
+1253490840,KORB,DewPoint,53.6,fahrenheit
+1253577240,KORB,DewPoint,57.2,fahrenheit

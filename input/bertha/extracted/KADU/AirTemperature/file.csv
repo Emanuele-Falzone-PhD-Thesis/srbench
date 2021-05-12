@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KADU,AirTemperature,53.6,fahrenheit
+1253231700,KADU,AirTemperature,53.6,fahrenheit
+1253318100,KADU,AirTemperature,51.8,fahrenheit
+1253404500,KADU,AirTemperature,53.6,fahrenheit
+1253490900,KADU,AirTemperature,59.0,fahrenheit
+1253577300,KADU,AirTemperature,53.6,fahrenheit

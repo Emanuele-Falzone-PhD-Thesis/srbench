@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KLEB,WindSpeed,0.0,milesPerHour
+1253231580,KLEB,WindSpeed,3.0,milesPerHour
+1253317980,KLEB,WindSpeed,9.0,milesPerHour
+1253404380,KLEB,WindSpeed,0.0,milesPerHour
+1253490780,KLEB,WindSpeed,0.0,milesPerHour
+1253577480,KLEB,WindSpeed,0.0,milesPerHour

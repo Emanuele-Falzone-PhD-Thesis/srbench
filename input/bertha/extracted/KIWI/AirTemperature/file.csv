@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KIWI,AirTemperature,46.0,fahrenheit
+1253231580,KIWI,AirTemperature,43.0,fahrenheit
+1253317980,KIWI,AirTemperature,52.0,fahrenheit
+1253404380,KIWI,AirTemperature,41.0,fahrenheit
+1253490780,KIWI,AirTemperature,46.0,fahrenheit
+1253577180,KIWI,AirTemperature,43.0,fahrenheit

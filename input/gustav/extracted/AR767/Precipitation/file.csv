@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1219653420,AR767,Precipitation,0.55,centimeters
+1219777020,AR767,Precipitation,0.09,centimeters
+1219873620,AR767,Precipitation,0.01,centimeters
+1220074020,AR767,Precipitation,0.15,centimeters

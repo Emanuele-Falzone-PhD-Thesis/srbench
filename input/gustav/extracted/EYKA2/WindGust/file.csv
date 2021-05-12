@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1219536060,EYKA2,WindGust,0.0,milesPerHour
+1219550400,EYKA2,WindGust,754.0,milesPerHour
+1219586400,EYKA2,WindGust,107.0,milesPerHour
+1219590000,EYKA2,WindGust,107.0,milesPerHour
+1219593600,EYKA2,WindGust,104.0,milesPerHour
+1219597200,EYKA2,WindGust,104.0,milesPerHour
+1219604400,EYKA2,WindGust,104.0,milesPerHour
+1219608000,EYKA2,WindGust,103.0,milesPerHour
+1219611600,EYKA2,WindGust,105.0,milesPerHour
+1220007600,EYKA2,WindGust,9.0,milesPerHour

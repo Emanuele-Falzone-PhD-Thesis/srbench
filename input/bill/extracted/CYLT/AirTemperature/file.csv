@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1253361600,CYLT,AirTemperature,10.4,fahrenheit
+1253365200,CYLT,AirTemperature,6.8,fahrenheit
+1253368800,CYLT,AirTemperature,5.0,fahrenheit
+1253372400,CYLT,AirTemperature,6.8,fahrenheit
+1253376000,CYLT,AirTemperature,5.0,fahrenheit
+1253379600,CYLT,AirTemperature,6.8,fahrenheit
+1253383200,CYLT,AirTemperature,3.2,fahrenheit
+1253386800,CYLT,AirTemperature,3.2,fahrenheit
+1253390400,CYLT,AirTemperature,3.2,fahrenheit
+1253394000,CYLT,AirTemperature,-0.4,fahrenheit
+1253395740,CYLT,AirTemperature,0.0,fahrenheit
+1253167200,CYLT,AirTemperature,14.0,fahrenheit
+1253149200,CYLT,AirTemperature,19.4,fahrenheit
+1253160000,CYLT,AirTemperature,19.4,fahrenheit

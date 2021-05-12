@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1220148000,CINW4,AirTemperature,49.1,fahrenheit
+1220234400,CINW4,AirTemperature,48.2,fahrenheit
+1220320800,CINW4,AirTemperature,30.9,fahrenheit
+1220407200,CINW4,AirTemperature,34.7,fahrenheit
+1220493600,CINW4,AirTemperature,34.3,fahrenheit
+1220580000,CINW4,AirTemperature,35.6,fahrenheit
+1220666400,CINW4,AirTemperature,40.3,fahrenheit
+1220752800,CINW4,AirTemperature,35.8,fahrenheit
+1220839200,CINW4,AirTemperature,63.5,fahrenheit
+1220925600,CINW4,AirTemperature,37.6,fahrenheit
+1221012000,CINW4,AirTemperature,41.9,fahrenheit
+1221098400,CINW4,AirTemperature,39.4,fahrenheit
+1221184800,CINW4,AirTemperature,37.4,fahrenheit
+1221271200,CINW4,AirTemperature,35.8,fahrenheit

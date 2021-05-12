@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAKH,DewPoint,47.8,fahrenheit
+1253231760,PAKH,DewPoint,45.0,fahrenheit
+1253318160,PAKH,DewPoint,45.0,fahrenheit
+1253404560,PAKH,DewPoint,41.0,fahrenheit
+1253490960,PAKH,DewPoint,41.9,fahrenheit
+1253577360,PAKH,DewPoint,38.8,fahrenheit

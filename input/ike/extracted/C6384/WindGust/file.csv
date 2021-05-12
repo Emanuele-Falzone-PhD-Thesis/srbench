@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1221221880,C6384,WindGust,10.0,milesPerHour
+1221222660,C6384,WindGust,6.0,milesPerHour
+1221223260,C6384,WindGust,5.0,milesPerHour
+1221224460,C6384,WindGust,9.0,milesPerHour
+1221225060,C6384,WindGust,6.0,milesPerHour
+1221226260,C6384,WindGust,5.0,milesPerHour
+1221226860,C6384,WindGust,7.0,milesPerHour
+1221228060,C6384,WindGust,9.0,milesPerHour
+1221228660,C6384,WindGust,6.0,milesPerHour
+1221229860,C6384,WindGust,4.0,milesPerHour
+1221230460,C6384,WindGust,5.0,milesPerHour
+1221231660,C6384,WindGust,5.0,milesPerHour
+1221232260,C6384,WindGust,5.0,milesPerHour
+1221233460,C6384,WindGust,11.0,milesPerHour
+1221234060,C6384,WindGust,9.0,milesPerHour

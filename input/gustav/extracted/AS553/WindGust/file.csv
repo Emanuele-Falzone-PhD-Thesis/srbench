@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1220081640,AS553,WindGust,2.0,milesPerHour
+1220082240,AS553,WindGust,3.0,milesPerHour

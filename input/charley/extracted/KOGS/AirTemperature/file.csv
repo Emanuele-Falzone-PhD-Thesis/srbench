@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1092027600,KOGS,AirTemperature,53.6,fahrenheit
+1092145500,KOGS,AirTemperature,77.0,fahrenheit
+1092419100,KOGS,AirTemperature,66.2,fahrenheit

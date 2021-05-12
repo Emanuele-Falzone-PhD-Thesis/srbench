@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1091930400,PICM8,AirTemperature,48.0,fahrenheit
+1092049200,PICM8,AirTemperature,49.0,fahrenheit
+1092060000,PICM8,AirTemperature,56.0,fahrenheit
+1092092400,PICM8,AirTemperature,49.0,fahrenheit
+1092124800,PICM8,AirTemperature,43.0,fahrenheit
+1092135600,PICM8,AirTemperature,56.0,fahrenheit
+1092146400,PICM8,AirTemperature,65.0,fahrenheit
+1092265200,PICM8,AirTemperature,56.0,fahrenheit
+1092362400,PICM8,AirTemperature,60.0,fahrenheit
+1092373200,PICM8,AirTemperature,57.0,fahrenheit
+1092384000,PICM8,AirTemperature,57.0,fahrenheit
+1092416400,PICM8,AirTemperature,80.0,fahrenheit

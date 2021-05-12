@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253097840,KAEL,RelativeHumidity,57.0,percent
+1253231520,KAEL,RelativeHumidity,73.0,percent
+1253317920,KAEL,RelativeHumidity,88.0,percent
+1253404320,KAEL,RelativeHumidity,83.0,percent
+1253490660,KAEL,RelativeHumidity,77.0,percent
+1253577240,KAEL,RelativeHumidity,82.0,percent

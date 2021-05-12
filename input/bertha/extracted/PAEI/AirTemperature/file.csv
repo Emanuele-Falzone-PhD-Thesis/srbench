@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,PAEI,AirTemperature,52.5,fahrenheit
+1253231700,PAEI,AirTemperature,50.0,fahrenheit
+1253318340,PAEI,AirTemperature,46.4,fahrenheit
+1253404500,PAEI,AirTemperature,38.3,fahrenheit
+1253490900,PAEI,AirTemperature,42.8,fahrenheit
+1253577300,PAEI,AirTemperature,41.2,fahrenheit

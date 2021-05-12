@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KAAT,DewPoint,34.0,fahrenheit
+1253231700,KAAT,DewPoint,36.0,fahrenheit
+1253318100,KAAT,DewPoint,35.1,fahrenheit
+1253404500,KAAT,DewPoint,42.1,fahrenheit
+1253490900,KAAT,DewPoint,19.0,fahrenheit
+1253577300,KAAT,DewPoint,12.0,fahrenheit

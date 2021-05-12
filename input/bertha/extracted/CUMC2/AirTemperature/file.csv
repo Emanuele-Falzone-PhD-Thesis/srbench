@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253066400,CUMC2,AirTemperature,45.5,fahrenheit
+1253152800,CUMC2,AirTemperature,43.3,fahrenheit
+1253239200,CUMC2,AirTemperature,38.3,fahrenheit
+1253325600,CUMC2,AirTemperature,39.9,fahrenheit
+1253412000,CUMC2,AirTemperature,38.3,fahrenheit
+1253498400,CUMC2,AirTemperature,37.2,fahrenheit

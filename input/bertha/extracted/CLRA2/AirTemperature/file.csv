@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253142600,CLRA2,AirTemperature,49.7,fahrenheit
+1253144400,CLRA2,AirTemperature,50.0,fahrenheit
+1253230740,CLRA2,AirTemperature,47.9,fahrenheit
+1253317260,CLRA2,AirTemperature,40.7,fahrenheit
+1253403600,CLRA2,AirTemperature,32.0,fahrenheit
+1253490000,CLRA2,AirTemperature,33.3,fahrenheit
+1253574600,CLRA2,AirTemperature,39.0,fahrenheit
+1253576340,CLRA2,AirTemperature,39.0,fahrenheit

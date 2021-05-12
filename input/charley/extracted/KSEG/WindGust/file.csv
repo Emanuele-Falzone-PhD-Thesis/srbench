@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1092177600,KSEG,WindGust,0.0,milesPerHour
+1092179700,KSEG,WindGust,0.0,milesPerHour
+1092180300,KSEG,WindGust,0.0,milesPerHour
+1092180600,KSEG,WindGust,0.0,milesPerHour
+1092181200,KSEG,WindGust,0.0,milesPerHour
+1092181800,KSEG,WindGust,0.0,milesPerHour
+1092182100,KSEG,WindGust,0.0,milesPerHour
+1092182400,KSEG,WindGust,0.0,milesPerHour

@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1253103060,C2225,WindSpeed,3.0,milesPerHour
+1253103660,C2225,WindSpeed,6.0,milesPerHour
+1253164320,C2225,WindSpeed,0.0,milesPerHour
+1253164920,C2225,WindSpeed,4.0,milesPerHour
+1253541720,C2225,WindSpeed,7.0,milesPerHour
+1253277060,C2225,WindSpeed,1.0,milesPerHour
+1253194260,C2225,WindSpeed,2.0,milesPerHour
+1253455860,C2225,WindSpeed,5.0,milesPerHour
+1253456400,C2225,WindSpeed,6.0,milesPerHour
+1253365920,C2225,WindSpeed,5.0,milesPerHour

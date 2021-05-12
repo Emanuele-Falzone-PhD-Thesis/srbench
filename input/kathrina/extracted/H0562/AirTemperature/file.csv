@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1124694000,H0562,AirTemperature,61.4,fahrenheit
+1124695800,H0562,AirTemperature,62.0,fahrenheit
+1124697600,H0562,AirTemperature,63.4,fahrenheit

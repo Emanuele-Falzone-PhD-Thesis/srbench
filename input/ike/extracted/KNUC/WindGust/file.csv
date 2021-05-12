@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1221033360,KNUC,WindGust,0.0,milesPerHour
+1221036960,KNUC,WindGust,0.0,milesPerHour
+1221040560,KNUC,WindGust,0.0,milesPerHour
+1221044160,KNUC,WindGust,0.0,milesPerHour
+1221047760,KNUC,WindGust,0.0,milesPerHour
+1221051360,KNUC,WindGust,0.0,milesPerHour
+1221054960,KNUC,WindGust,0.0,milesPerHour
+1221058560,KNUC,WindGust,20.0,milesPerHour
+1221062160,KNUC,WindGust,0.0,milesPerHour
+1221065760,KNUC,WindGust,0.0,milesPerHour
+1221069360,KNUC,WindGust,0.0,milesPerHour
+1221072960,KNUC,WindGust,0.0,milesPerHour
+1221076560,KNUC,WindGust,0.0,milesPerHour

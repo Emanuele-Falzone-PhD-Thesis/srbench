@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253134800,CYLD,AirTemperature,46.4,fahrenheit
+1253221200,CYLD,AirTemperature,57.2,fahrenheit
+1253307600,CYLD,AirTemperature,42.8,fahrenheit
+1253394000,CYLD,AirTemperature,51.8,fahrenheit
+1253480400,CYLD,AirTemperature,57.2,fahrenheit
+1253566800,CYLD,AirTemperature,62.6,fahrenheit

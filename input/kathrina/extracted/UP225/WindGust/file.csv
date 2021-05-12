@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1124812800,UP225,WindGust,16.0,milesPerHour
+1124964000,UP225,WindGust,9.0,milesPerHour
+1124994000,UP225,WindGust,52.0,milesPerHour
+1124994300,UP225,WindGust,55.0,milesPerHour
+1125000000,UP225,WindGust,100.0,milesPerHour
+1125045300,UP225,WindGust,7.0,milesPerHour
+1125046500,UP225,WindGust,12.0,milesPerHour
+1125046800,UP225,WindGust,12.0,milesPerHour

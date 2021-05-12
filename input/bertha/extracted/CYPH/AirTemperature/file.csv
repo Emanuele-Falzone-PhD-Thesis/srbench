@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYPH,AirTemperature,46.4,fahrenheit
+1253232000,CYPH,AirTemperature,41.0,fahrenheit
+1253318400,CYPH,AirTemperature,33.8,fahrenheit
+1253404800,CYPH,AirTemperature,44.6,fahrenheit
+1253491200,CYPH,AirTemperature,50.0,fahrenheit
+1253568840,CYPH,AirTemperature,44.6,fahrenheit
+1253569500,CYPH,AirTemperature,44.6,fahrenheit
+1253569680,CYPH,AirTemperature,44.6,fahrenheit
+1253570340,CYPH,AirTemperature,44.6,fahrenheit
+1253570400,CYPH,AirTemperature,44.6,fahrenheit
+1253572080,CYPH,AirTemperature,44.6,fahrenheit
+1253574000,CYPH,AirTemperature,44.6,fahrenheit
+1253577600,CYPH,AirTemperature,44.6,fahrenheit

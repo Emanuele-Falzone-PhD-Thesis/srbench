@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1124813400,BIRA2,DewPoint,42.8,fahrenheit
+1124817000,BIRA2,DewPoint,43.9,fahrenheit

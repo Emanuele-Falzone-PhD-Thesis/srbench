@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PASA,WindSpeed,10.0,milesPerHour
+1253230560,PASA,WindSpeed,28.0,milesPerHour
+1253318160,PASA,WindSpeed,22.0,milesPerHour
+1253404560,PASA,WindSpeed,18.0,milesPerHour
+1253490960,PASA,WindSpeed,18.0,milesPerHour
+1253576160,PASA,WindSpeed,29.0,milesPerHour

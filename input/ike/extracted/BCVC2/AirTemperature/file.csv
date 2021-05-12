@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1220148000,BCVC2,AirTemperature,53.8,fahrenheit
+1220234400,BCVC2,AirTemperature,51.8,fahrenheit
+1220320800,BCVC2,AirTemperature,70.3,fahrenheit
+1220407200,BCVC2,AirTemperature,45.0,fahrenheit
+1220493600,BCVC2,AirTemperature,43.2,fahrenheit
+1220580000,BCVC2,AirTemperature,46.9,fahrenheit
+1220666400,BCVC2,AirTemperature,44.8,fahrenheit
+1220752800,BCVC2,AirTemperature,65.5,fahrenheit
+1220839200,BCVC2,AirTemperature,68.5,fahrenheit
+1220925600,BCVC2,AirTemperature,46.0,fahrenheit
+1221012000,BCVC2,AirTemperature,45.9,fahrenheit
+1221098400,BCVC2,AirTemperature,42.4,fahrenheit
+1221184800,BCVC2,AirTemperature,42.4,fahrenheit
+1221271200,BCVC2,AirTemperature,37.0,fahrenheit

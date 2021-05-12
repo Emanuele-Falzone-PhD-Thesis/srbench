@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KDLL,AirTemperature,53.2,fahrenheit
+1253231700,KDLL,AirTemperature,51.8,fahrenheit
+1253318100,KDLL,AirTemperature,58.5,fahrenheit
+1253404500,KDLL,AirTemperature,55.0,fahrenheit
+1253490900,KDLL,AirTemperature,55.8,fahrenheit
+1253577300,KDLL,AirTemperature,59.9,fahrenheit

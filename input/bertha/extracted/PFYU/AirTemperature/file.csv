@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PFYU,AirTemperature,51.8,fahrenheit
+1253231760,PFYU,AirTemperature,48.2,fahrenheit
+1253316960,PFYU,AirTemperature,42.8,fahrenheit
+1253404560,PFYU,AirTemperature,33.8,fahrenheit
+1253490960,PFYU,AirTemperature,32.0,fahrenheit
+1253577360,PFYU,AirTemperature,33.8,fahrenheit

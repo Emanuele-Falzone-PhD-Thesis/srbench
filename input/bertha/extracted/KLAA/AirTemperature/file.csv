@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KLAA,AirTemperature,55.9,fahrenheit
+1253231580,KLAA,AirTemperature,52.0,fahrenheit
+1253317980,KLAA,AirTemperature,57.0,fahrenheit
+1253404380,KLAA,AirTemperature,60.1,fahrenheit
+1253490780,KLAA,AirTemperature,68.0,fahrenheit
+1253577180,KLAA,AirTemperature,44.1,fahrenheit

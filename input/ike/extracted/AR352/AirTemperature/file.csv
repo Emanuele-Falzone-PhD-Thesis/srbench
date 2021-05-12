@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1220264220,AR352,AirTemperature,45.0,fahrenheit
+1220272080,AR352,AirTemperature,50.0,fahrenheit
+1220278020,AR352,AirTemperature,53.0,fahrenheit
+1220810820,AR352,AirTemperature,78.0,fahrenheit
+1220847480,AR352,AirTemperature,45.0,fahrenheit
+1220870220,AR352,AirTemperature,72.0,fahrenheit
+1220883420,AR352,AirTemperature,80.0,fahrenheit
+1220908620,AR352,AirTemperature,66.0,fahrenheit
+1220921220,AR352,AirTemperature,58.0,fahrenheit
+1220961480,AR352,AirTemperature,75.0,fahrenheit
+1220962620,AR352,AirTemperature,76.0,fahrenheit
+1220972820,AR352,AirTemperature,78.0,fahrenheit
+1220981220,AR352,AirTemperature,74.0,fahrenheit
+1221152820,AR352,AirTemperature,68.0,fahrenheit
+1221187620,AR352,AirTemperature,42.0,fahrenheit

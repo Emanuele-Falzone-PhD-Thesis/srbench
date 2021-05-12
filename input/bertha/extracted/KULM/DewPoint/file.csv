@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KULM,DewPoint,59.0,fahrenheit
+1253231700,KULM,DewPoint,55.4,fahrenheit
+1253318100,KULM,DewPoint,55.4,fahrenheit
+1253404500,KULM,DewPoint,55.4,fahrenheit
+1253490900,KULM,DewPoint,51.8,fahrenheit
+1253577240,KULM,DewPoint,53.6,fahrenheit

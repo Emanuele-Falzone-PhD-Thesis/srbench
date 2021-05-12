@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253116800,CYOC,AirTemperature,59.0,fahrenheit
+1253203200,CYOC,AirTemperature,53.6,fahrenheit
+1253289600,CYOC,AirTemperature,39.2,fahrenheit
+1253376000,CYOC,AirTemperature,32.0,fahrenheit
+1253462400,CYOC,AirTemperature,32.0,fahrenheit
+1253548800,CYOC,AirTemperature,33.8,fahrenheit

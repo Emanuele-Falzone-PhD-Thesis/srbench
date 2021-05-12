@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1220359320,DTLM4,WindSpeed,8.0,milesPerHour
+1220457600,DTLM4,WindSpeed,10.0,milesPerHour
+1220996520,DTLM4,WindSpeed,4.0,milesPerHour
+1221085800,DTLM4,WindSpeed,4.0,milesPerHour

@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1124676000,FMTC2,AirTemperature,38.5,fahrenheit
+1124686800,FMTC2,AirTemperature,36.3,fahrenheit
+1124762400,FMTC2,AirTemperature,38.3,fahrenheit
+1124773200,FMTC2,AirTemperature,37.2,fahrenheit
+1124848800,FMTC2,AirTemperature,35.2,fahrenheit
+1124859600,FMTC2,AirTemperature,34.3,fahrenheit
+1124935200,FMTC2,AirTemperature,40.1,fahrenheit
+1124946000,FMTC2,AirTemperature,38.3,fahrenheit
+1125021600,FMTC2,AirTemperature,36.3,fahrenheit
+1125032400,FMTC2,AirTemperature,36.9,fahrenheit
+1125108000,FMTC2,AirTemperature,39.0,fahrenheit
+1125118800,FMTC2,AirTemperature,37.8,fahrenheit
+1125194400,FMTC2,AirTemperature,33.6,fahrenheit
+1125205200,FMTC2,AirTemperature,35.6,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KEMP,AirTemperature,64.9,fahrenheit
+1253231580,KEMP,AirTemperature,60.1,fahrenheit
+1253317980,KEMP,AirTemperature,57.0,fahrenheit
+1253404380,KEMP,AirTemperature,61.0,fahrenheit
+1253490780,KEMP,AirTemperature,66.9,fahrenheit
+1253577180,KEMP,AirTemperature,59.0,fahrenheit

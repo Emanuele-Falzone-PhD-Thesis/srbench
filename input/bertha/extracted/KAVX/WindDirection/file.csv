@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KAVX,WindDirection,90.0,degrees
+1253231460,KAVX,WindDirection,290.0,degrees
+1253317860,KAVX,WindDirection,130.0,degrees
+1253404260,KAVX,WindDirection,320.0,degrees
+1253490660,KAVX,WindDirection,250.0,degrees
+1253577060,KAVX,WindDirection,340.0,degrees

@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1092438000,LAGA2,AirTemperature,32.0,fahrenheit
+1092441600,LAGA2,AirTemperature,32.0,fahrenheit

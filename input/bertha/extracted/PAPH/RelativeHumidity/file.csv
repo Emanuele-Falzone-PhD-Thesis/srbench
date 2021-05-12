@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAPH,RelativeHumidity,93.0,percent
+1253231760,PAPH,RelativeHumidity,100.0,percent
+1253255760,PAPH,RelativeHumidity,93.0,percent
+1253537580,PAPH,RelativeHumidity,71.0,percent

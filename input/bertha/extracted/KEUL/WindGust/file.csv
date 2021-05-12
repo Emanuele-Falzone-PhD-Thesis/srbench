@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253145300,KEUL,WindGust,0.0,milesPerHour
+1253231700,KEUL,WindGust,0.0,milesPerHour
+1253404500,KEUL,WindGust,0.0,milesPerHour
+1253490900,KEUL,WindGust,0.0,milesPerHour
+1253577300,KEUL,WindGust,0.0,milesPerHour

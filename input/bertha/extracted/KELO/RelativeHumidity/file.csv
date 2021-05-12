@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KELO,RelativeHumidity,88.0,percent
+1253231580,KELO,RelativeHumidity,94.0,percent
+1253318040,KELO,RelativeHumidity,93.0,percent
+1253404380,KELO,RelativeHumidity,88.0,percent
+1253490780,KELO,RelativeHumidity,88.0,percent
+1253577180,KELO,RelativeHumidity,77.0,percent

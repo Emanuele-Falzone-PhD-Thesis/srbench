@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,PHHI,DewPoint,64.8,fahrenheit
+1253231700,PHHI,DewPoint,70.0,fahrenheit
+1253318100,PHHI,DewPoint,64.4,fahrenheit
+1253404500,PHHI,DewPoint,64.4,fahrenheit
+1253490900,PHHI,DewPoint,66.0,fahrenheit
+1253577300,PHHI,DewPoint,63.3,fahrenheit

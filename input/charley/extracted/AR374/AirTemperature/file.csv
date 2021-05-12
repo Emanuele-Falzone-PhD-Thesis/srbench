@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1091955900,AR374,AirTemperature,58.0,fahrenheit
+1091966400,AR374,AirTemperature,68.0,fahrenheit
+1091967300,AR374,AirTemperature,70.0,fahrenheit
+1091973300,AR374,AirTemperature,71.0,fahrenheit
+1091974500,AR374,AirTemperature,71.0,fahrenheit
+1091975700,AR374,AirTemperature,71.0,fahrenheit
+1091976900,AR374,AirTemperature,71.0,fahrenheit
+1091978700,AR374,AirTemperature,71.0,fahrenheit
+1091979300,AR374,AirTemperature,71.0,fahrenheit
+1092036600,AR374,AirTemperature,71.0,fahrenheit

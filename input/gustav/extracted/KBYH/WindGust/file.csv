@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1219651140,KBYH,WindGust,0.0,milesPerHour
+1219654680,KBYH,WindGust,0.0,milesPerHour
+1219658220,KBYH,WindGust,0.0,milesPerHour
+1219665180,KBYH,WindGust,0.0,milesPerHour
+1219668660,KBYH,WindGust,0.0,milesPerHour
+1219672500,KBYH,WindGust,0.0,milesPerHour
+1219675800,KBYH,WindGust,21.0,milesPerHour
+1219679640,KBYH,WindGust,25.0,milesPerHour
+1219683120,KBYH,WindGust,28.0,milesPerHour

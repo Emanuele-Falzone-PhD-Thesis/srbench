@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1124805600,WYSM8,PrecipitationSmoothed,21.5,centimeters
+1124881200,WYSM8,PrecipitationSmoothed,21.6,centimeters
+1124967600,WYSM8,PrecipitationSmoothed,21.6,centimeters
+1125043200,WYSM8,PrecipitationSmoothed,21.6,centimeters
+1125118800,WYSM8,PrecipitationSmoothed,21.7,centimeters
+1125129600,WYSM8,PrecipitationSmoothed,21.6,centimeters
+1125140400,WYSM8,PrecipitationSmoothed,21.6,centimeters
+1125151200,WYSM8,PrecipitationSmoothed,21.7,centimeters
+1125205200,WYSM8,PrecipitationSmoothed,21.7,centimeters
+1125248400,WYSM8,PrecipitationSmoothed,21.7,centimeters

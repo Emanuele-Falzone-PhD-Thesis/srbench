@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1220296380,AR588,AirTemperature,76.0,fahrenheit
+1220611380,AR588,AirTemperature,70.0,fahrenheit
+1220973780,AR588,AirTemperature,87.0,fahrenheit
+1221102240,AR588,AirTemperature,75.0,fahrenheit

@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1091986200,KBMQ,PeakWindSpeed,30.0,milesPerHour
+1091986500,KBMQ,PeakWindSpeed,30.0,milesPerHour
+1091987100,KBMQ,PeakWindSpeed,0.0,milesPerHour
+1091987400,KBMQ,PeakWindSpeed,0.0,milesPerHour
+1091991000,KBMQ,PeakWindSpeed,0.0,milesPerHour
+1091994600,KBMQ,PeakWindSpeed,0.0,milesPerHour
+1091998200,KBMQ,PeakWindSpeed,0.0,milesPerHour
+1092001800,KBMQ,PeakWindSpeed,0.0,milesPerHour
+1092005400,KBMQ,PeakWindSpeed,0.0,milesPerHour
+1092009000,KBMQ,PeakWindSpeed,0.0,milesPerHour

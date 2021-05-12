@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253347200,RCPC2,AirTemperature,42.8,fahrenheit
+1253433600,RCPC2,AirTemperature,41.5,fahrenheit
+1253174400,RCPC2,AirTemperature,41.2,fahrenheit
+1253260800,RCPC2,AirTemperature,41.7,fahrenheit
+1253520000,RCPC2,AirTemperature,35.8,fahrenheit
+1253088000,RCPC2,AirTemperature,41.5,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KODX,WindDirection,300.0,degrees
+1253231580,KODX,WindDirection,0.0,degrees
+1253317980,KODX,WindDirection,0.0,degrees
+1253404380,KODX,WindDirection,0.0,degrees
+1253490780,KODX,WindDirection,0.0,degrees
+1253577180,KODX,WindDirection,320.0,degrees

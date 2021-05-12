@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145420,KROG,WindSpeed,14.0,milesPerHour
+1253231820,KROG,WindSpeed,9.0,milesPerHour
+1253318220,KROG,WindSpeed,7.0,milesPerHour
+1253404620,KROG,WindSpeed,5.0,milesPerHour
+1253491020,KROG,WindSpeed,6.0,milesPerHour
+1253576040,KROG,WindSpeed,20.0,milesPerHour

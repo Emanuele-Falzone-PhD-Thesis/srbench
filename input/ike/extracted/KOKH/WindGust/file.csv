@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1220936280,KOKH,WindGust,0.0,milesPerHour
+1220939400,KOKH,WindGust,0.0,milesPerHour
+1220943060,KOKH,WindGust,0.0,milesPerHour
+1220946840,KOKH,WindGust,0.0,milesPerHour
+1220957880,KOKH,WindGust,0.0,milesPerHour
+1220961060,KOKH,WindGust,0.0,milesPerHour
+1220968080,KOKH,WindGust,17.0,milesPerHour
+1220971740,KOKH,WindGust,0.0,milesPerHour
+1220975160,KOKH,WindGust,0.0,milesPerHour
+1220978820,KOKH,WindGust,0.0,milesPerHour
+1220982360,KOKH,WindGust,0.0,milesPerHour
+1220986500,KOKH,WindGust,0.0,milesPerHour

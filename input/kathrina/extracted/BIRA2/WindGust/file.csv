@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1124813400,BIRA2,WindGust,6.0,milesPerHour
+1124817000,BIRA2,WindGust,8.0,milesPerHour

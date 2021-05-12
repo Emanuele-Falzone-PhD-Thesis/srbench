@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1125185700,C3801,WindGust,7.0,milesPerHour

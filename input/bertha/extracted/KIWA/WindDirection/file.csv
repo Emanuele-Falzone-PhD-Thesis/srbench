@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145420,KIWA,WindDirection,140.0,degrees
+1253231820,KIWA,WindDirection,120.0,degrees
+1253318220,KIWA,WindDirection,150.0,degrees
+1253404620,KIWA,WindDirection,0.0,degrees
+1253491020,KIWA,WindDirection,110.0,degrees
+1253577420,KIWA,WindDirection,120.0,degrees

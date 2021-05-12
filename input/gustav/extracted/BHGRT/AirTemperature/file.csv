@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1219755360,BHGRT,AirTemperature,58.0,fahrenheit
+1219776960,BHGRT,AirTemperature,59.0,fahrenheit
+1219798560,BHGRT,AirTemperature,52.0,fahrenheit
+1219841760,BHGRT,AirTemperature,53.0,fahrenheit
+1219863360,BHGRT,AirTemperature,59.0,fahrenheit
+1219884960,BHGRT,AirTemperature,52.0,fahrenheit
+1219928160,BHGRT,AirTemperature,55.0,fahrenheit
+1219949760,BHGRT,AirTemperature,58.0,fahrenheit
+1219971360,BHGRT,AirTemperature,54.0,fahrenheit
+1220014560,BHGRT,AirTemperature,57.0,fahrenheit
+1220036160,BHGRT,AirTemperature,58.0,fahrenheit
+1220057760,BHGRT,AirTemperature,53.0,fahrenheit
+1220100960,BHGRT,AirTemperature,56.0,fahrenheit
+1220122560,BHGRT,AirTemperature,63.0,fahrenheit

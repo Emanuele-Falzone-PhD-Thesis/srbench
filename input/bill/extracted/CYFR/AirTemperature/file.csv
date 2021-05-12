@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1253541600,CYFR,AirTemperature,39.2,fahrenheit
+1253545200,CYFR,AirTemperature,41.0,fahrenheit
+1253547780,CYFR,AirTemperature,0.0,fahrenheit
+1253548800,CYFR,AirTemperature,42.8,fahrenheit
+1253552400,CYFR,AirTemperature,42.8,fahrenheit
+1253556000,CYFR,AirTemperature,44.6,fahrenheit
+1253559600,CYFR,AirTemperature,46.4,fahrenheit
+1253561820,CYFR,AirTemperature,0.0,fahrenheit
+1253563200,CYFR,AirTemperature,48.2,fahrenheit

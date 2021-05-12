@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253202600,PAUO,WindSpeed,9.0,milesPerHour
+1253289420,PAUO,WindSpeed,7.0,milesPerHour
+1253372160,PAUO,WindSpeed,5.0,milesPerHour
+1253462280,PAUO,WindSpeed,5.0,milesPerHour
+1253548320,PAUO,WindSpeed,0.0,milesPerHour

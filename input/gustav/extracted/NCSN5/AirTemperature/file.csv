@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,NCSN5,AirTemperature,66.6,fahrenheit
+1219629600,NCSN5,AirTemperature,65.5,fahrenheit
+1219716000,NCSN5,AirTemperature,43.9,fahrenheit
+1219802400,NCSN5,AirTemperature,48.6,fahrenheit
+1219888800,NCSN5,AirTemperature,45.3,fahrenheit
+1219975200,NCSN5,AirTemperature,45.0,fahrenheit
+1220061600,NCSN5,AirTemperature,42.8,fahrenheit

@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,RAWC2,AirTemperature,75.2,fahrenheit
+1219629600,RAWC2,AirTemperature,75.6,fahrenheit
+1219716000,RAWC2,AirTemperature,49.8,fahrenheit
+1219802400,RAWC2,AirTemperature,50.2,fahrenheit
+1219888800,RAWC2,AirTemperature,49.6,fahrenheit
+1219975200,RAWC2,AirTemperature,49.8,fahrenheit
+1220061600,RAWC2,AirTemperature,51.4,fahrenheit

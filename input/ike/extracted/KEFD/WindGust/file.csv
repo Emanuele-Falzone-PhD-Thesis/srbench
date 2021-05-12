@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1220248200,KEFD,WindGust,0.0,milesPerHour
+1220280600,KEFD,WindGust,23.0,milesPerHour
+1220291400,KEFD,WindGust,23.0,milesPerHour
+1220295000,KEFD,WindGust,0.0,milesPerHour
+1220309400,KEFD,WindGust,0.0,milesPerHour
+1221202200,KEFD,WindGust,0.0,milesPerHour
+1221205800,KEFD,WindGust,0.0,milesPerHour
+1221220200,KEFD,WindGust,26.0,milesPerHour
+1221222600,KEFD,WindGust,30.0,milesPerHour
+1221226200,KEFD,WindGust,0.0,milesPerHour

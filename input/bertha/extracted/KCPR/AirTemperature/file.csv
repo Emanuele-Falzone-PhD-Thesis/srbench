@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1253145180,KCPR,AirTemperature,46.0,fahrenheit
+1253231580,KCPR,AirTemperature,48.9,fahrenheit
+1253317980,KCPR,AirTemperature,46.9,fahrenheit
+1253404380,KCPR,AirTemperature,64.9,fahrenheit
+1253490780,KCPR,AirTemperature,41.0,fahrenheit
+1253573580,KCPR,AirTemperature,42.1,fahrenheit
+1253577180,KCPR,AirTemperature,39.0,fahrenheit

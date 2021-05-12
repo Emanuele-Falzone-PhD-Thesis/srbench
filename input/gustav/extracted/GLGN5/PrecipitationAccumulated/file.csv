@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,GLGN5,PrecipitationAccumulated,12.3,centimeters
+1219629600,GLGN5,PrecipitationAccumulated,9.7,centimeters
+1219716000,GLGN5,PrecipitationAccumulated,20.8,centimeters
+1219802400,GLGN5,PrecipitationAccumulated,20.9,centimeters
+1219888800,GLGN5,PrecipitationAccumulated,20.9,centimeters
+1219975200,GLGN5,PrecipitationAccumulated,20.9,centimeters
+1220061600,GLGN5,PrecipitationAccumulated,21.2,centimeters

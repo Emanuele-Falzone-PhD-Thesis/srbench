@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253141400,PAHZ,AirTemperature,48.2,fahrenheit
+1253227800,PAHZ,AirTemperature,44.6,fahrenheit
+1253314200,PAHZ,AirTemperature,46.4,fahrenheit
+1253400600,PAHZ,AirTemperature,44.6,fahrenheit
+1253487000,PAHZ,AirTemperature,46.4,fahrenheit
+1253573400,PAHZ,AirTemperature,39.2,fahrenheit

@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1092027600,KOGS,Visibility,4.0,centimeters
+1092145500,KOGS,Visibility,10.0,centimeters
+1092419100,KOGS,Visibility,4.0,centimeters

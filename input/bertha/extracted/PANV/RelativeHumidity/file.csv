@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PANV,RelativeHumidity,71.0,percent
+1253231760,PANV,RelativeHumidity,62.0,percent
+1253318160,PANV,RelativeHumidity,71.0,percent
+1253404560,PANV,RelativeHumidity,81.0,percent
+1253490960,PANV,RelativeHumidity,70.0,percent
+1253577360,PANV,RelativeHumidity,80.0,percent

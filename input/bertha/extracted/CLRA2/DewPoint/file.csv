@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253142600,CLRA2,DewPoint,41.4,fahrenheit
+1253144400,CLRA2,DewPoint,41.7,fahrenheit
+1253230740,CLRA2,DewPoint,43.3,fahrenheit
+1253317260,CLRA2,DewPoint,39.6,fahrenheit
+1253403600,CLRA2,DewPoint,26.0,fahrenheit
+1253490000,CLRA2,DewPoint,27.2,fahrenheit
+1253574600,CLRA2,DewPoint,30.1,fahrenheit
+1253576340,CLRA2,DewPoint,30.1,fahrenheit

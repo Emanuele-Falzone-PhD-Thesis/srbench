@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1219558680,MMOX,DewPoint,51.8,fahrenheit
+1219644780,MMOX,DewPoint,53.6,fahrenheit
+1219731300,MMOX,DewPoint,55.4,fahrenheit
+1219768380,MMOX,DewPoint,60.8,fahrenheit
+1219817520,MMOX,DewPoint,60.8,fahrenheit
+1219860420,MMOX,DewPoint,60.8,fahrenheit
+1219903200,MMOX,DewPoint,59.0,fahrenheit
+1219954500,MMOX,DewPoint,59.0,fahrenheit
+1219989960,MMOX,DewPoint,59.0,fahrenheit
+1219997640,MMOX,DewPoint,59.0,fahrenheit
+1220022240,MMOX,DewPoint,60.8,fahrenheit
+1220076180,MMOX,DewPoint,59.0,fahrenheit

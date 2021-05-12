@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253208240,MBZH,WindDirection,225.0,degrees
+1253397360,MBZH,WindDirection,275.0,degrees
+1253443320,MBZH,WindDirection,240.0,degrees

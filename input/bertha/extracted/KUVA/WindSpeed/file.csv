@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144880,KUVA,WindSpeed,8.0,milesPerHour
+1253231280,KUVA,WindSpeed,8.0,milesPerHour
+1253317680,KUVA,WindSpeed,6.0,milesPerHour
+1253404140,KUVA,WindSpeed,3.0,milesPerHour
+1253490540,KUVA,WindSpeed,0.0,milesPerHour
+1253576940,KUVA,WindSpeed,5.0,milesPerHour

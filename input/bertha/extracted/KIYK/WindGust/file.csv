@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1253385900,KIYK,WindGust,25.0,milesPerHour

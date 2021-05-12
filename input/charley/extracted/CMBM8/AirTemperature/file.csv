@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1091973600,CMBM8,AirTemperature,64.0,fahrenheit
+1091984400,CMBM8,AirTemperature,69.0,fahrenheit
+1091995200,CMBM8,AirTemperature,65.0,fahrenheit
+1092049200,CMBM8,AirTemperature,56.0,fahrenheit
+1092081600,CMBM8,AirTemperature,70.0,fahrenheit
+1092092400,CMBM8,AirTemperature,56.0,fahrenheit
+1092114000,CMBM8,AirTemperature,43.0,fahrenheit
+1092124800,CMBM8,AirTemperature,40.0,fahrenheit
+1092135600,CMBM8,AirTemperature,58.0,fahrenheit
+1092146400,CMBM8,AirTemperature,69.0,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KAIZ,WindDirection,50.0,degrees
+1253231700,KAIZ,WindDirection,40.0,degrees
+1253318100,KAIZ,WindDirection,60.0,degrees
+1253404500,KAIZ,WindDirection,70.0,degrees
+1253490900,KAIZ,WindDirection,0.0,degrees
+1253577300,KAIZ,WindDirection,260.0,degrees

@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1220001300,TR427,RelativeHumidity,45.0,percent

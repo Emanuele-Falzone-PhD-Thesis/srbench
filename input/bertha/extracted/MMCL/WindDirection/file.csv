@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253137200,MMCL,WindDirection,0.0,degrees
+1253223600,MMCL,WindDirection,0.0,degrees
+1253310180,MMCL,WindDirection,320.0,degrees
+1253396400,MMCL,WindDirection,0.0,degrees
+1253482800,MMCL,WindDirection,0.0,degrees
+1253569200,MMCL,WindDirection,0.0,degrees

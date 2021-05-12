@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1220486400,JDPC1,DewPoint,27.0,fahrenheit
+1220490000,JDPC1,DewPoint,26.3,fahrenheit
+1220493600,JDPC1,DewPoint,30.1,fahrenheit

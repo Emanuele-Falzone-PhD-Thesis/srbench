@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PHKO,AirTemperature,79.0,fahrenheit
+1253231580,PHKO,AirTemperature,79.0,fahrenheit
+1253317980,PHKO,AirTemperature,79.0,fahrenheit
+1253404380,PHKO,AirTemperature,80.1,fahrenheit
+1253490780,PHKO,AirTemperature,78.1,fahrenheit
+1253577180,PHKO,AirTemperature,80.1,fahrenheit

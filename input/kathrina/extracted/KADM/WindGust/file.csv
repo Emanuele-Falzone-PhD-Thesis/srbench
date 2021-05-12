@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1125125700,KADM,WindGust,0.0,milesPerHour
+1125129300,KADM,WindGust,0.0,milesPerHour
+1125132600,KADM,WindGust,0.0,milesPerHour
+1125136500,KADM,WindGust,0.0,milesPerHour
+1125140100,KADM,WindGust,0.0,milesPerHour
+1125143700,KADM,WindGust,33.0,milesPerHour
+1125147300,KADM,WindGust,0.0,milesPerHour
+1125150900,KADM,WindGust,0.0,milesPerHour
+1125154500,KADM,WindGust,0.0,milesPerHour
+1125158100,KADM,WindGust,0.0,milesPerHour
+1125161700,KADM,WindGust,0.0,milesPerHour

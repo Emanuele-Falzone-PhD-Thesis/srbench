@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KLOU,DewPoint,53.1,fahrenheit
+1253231580,KLOU,DewPoint,62.1,fahrenheit
+1253317980,KLOU,DewPoint,60.1,fahrenheit
+1253404380,KLOU,DewPoint,59.0,fahrenheit
+1253490780,KLOU,DewPoint,68.0,fahrenheit
+1253577180,KLOU,DewPoint,69.1,fahrenheit

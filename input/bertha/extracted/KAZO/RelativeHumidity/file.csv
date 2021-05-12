@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KAZO,RelativeHumidity,80.0,percent
+1253231580,KAZO,RelativeHumidity,86.0,percent
+1253317980,KAZO,RelativeHumidity,75.0,percent
+1253404380,KAZO,RelativeHumidity,74.0,percent
+1253490780,KAZO,RelativeHumidity,76.0,percent
+1253577600,KAZO,RelativeHumidity,94.0,percent

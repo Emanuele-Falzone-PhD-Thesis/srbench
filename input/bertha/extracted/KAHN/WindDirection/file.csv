@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KAHN,WindDirection,130.0,degrees
+1253231460,KAHN,WindDirection,120.0,degrees
+1253317860,KAHN,WindDirection,60.0,degrees
+1253404260,KAHN,WindDirection,100.0,degrees
+1253490660,KAHN,WindDirection,110.0,degrees
+1253577060,KAHN,WindDirection,120.0,degrees

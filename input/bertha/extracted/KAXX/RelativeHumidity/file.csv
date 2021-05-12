@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145000,KAXX,RelativeHumidity,93.0,percent
+1253231400,KAXX,RelativeHumidity,87.0,percent
+1253317800,KAXX,RelativeHumidity,93.0,percent
+1253404200,KAXX,RelativeHumidity,93.0,percent
+1253490600,KAXX,RelativeHumidity,93.0,percent
+1253577000,KAXX,RelativeHumidity,80.0,percent

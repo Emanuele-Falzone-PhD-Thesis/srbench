@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1091944500,KAXO,RelativeHumidity,89.0,percent
+1091965200,KAXO,RelativeHumidity,89.0,percent
+1091986500,KAXO,RelativeHumidity,94.0,percent
+1092031200,KAXO,RelativeHumidity,89.0,percent
+1092051000,KAXO,RelativeHumidity,84.0,percent
+1092072600,KAXO,RelativeHumidity,84.0,percent
+1092117300,KAXO,RelativeHumidity,94.0,percent
+1092138300,KAXO,RelativeHumidity,84.0,percent
+1092159000,KAXO,RelativeHumidity,79.0,percent
+1092203700,KAXO,RelativeHumidity,94.0,percent
+1092223800,KAXO,RelativeHumidity,79.0,percent
+1092241800,KAXO,RelativeHumidity,74.0,percent
+1092287400,KAXO,RelativeHumidity,84.0,percent
+1092376500,KAXO,RelativeHumidity,69.0,percent
+1092398400,KAXO,RelativeHumidity,65.0,percent

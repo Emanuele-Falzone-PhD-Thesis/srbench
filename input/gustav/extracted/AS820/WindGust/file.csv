@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1220138160,AS820,WindGust,0.0,milesPerHour
+1220138700,AS820,WindGust,0.0,milesPerHour
+1220139900,AS820,WindGust,0.0,milesPerHour
+1220140500,AS820,WindGust,0.0,milesPerHour

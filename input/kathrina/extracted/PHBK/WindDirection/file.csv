@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1124780100,PHBK,WindDirection,40.0,degrees
+1124787300,PHBK,WindDirection,0.0,degrees
+1124790900,PHBK,WindDirection,300.0,degrees
+1124866500,PHBK,WindDirection,60.0,degrees
+1124870100,PHBK,WindDirection,0.0,degrees
+1124873700,PHBK,WindDirection,240.0,degrees
+1124880900,PHBK,WindDirection,230.0,degrees
+1124952900,PHBK,WindDirection,130.0,degrees
+1124956500,PHBK,WindDirection,130.0,degrees
+1124960100,PHBK,WindDirection,330.0,degrees
+1125042900,PHBK,WindDirection,0.0,degrees
+1125053700,PHBK,WindDirection,250.0,degrees
+1125057300,PHBK,WindDirection,230.0,degrees

@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1125122400,KCWF,WindGust,0.0,milesPerHour
+1125125400,KCWF,WindGust,0.0,milesPerHour
+1125143700,KCWF,WindGust,0.0,milesPerHour
+1125154500,KCWF,WindGust,0.0,milesPerHour
+1125158100,KCWF,WindGust,0.0,milesPerHour
+1125161400,KCWF,WindGust,0.0,milesPerHour
+1125165300,KCWF,WindGust,0.0,milesPerHour
+1125172500,KCWF,WindGust,0.0,milesPerHour
+1125179700,KCWF,WindGust,24.0,milesPerHour

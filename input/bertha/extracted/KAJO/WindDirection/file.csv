@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,KAJO,WindDirection,0.0,degrees
+1253231760,KAJO,WindDirection,0.0,degrees
+1253318160,KAJO,WindDirection,280.0,degrees
+1253404560,KAJO,WindDirection,250.0,degrees
+1253490960,KAJO,WindDirection,240.0,degrees
+1253577360,KAJO,WindDirection,0.0,degrees

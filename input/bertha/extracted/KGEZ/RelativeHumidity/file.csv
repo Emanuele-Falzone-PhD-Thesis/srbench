@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KGEZ,RelativeHumidity,72.0,percent
+1253231580,KGEZ,RelativeHumidity,75.0,percent
+1253317980,KGEZ,RelativeHumidity,72.0,percent
+1253404380,KGEZ,RelativeHumidity,72.0,percent
+1253490780,KGEZ,RelativeHumidity,93.0,percent
+1253577180,KGEZ,RelativeHumidity,93.0,percent

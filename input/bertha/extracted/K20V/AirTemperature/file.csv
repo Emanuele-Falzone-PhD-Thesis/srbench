@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,K20V,AirTemperature,44.6,fahrenheit
+1253231640,K20V,AirTemperature,42.8,fahrenheit
+1253315220,K20V,AirTemperature,46.4,fahrenheit
+1253404440,K20V,AirTemperature,50.0,fahrenheit
+1253487600,K20V,AirTemperature,41.0,fahrenheit
+1253577240,K20V,AirTemperature,30.2,fahrenheit

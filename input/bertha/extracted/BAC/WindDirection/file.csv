@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,BAC,WindDirection,276.0,degrees
+1253232000,BAC,WindDirection,219.0,degrees
+1253318400,BAC,WindDirection,203.0,degrees
+1253404800,BAC,WindDirection,202.0,degrees
+1253491200,BAC,WindDirection,330.0,degrees
+1253577600,BAC,WindDirection,294.0,degrees

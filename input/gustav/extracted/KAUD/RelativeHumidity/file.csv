@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1219740780,KAUD,RelativeHumidity,80.0,percent
+1220050260,KAUD,RelativeHumidity,81.0,percent

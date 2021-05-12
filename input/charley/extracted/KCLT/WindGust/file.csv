@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1092304200,KCLT,WindGust,0.0,milesPerHour
+1092322200,KCLT,WindGust,18.0,milesPerHour
+1092325800,KCLT,WindGust,0.0,milesPerHour
+1092326700,KCLT,WindGust,0.0,milesPerHour
+1092328500,KCLT,WindGust,0.0,milesPerHour
+1092329400,KCLT,WindGust,0.0,milesPerHour
+1092330000,KCLT,WindGust,0.0,milesPerHour
+1092331800,KCLT,WindGust,0.0,milesPerHour
+1092333000,KCLT,WindGust,0.0,milesPerHour
+1092336000,KCLT,WindGust,0.0,milesPerHour
+1092336600,KCLT,WindGust,0.0,milesPerHour
+1092337200,KCLT,WindGust,0.0,milesPerHour
+1092354600,KCLT,WindGust,0.0,milesPerHour

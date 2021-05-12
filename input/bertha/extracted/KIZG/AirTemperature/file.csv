@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KIZG,AirTemperature,52.0,fahrenheit
+1253231640,KIZG,AirTemperature,42.1,fahrenheit
+1253318040,KIZG,AirTemperature,48.9,fahrenheit
+1253404440,KIZG,AirTemperature,36.0,fahrenheit
+1253490840,KIZG,AirTemperature,39.0,fahrenheit
+1253577240,KIZG,AirTemperature,43.0,fahrenheit

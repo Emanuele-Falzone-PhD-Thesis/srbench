@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KYIP,AirTemperature,54.0,fahrenheit
+1253231820,KYIP,AirTemperature,53.6,fahrenheit
+1253317980,KYIP,AirTemperature,55.0,fahrenheit
+1253404380,KYIP,AirTemperature,48.0,fahrenheit
+1253490780,KYIP,AirTemperature,68.0,fahrenheit
+1253577180,KYIP,AirTemperature,69.1,fahrenheit

@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1219956960,KSTL,PeakWindSpeed,45.0,milesPerHour
+1219960260,KSTL,PeakWindSpeed,45.0,milesPerHour
+1219963860,KSTL,PeakWindSpeed,0.0,milesPerHour
+1219967460,KSTL,PeakWindSpeed,0.0,milesPerHour
+1219967880,KSTL,PeakWindSpeed,0.0,milesPerHour

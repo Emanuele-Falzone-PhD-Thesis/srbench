@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1124756400,SHCM6,DewPoint,75.0,fahrenheit
+1124760000,SHCM6,DewPoint,76.0,fahrenheit
+1124763600,SHCM6,DewPoint,75.0,fahrenheit
+1124767200,SHCM6,DewPoint,76.0,fahrenheit
+1124770800,SHCM6,DewPoint,75.0,fahrenheit
+1124774400,SHCM6,DewPoint,74.0,fahrenheit
+1124778000,SHCM6,DewPoint,74.0,fahrenheit
+1124781600,SHCM6,DewPoint,75.0,fahrenheit
+1124785200,SHCM6,DewPoint,77.0,fahrenheit

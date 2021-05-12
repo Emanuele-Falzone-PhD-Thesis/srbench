@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1219654800,STP40,DewPoint,43.7,fahrenheit
+1219658400,STP40,DewPoint,44.6,fahrenheit
+1219662000,STP40,DewPoint,45.4,fahrenheit
+1219665600,STP40,DewPoint,44.3,fahrenheit

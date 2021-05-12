@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1124757000,C2258,AirTemperature,69.0,fahrenheit
+1124758800,C2258,AirTemperature,68.0,fahrenheit
+1124760600,C2258,AirTemperature,68.0,fahrenheit
+1124762400,C2258,AirTemperature,67.0,fahrenheit
+1124764200,C2258,AirTemperature,68.0,fahrenheit
+1124767800,C2258,AirTemperature,66.0,fahrenheit
+1124769600,C2258,AirTemperature,66.0,fahrenheit
+1124771400,C2258,AirTemperature,66.0,fahrenheit
+1124773200,C2258,AirTemperature,67.0,fahrenheit
+1124775000,C2258,AirTemperature,68.0,fahrenheit

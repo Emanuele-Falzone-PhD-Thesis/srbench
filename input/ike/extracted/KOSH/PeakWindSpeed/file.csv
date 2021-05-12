@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1221153180,KOSH,PeakWindSpeed,0.0,milesPerHour
+1221153660,KOSH,PeakWindSpeed,0.0,milesPerHour
+1221155580,KOSH,PeakWindSpeed,0.0,milesPerHour
+1221157260,KOSH,PeakWindSpeed,0.0,milesPerHour
+1221159180,KOSH,PeakWindSpeed,0.0,milesPerHour
+1221162780,KOSH,PeakWindSpeed,0.0,milesPerHour
+1221163260,KOSH,PeakWindSpeed,0.0,milesPerHour
+1221164820,KOSH,PeakWindSpeed,0.0,milesPerHour
+1221166380,KOSH,PeakWindSpeed,0.0,milesPerHour
+1221169980,KOSH,PeakWindSpeed,0.0,milesPerHour
+1221173400,KOSH,PeakWindSpeed,0.0,milesPerHour
+1221173580,KOSH,PeakWindSpeed,0.0,milesPerHour
+1221177180,KOSH,PeakWindSpeed,0.0,milesPerHour

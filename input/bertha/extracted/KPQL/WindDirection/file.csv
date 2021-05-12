@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KPQL,WindDirection,0.0,degrees
+1253231580,KPQL,WindDirection,0.0,degrees
+1253317980,KPQL,WindDirection,170.0,degrees
+1253404380,KPQL,WindDirection,0.0,degrees
+1253490780,KPQL,WindDirection,0.0,degrees
+1253577180,KPQL,WindDirection,0.0,degrees

@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1124775900,PAPR,WindSpeed,13.0,milesPerHour
+1124779500,PAPR,WindSpeed,14.0,milesPerHour
+1124783100,PAPR,WindSpeed,14.0,milesPerHour
+1124786700,PAPR,WindSpeed,18.0,milesPerHour
+1124790300,PAPR,WindSpeed,21.0,milesPerHour
+1124794500,PAPR,WindSpeed,15.0,milesPerHour
+1124795400,PAPR,WindSpeed,14.0,milesPerHour

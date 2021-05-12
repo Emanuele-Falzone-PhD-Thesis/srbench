@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1092425700,KILM,WindGust,0.0,milesPerHour
+1092430200,KILM,WindGust,0.0,milesPerHour
+1092433800,KILM,WindGust,0.0,milesPerHour
+1092437400,KILM,WindGust,0.0,milesPerHour
+1092441000,KILM,WindGust,0.0,milesPerHour

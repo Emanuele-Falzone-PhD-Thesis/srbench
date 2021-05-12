@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1220562120,KHSA,DewPoint,80.6,fahrenheit
+1220648340,KHSA,DewPoint,80.6,fahrenheit
+1220684100,KHSA,DewPoint,75.2,fahrenheit
+1220943360,KHSA,DewPoint,78.8,fahrenheit
+1221167400,KHSA,DewPoint,82.4,fahrenheit
+1221202500,KHSA,DewPoint,84.2,fahrenheit
+1221252900,KHSA,DewPoint,84.2,fahrenheit
+1221289200,KHSA,DewPoint,82.4,fahrenheit
+1221339300,KHSA,DewPoint,84.2,fahrenheit

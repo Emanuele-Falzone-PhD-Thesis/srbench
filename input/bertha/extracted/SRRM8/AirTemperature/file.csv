@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,SRRM8,AirTemperature,75.2,fahrenheit
+1253231640,SRRM8,AirTemperature,64.4,fahrenheit
+1253318040,SRRM8,AirTemperature,62.6,fahrenheit
+1253404440,SRRM8,AirTemperature,64.4,fahrenheit
+1253490840,SRRM8,AirTemperature,44.6,fahrenheit
+1253577240,SRRM8,AirTemperature,42.8,fahrenheit

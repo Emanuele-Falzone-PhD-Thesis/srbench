@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KCWA,AirTemperature,50.0,fahrenheit
+1253228040,KCWA,AirTemperature,60.8,fahrenheit
+1253316900,KCWA,AirTemperature,55.4,fahrenheit
+1253404440,KCWA,AirTemperature,53.6,fahrenheit
+1253490900,KCWA,AirTemperature,55.4,fahrenheit
+1253573640,KCWA,AirTemperature,57.2,fahrenheit

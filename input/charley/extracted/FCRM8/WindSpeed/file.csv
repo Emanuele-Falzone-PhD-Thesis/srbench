@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1092309300,FCRM8,WindSpeed,3.0,milesPerHour
+1092312900,FCRM8,WindSpeed,7.0,milesPerHour
+1092316500,FCRM8,WindSpeed,7.0,milesPerHour
+1092320100,FCRM8,WindSpeed,5.0,milesPerHour
+1092323700,FCRM8,WindSpeed,5.0,milesPerHour
+1092327300,FCRM8,WindSpeed,5.0,milesPerHour
+1092330900,FCRM8,WindSpeed,4.0,milesPerHour

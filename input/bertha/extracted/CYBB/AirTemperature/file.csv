@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1253114400,CYBB,AirTemperature,0.0,fahrenheit
+1253120400,CYBB,AirTemperature,33.8,fahrenheit
+1253206800,CYBB,AirTemperature,35.6,fahrenheit
+1253293200,CYBB,AirTemperature,39.2,fahrenheit
+1253383200,CYBB,AirTemperature,33.8,fahrenheit
+1253466000,CYBB,AirTemperature,28.4,fahrenheit
+1253552400,CYBB,AirTemperature,28.4,fahrenheit

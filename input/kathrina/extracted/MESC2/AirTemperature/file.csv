@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1124676000,MESC2,AirTemperature,39.7,fahrenheit
+1124686800,MESC2,AirTemperature,40.1,fahrenheit
+1124762400,MESC2,AirTemperature,40.1,fahrenheit
+1124773200,MESC2,AirTemperature,42.3,fahrenheit
+1124848800,MESC2,AirTemperature,40.1,fahrenheit
+1124859600,MESC2,AirTemperature,41.4,fahrenheit
+1124935200,MESC2,AirTemperature,43.9,fahrenheit
+1124946000,MESC2,AirTemperature,41.4,fahrenheit
+1125021600,MESC2,AirTemperature,43.5,fahrenheit
+1125032400,MESC2,AirTemperature,41.7,fahrenheit
+1125108000,MESC2,AirTemperature,39.6,fahrenheit
+1125118800,MESC2,AirTemperature,39.7,fahrenheit
+1125194400,MESC2,AirTemperature,53.8,fahrenheit
+1125205200,MESC2,AirTemperature,36.9,fahrenheit

@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1220205720,AS526,DewPoint,58.4,fahrenheit
+1220520720,AS526,DewPoint,61.4,fahrenheit

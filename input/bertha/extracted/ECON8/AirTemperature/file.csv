@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,ECON8,AirTemperature,66.2,fahrenheit
+1253231460,ECON8,AirTemperature,60.8,fahrenheit
+1253317860,ECON8,AirTemperature,59.0,fahrenheit
+1253404260,ECON8,AirTemperature,66.2,fahrenheit
+1253490660,ECON8,AirTemperature,55.4,fahrenheit
+1253577060,ECON8,AirTemperature,48.2,fahrenheit

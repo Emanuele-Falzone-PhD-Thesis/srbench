@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253145180,KLVS,WindGust,0.0,milesPerHour
+1253317980,KLVS,WindGust,0.0,milesPerHour
+1253404380,KLVS,WindGust,0.0,milesPerHour
+1253490780,KLVS,WindGust,0.0,milesPerHour
+1253577180,KLVS,WindGust,23.0,milesPerHour

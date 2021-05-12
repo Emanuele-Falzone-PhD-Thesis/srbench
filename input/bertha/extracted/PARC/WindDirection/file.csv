@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253231760,PARC,WindDirection,0.0,degrees
+1253318160,PARC,WindDirection,50.0,degrees
+1253404560,PARC,WindDirection,150.0,degrees
+1253490960,PARC,WindDirection,60.0,degrees
+1253577360,PARC,WindDirection,10.0,degrees

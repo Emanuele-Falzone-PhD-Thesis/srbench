@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1220910780,KCHA,PeakWindSpeed,0.0,milesPerHour
+1220914200,KCHA,PeakWindSpeed,0.0,milesPerHour
+1220914380,KCHA,PeakWindSpeed,0.0,milesPerHour
+1220917980,KCHA,PeakWindSpeed,0.0,milesPerHour

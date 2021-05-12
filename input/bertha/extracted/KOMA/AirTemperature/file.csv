@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145120,KOMA,AirTemperature,63.0,fahrenheit
+1253231520,KOMA,AirTemperature,64.9,fahrenheit
+1253317920,KOMA,AirTemperature,63.0,fahrenheit
+1253404320,KOMA,AirTemperature,57.9,fahrenheit
+1253490720,KOMA,AirTemperature,66.9,fahrenheit
+1253577120,KOMA,AirTemperature,52.0,fahrenheit

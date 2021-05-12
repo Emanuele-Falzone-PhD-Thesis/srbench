@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253549760,AP913,Precipitation,2.13,centimeters
+1253550960,AP913,Precipitation,2.15,centimeters
+1253554560,AP913,Precipitation,3.67,centimeters
+1253556960,AP913,Precipitation,3.72,centimeters

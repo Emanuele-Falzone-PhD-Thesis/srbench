@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253145240,KORB,WindGust,0.0,milesPerHour
+1253404440,KORB,WindGust,0.0,milesPerHour
+1253490840,KORB,WindGust,0.0,milesPerHour
+1253577240,KORB,WindGust,0.0,milesPerHour

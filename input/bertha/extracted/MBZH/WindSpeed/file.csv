@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253208240,MBZH,WindSpeed,12.0,milesPerHour
+1253397360,MBZH,WindSpeed,16.0,milesPerHour
+1253443320,MBZH,WindSpeed,16.0,milesPerHour

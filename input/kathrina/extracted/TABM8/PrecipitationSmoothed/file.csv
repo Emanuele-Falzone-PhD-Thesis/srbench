@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1124805600,TABM8,PrecipitationSmoothed,12.8,centimeters
+1124892000,TABM8,PrecipitationSmoothed,12.9,centimeters
+1124978400,TABM8,PrecipitationSmoothed,12.8,centimeters
+1125021600,TABM8,PrecipitationSmoothed,12.9,centimeters
+1125064800,TABM8,PrecipitationSmoothed,12.8,centimeters
+1125108000,TABM8,PrecipitationSmoothed,12.8,centimeters
+1125151200,TABM8,PrecipitationSmoothed,12.9,centimeters
+1125194400,TABM8,PrecipitationSmoothed,12.9,centimeters

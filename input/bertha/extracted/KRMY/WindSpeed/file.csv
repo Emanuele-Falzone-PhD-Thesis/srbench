@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KRMY,WindSpeed,0.0,milesPerHour
+1253231700,KRMY,WindSpeed,0.0,milesPerHour
+1253318100,KRMY,WindSpeed,5.0,milesPerHour
+1253404500,KRMY,WindSpeed,0.0,milesPerHour
+1253490900,KRMY,WindSpeed,7.0,milesPerHour
+1253577420,KRMY,WindSpeed,0.0,milesPerHour

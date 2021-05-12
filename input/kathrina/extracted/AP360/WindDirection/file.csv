@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1125214500,AP360,WindDirection,0.0,degrees
+1125245700,AP360,WindDirection,302.0,degrees
+1125246300,AP360,WindDirection,0.0,degrees
+1125248400,AP360,WindDirection,277.0,degrees

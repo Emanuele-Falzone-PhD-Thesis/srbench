@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1124762400,NFJM8,AirTemperature,53.0,fahrenheit
+1124773200,NFJM8,AirTemperature,45.0,fahrenheit
+1124784000,NFJM8,AirTemperature,48.0,fahrenheit
+1124805600,NFJM8,AirTemperature,63.0,fahrenheit
+1124859600,NFJM8,AirTemperature,42.0,fahrenheit
+1124881200,NFJM8,AirTemperature,43.0,fahrenheit
+1125140400,NFJM8,AirTemperature,67.0,fahrenheit
+1125151200,NFJM8,AirTemperature,73.0,fahrenheit
+1125162000,NFJM8,AirTemperature,72.0,fahrenheit
+1125194400,NFJM8,AirTemperature,44.0,fahrenheit
+1125205200,NFJM8,AirTemperature,42.0,fahrenheit
+1125216000,NFJM8,AirTemperature,42.0,fahrenheit
+1125226800,NFJM8,AirTemperature,67.0,fahrenheit
+1125248400,NFJM8,AirTemperature,75.0,fahrenheit

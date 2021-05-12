@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144880,KUVA,RelativeHumidity,62.0,percent
+1253231280,KUVA,RelativeHumidity,70.0,percent
+1253317680,KUVA,RelativeHumidity,65.0,percent
+1253404140,KUVA,RelativeHumidity,81.0,percent
+1253490540,KUVA,RelativeHumidity,75.0,percent
+1253576940,KUVA,RelativeHumidity,70.0,percent

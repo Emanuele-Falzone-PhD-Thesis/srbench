@@ -1,0 +1,17 @@
+timestamp,sensorId,property,value,unit
+1220180220,KU24,WindGust,0.0,milesPerHour
+1220183640,KU24,WindGust,0.0,milesPerHour
+1220201400,KU24,WindGust,37.0,milesPerHour
+1220205300,KU24,WindGust,0.0,milesPerHour
+1220216100,KU24,WindGust,0.0,milesPerHour
+1220226600,KU24,WindGust,0.0,milesPerHour
+1220248200,KU24,WindGust,0.0,milesPerHour
+1220259480,KU24,WindGust,0.0,milesPerHour
+1220261700,KU24,WindGust,0.0,milesPerHour
+1220270220,KU24,WindGust,23.0,milesPerHour
+1220277420,KU24,WindGust,0.0,milesPerHour
+1220280600,KU24,WindGust,0.0,milesPerHour
+1220288100,KU24,WindGust,0.0,milesPerHour
+1220291400,KU24,WindGust,0.0,milesPerHour
+1220302500,KU24,WindGust,0.0,milesPerHour
+1220312400,KU24,WindGust,0.0,milesPerHour

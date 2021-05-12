@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1124778300,KWEY,WindSpeed,0.0,milesPerHour
+1124831700,KWEY,WindSpeed,9.0,milesPerHour
+1124865900,KWEY,WindSpeed,7.0,milesPerHour
+1124873100,KWEY,WindSpeed,7.0,milesPerHour
+1124905500,KWEY,WindSpeed,9.0,milesPerHour
+1124951700,KWEY,WindSpeed,0.0,milesPerHour
+1124991300,KWEY,WindSpeed,7.0,milesPerHour
+1125002700,KWEY,WindSpeed,6.0,milesPerHour
+1125036300,KWEY,WindSpeed,0.0,milesPerHour
+1125045000,KWEY,WindSpeed,0.0,milesPerHour
+1125250800,KWEY,WindSpeed,0.0,milesPerHour

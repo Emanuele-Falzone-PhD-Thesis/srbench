@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1220741460,KEWR,PeakWindSpeed,37.0,milesPerHour
+1220743560,KEWR,PeakWindSpeed,35.0,milesPerHour
+1220745060,KEWR,PeakWindSpeed,35.0,milesPerHour

@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAMO,AirTemperature,48.9,fahrenheit
+1253231760,PAMO,AirTemperature,52.9,fahrenheit
+1253278560,PAMO,AirTemperature,52.9,fahrenheit

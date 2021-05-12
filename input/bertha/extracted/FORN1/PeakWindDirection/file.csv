@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253231040,FORN1,PeakWindDirection,9.0,degrees
+1253576640,FORN1,PeakWindDirection,9.0,degrees

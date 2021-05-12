@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1124672400,MVFA3,AirTemperature,51.1,fahrenheit
+1124683200,MVFA3,AirTemperature,48.6,fahrenheit
+1124758800,MVFA3,AirTemperature,46.0,fahrenheit
+1124769600,MVFA3,AirTemperature,47.7,fahrenheit
+1124845200,MVFA3,AirTemperature,41.9,fahrenheit
+1124856000,MVFA3,AirTemperature,41.0,fahrenheit
+1124931600,MVFA3,AirTemperature,43.7,fahrenheit
+1124942400,MVFA3,AirTemperature,42.4,fahrenheit
+1125018000,MVFA3,AirTemperature,45.5,fahrenheit
+1125028800,MVFA3,AirTemperature,44.1,fahrenheit
+1125104400,MVFA3,AirTemperature,45.5,fahrenheit
+1125115200,MVFA3,AirTemperature,42.8,fahrenheit
+1125190800,MVFA3,AirTemperature,74.8,fahrenheit
+1125201600,MVFA3,AirTemperature,44.4,fahrenheit

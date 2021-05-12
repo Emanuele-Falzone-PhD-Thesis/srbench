@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1219618380,PASI,WindGust,0.0,milesPerHour
+1219693980,PASI,WindGust,0.0,milesPerHour
+1219697580,PASI,WindGust,0.0,milesPerHour
+1219699200,PASI,WindGust,17.0,milesPerHour
+1219701180,PASI,WindGust,20.0,milesPerHour
+1219702200,PASI,WindGust,0.0,milesPerHour
+1219703040,PASI,WindGust,0.0,milesPerHour
+1219704780,PASI,WindGust,0.0,milesPerHour
+1219705200,PASI,WindGust,0.0,milesPerHour
+1219706580,PASI,WindGust,0.0,milesPerHour
+1219707120,PASI,WindGust,0.0,milesPerHour
+1219707780,PASI,WindGust,0.0,milesPerHour
+1219708380,PASI,WindGust,0.0,milesPerHour

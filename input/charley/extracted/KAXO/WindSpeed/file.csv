@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1091944500,KAXO,WindSpeed,6.0,milesPerHour
+1091965200,KAXO,WindSpeed,12.0,milesPerHour
+1091986500,KAXO,WindSpeed,17.0,milesPerHour
+1092031200,KAXO,WindSpeed,12.0,milesPerHour
+1092051000,KAXO,WindSpeed,12.0,milesPerHour
+1092072600,KAXO,WindSpeed,12.0,milesPerHour
+1092117300,KAXO,WindSpeed,0.0,milesPerHour
+1092138300,KAXO,WindSpeed,12.0,milesPerHour
+1092159000,KAXO,WindSpeed,6.0,milesPerHour
+1092203700,KAXO,WindSpeed,6.0,milesPerHour
+1092223800,KAXO,WindSpeed,0.0,milesPerHour
+1092241800,KAXO,WindSpeed,0.0,milesPerHour
+1092287400,KAXO,WindSpeed,6.0,milesPerHour
+1092376500,KAXO,WindSpeed,15.0,milesPerHour
+1092398400,KAXO,WindSpeed,17.0,milesPerHour

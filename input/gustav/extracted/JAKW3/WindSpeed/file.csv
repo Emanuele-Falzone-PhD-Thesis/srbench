@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1219543500,JAKW3,WindSpeed,2.0,milesPerHour
+1219557900,JAKW3,WindSpeed,3.0,milesPerHour
+1219586700,JAKW3,WindSpeed,7.0,milesPerHour
+1219601100,JAKW3,WindSpeed,9.0,milesPerHour
+1219615500,JAKW3,WindSpeed,0.0,milesPerHour
+1219658700,JAKW3,WindSpeed,7.0,milesPerHour
+1219673100,JAKW3,WindSpeed,8.0,milesPerHour
+1219687500,JAKW3,WindSpeed,6.0,milesPerHour
+1219730700,JAKW3,WindSpeed,1.0,milesPerHour
+1219745100,JAKW3,WindSpeed,7.0,milesPerHour
+1219773900,JAKW3,WindSpeed,6.0,milesPerHour
+1219788300,JAKW3,WindSpeed,1.0,milesPerHour
+1219802700,JAKW3,WindSpeed,2.0,milesPerHour

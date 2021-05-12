@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1253137200,MMCU,WindGust,24.0,milesPerHour

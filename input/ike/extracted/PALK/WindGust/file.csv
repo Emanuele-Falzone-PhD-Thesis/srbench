@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1221293220,PALK,WindGust,0.0,milesPerHour
+1221296820,PALK,WindGust,0.0,milesPerHour
+1221303720,PALK,WindGust,0.0,milesPerHour
+1221307500,PALK,WindGust,0.0,milesPerHour
+1221321780,PALK,WindGust,17.0,milesPerHour
+1221325740,PALK,WindGust,20.0,milesPerHour

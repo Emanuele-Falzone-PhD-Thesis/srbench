@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253134200,PAMX,RelativeHumidity,100.0,percent
+1253220600,PAMX,RelativeHumidity,93.0,percent
+1253307000,PAMX,RelativeHumidity,93.0,percent
+1253393400,PAMX,RelativeHumidity,87.0,percent
+1253479860,PAMX,RelativeHumidity,93.0,percent
+1253563200,PAMX,RelativeHumidity,49.0,percent

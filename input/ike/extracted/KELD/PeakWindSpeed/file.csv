@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1220313180,KELD,PeakWindSpeed,37.0,milesPerHour
+1221337140,KELD,PeakWindSpeed,37.0,milesPerHour
+1221339180,KELD,PeakWindSpeed,44.0,milesPerHour
+1221342780,KELD,PeakWindSpeed,41.0,milesPerHour
+1221344400,KELD,PeakWindSpeed,37.0,milesPerHour
+1221345360,KELD,PeakWindSpeed,37.0,milesPerHour
+1221346380,KELD,PeakWindSpeed,46.0,milesPerHour
+1221349860,KELD,PeakWindSpeed,35.0,milesPerHour
+1221349980,KELD,PeakWindSpeed,35.0,milesPerHour

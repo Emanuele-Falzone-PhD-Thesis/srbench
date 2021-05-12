@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KACT,AirTemperature,73.9,fahrenheit
+1253231460,KACT,AirTemperature,73.0,fahrenheit
+1253317860,KACT,AirTemperature,72.0,fahrenheit
+1253404260,KACT,AirTemperature,72.0,fahrenheit
+1253490660,KACT,AirTemperature,80.1,fahrenheit
+1253577060,KACT,AirTemperature,69.1,fahrenheit

@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1092184200,MITC1,AirTemperature,327.7,fahrenheit
+1092222000,MITC1,AirTemperature,66.1,fahrenheit
+1092229200,MITC1,AirTemperature,69.2,fahrenheit

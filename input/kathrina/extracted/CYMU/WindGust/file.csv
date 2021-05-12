@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1124870400,CYMU,WindGust,0.0,milesPerHour
+1124874000,CYMU,WindGust,0.0,milesPerHour
+1124877600,CYMU,WindGust,0.0,milesPerHour
+1124881200,CYMU,WindGust,0.0,milesPerHour
+1124884800,CYMU,WindGust,0.0,milesPerHour
+1124888400,CYMU,WindGust,0.0,milesPerHour
+1124892000,CYMU,WindGust,0.0,milesPerHour
+1124895600,CYMU,WindGust,23.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,UTWTV,DewPoint,44.9,fahrenheit
+1253232000,UTWTV,DewPoint,45.4,fahrenheit
+1253318400,UTWTV,DewPoint,43.4,fahrenheit
+1253404800,UTWTV,DewPoint,40.4,fahrenheit
+1253491200,UTWTV,DewPoint,21.6,fahrenheit
+1253577600,UTWTV,DewPoint,19.5,fahrenheit

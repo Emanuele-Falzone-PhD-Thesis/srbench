@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1092016800,NS334,WindDirection,270.0,degrees
+1092020400,NS334,WindDirection,260.0,degrees
+1092024000,NS334,WindDirection,260.0,degrees
+1092027600,NS334,WindDirection,240.0,degrees
+1092031200,NS334,WindDirection,240.0,degrees
+1092034800,NS334,WindDirection,280.0,degrees
+1092038400,NS334,WindDirection,340.0,degrees
+1092042000,NS334,WindDirection,30.0,degrees
+1092045600,NS334,WindDirection,0.0,degrees
+1092049200,NS334,WindDirection,10.0,degrees
+1092052800,NS334,WindDirection,330.0,degrees
+1092056400,NS334,WindDirection,50.0,degrees

@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1253536560,KU78,WindDirection,0.0,degrees
+1253540760,KU78,WindDirection,50.0,degrees
+1253544600,KU78,WindDirection,350.0,degrees
+1253547840,KU78,WindDirection,20.0,degrees
+1253551320,KU78,WindDirection,40.0,degrees
+1253555100,KU78,WindDirection,350.0,degrees
+1253561760,KU78,WindDirection,340.0,degrees
+1253569260,KU78,WindDirection,330.0,degrees
+1253572560,KU78,WindDirection,300.0,degrees
+1253576580,KU78,WindDirection,360.0,degrees
+1253363880,KU78,WindDirection,0.0,degrees
+1253367540,KU78,WindDirection,0.0,degrees

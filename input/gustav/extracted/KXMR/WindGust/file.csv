@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1220136900,KXMR,WindGust,23.0,milesPerHour
+1220138880,KXMR,WindGust,17.0,milesPerHour
+1220140500,KXMR,WindGust,0.0,milesPerHour

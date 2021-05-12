@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1124859000,KSRN,WindSpeed,2.0,milesPerHour
+1124889000,KSRN,WindSpeed,9.0,milesPerHour
+1124945400,KSRN,WindSpeed,6.0,milesPerHour
+1125119100,KSRN,WindSpeed,7.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253066400,GLGN5,AirTemperature,50.7,fahrenheit
+1253152800,GLGN5,AirTemperature,43.7,fahrenheit
+1253239200,GLGN5,AirTemperature,42.3,fahrenheit
+1253325600,GLGN5,AirTemperature,41.2,fahrenheit
+1253412000,GLGN5,AirTemperature,41.4,fahrenheit
+1253498400,GLGN5,AirTemperature,40.3,fahrenheit

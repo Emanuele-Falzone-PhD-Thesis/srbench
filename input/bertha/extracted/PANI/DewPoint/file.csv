@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PANI,DewPoint,41.0,fahrenheit
+1253231760,PANI,DewPoint,42.8,fahrenheit
+1253318160,PANI,DewPoint,37.4,fahrenheit
+1253404560,PANI,DewPoint,39.2,fahrenheit
+1253490960,PANI,DewPoint,33.8,fahrenheit
+1253577360,PANI,DewPoint,26.6,fahrenheit

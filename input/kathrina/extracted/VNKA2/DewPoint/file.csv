@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1124670000,VNKA2,DewPoint,45.0,fahrenheit
+1124673600,VNKA2,DewPoint,44.6,fahrenheit
+1124677200,VNKA2,DewPoint,44.2,fahrenheit
+1124680800,VNKA2,DewPoint,43.2,fahrenheit
+1124684400,VNKA2,DewPoint,40.2,fahrenheit
+1124688000,VNKA2,DewPoint,39.7,fahrenheit
+1124691600,VNKA2,DewPoint,39.7,fahrenheit
+1124695200,VNKA2,DewPoint,40.0,fahrenheit
+1124698800,VNKA2,DewPoint,39.5,fahrenheit
+1124702400,VNKA2,DewPoint,45.6,fahrenheit
+1124706000,VNKA2,DewPoint,46.4,fahrenheit
+1124709600,VNKA2,DewPoint,45.6,fahrenheit
+1124713200,VNKA2,DewPoint,45.2,fahrenheit
+1124716800,VNKA2,DewPoint,44.6,fahrenheit
+1124720400,VNKA2,DewPoint,45.1,fahrenheit

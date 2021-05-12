@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253130900,KAID,DewPoint,51.8,fahrenheit
+1253303460,KAID,DewPoint,44.6,fahrenheit

@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1092261000,KUZA,WindGust,0.0,milesPerHour
+1092266700,KUZA,WindGust,0.0,milesPerHour
+1092268200,KUZA,WindGust,0.0,milesPerHour
+1092268800,KUZA,WindGust,0.0,milesPerHour
+1092319800,KUZA,WindGust,21.0,milesPerHour
+1092321000,KUZA,WindGust,0.0,milesPerHour
+1092321600,KUZA,WindGust,0.0,milesPerHour
+1092322200,KUZA,WindGust,0.0,milesPerHour
+1092323100,KUZA,WindGust,0.0,milesPerHour
+1092325800,KUZA,WindGust,0.0,milesPerHour
+1092329400,KUZA,WindGust,0.0,milesPerHour
+1092330900,KUZA,WindGust,0.0,milesPerHour
+1092333000,KUZA,WindGust,0.0,milesPerHour
+1092336600,KUZA,WindGust,0.0,milesPerHour

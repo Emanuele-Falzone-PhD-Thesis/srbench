@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253144640,FORN1,WindGust,8.0,milesPerHour
+1253227440,FORN1,WindGust,10.0,milesPerHour
+1253231040,FORN1,WindGust,9.0,milesPerHour
+1253317440,FORN1,WindGust,11.0,milesPerHour
+1253403840,FORN1,WindGust,21.0,milesPerHour
+1253490240,FORN1,WindGust,22.0,milesPerHour
+1253573040,FORN1,WindGust,10.0,milesPerHour
+1253576640,FORN1,WindGust,9.0,milesPerHour

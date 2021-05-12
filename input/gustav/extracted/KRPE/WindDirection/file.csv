@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1219554300,KRPE,WindDirection,340.0,degrees
+1219596300,KRPE,WindDirection,270.0,degrees
+1219726800,KRPE,WindDirection,0.0,degrees
+1219813500,KRPE,WindDirection,0.0,degrees
+1219899900,KRPE,WindDirection,220.0,degrees
+1219986600,KRPE,WindDirection,0.0,degrees
+1220072700,KRPE,WindDirection,240.0,degrees
+1220087460,KRPE,WindDirection,350.0,degrees
+1220099400,KRPE,WindDirection,90.0,degrees

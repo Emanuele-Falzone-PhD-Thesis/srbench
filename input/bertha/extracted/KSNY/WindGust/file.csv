@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253231580,KSNY,WindGust,0.0,milesPerHour
+1253404380,KSNY,WindGust,0.0,milesPerHour
+1253491200,KSNY,WindGust,0.0,milesPerHour
+1253577180,KSNY,WindGust,0.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KVUO,AirTemperature,63.0,fahrenheit
+1253231580,KVUO,AirTemperature,53.1,fahrenheit
+1253317980,KVUO,AirTemperature,62.1,fahrenheit
+1253404380,KVUO,AirTemperature,57.0,fahrenheit
+1253490780,KVUO,AirTemperature,59.0,fahrenheit
+1253577180,KVUO,AirTemperature,57.9,fahrenheit

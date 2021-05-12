@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145540,TR467,AirTemperature,62.6,fahrenheit
+1253231940,TR467,AirTemperature,62.6,fahrenheit
+1253318340,TR467,AirTemperature,60.8,fahrenheit
+1253404740,TR467,AirTemperature,66.2,fahrenheit
+1253491140,TR467,AirTemperature,59.0,fahrenheit
+1253577540,TR467,AirTemperature,51.8,fahrenheit

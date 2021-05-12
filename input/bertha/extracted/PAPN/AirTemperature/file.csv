@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAPN,AirTemperature,48.9,fahrenheit
+1253231760,PAPN,AirTemperature,46.9,fahrenheit
+1253318160,PAPN,AirTemperature,48.9,fahrenheit
+1253404560,PAPN,AirTemperature,46.9,fahrenheit
+1253490960,PAPN,AirTemperature,47.8,fahrenheit
+1253577360,PAPN,AirTemperature,43.9,fahrenheit

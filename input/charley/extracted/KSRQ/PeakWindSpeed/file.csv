@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1092423000,KSRQ,PeakWindSpeed,32.0,milesPerHour
+1092425700,KSRQ,PeakWindSpeed,0.0,milesPerHour
+1092426600,KSRQ,PeakWindSpeed,0.0,milesPerHour
+1092430200,KSRQ,PeakWindSpeed,0.0,milesPerHour
+1092433800,KSRQ,PeakWindSpeed,0.0,milesPerHour
+1092437400,KSRQ,PeakWindSpeed,0.0,milesPerHour
+1092441000,KSRQ,PeakWindSpeed,0.0,milesPerHour

@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1220148000,USJC2,PrecipitationSmoothed,55.2,centimeters
+1220234400,USJC2,PrecipitationSmoothed,55.4,centimeters
+1220320800,USJC2,PrecipitationSmoothed,55.6,centimeters
+1220407200,USJC2,PrecipitationSmoothed,57.4,centimeters
+1220493600,USJC2,PrecipitationSmoothed,57.4,centimeters
+1220580000,USJC2,PrecipitationSmoothed,57.4,centimeters
+1220666400,USJC2,PrecipitationSmoothed,57.4,centimeters
+1220752800,USJC2,PrecipitationSmoothed,57.4,centimeters
+1220839200,USJC2,PrecipitationSmoothed,57.4,centimeters
+1220925600,USJC2,PrecipitationSmoothed,57.4,centimeters
+1221012000,USJC2,PrecipitationSmoothed,57.4,centimeters
+1221098400,USJC2,PrecipitationSmoothed,57.4,centimeters
+1221184800,USJC2,PrecipitationSmoothed,57.4,centimeters
+1221271200,USJC2,PrecipitationSmoothed,57.5,centimeters

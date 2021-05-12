@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253141700,K74V,DewPoint,50.0,fahrenheit
+1253231700,K74V,DewPoint,48.2,fahrenheit
+1253318100,K74V,DewPoint,44.6,fahrenheit
+1253404500,K74V,DewPoint,41.0,fahrenheit
+1253490900,K74V,DewPoint,24.8,fahrenheit
+1253577300,K74V,DewPoint,30.2,fahrenheit

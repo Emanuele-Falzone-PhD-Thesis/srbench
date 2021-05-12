@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KOJC,AirTemperature,69.1,fahrenheit
+1253231580,KOJC,AirTemperature,61.0,fahrenheit
+1253317980,KOJC,AirTemperature,60.1,fahrenheit
+1253404380,KOJC,AirTemperature,68.0,fahrenheit
+1253490780,KOJC,AirTemperature,64.9,fahrenheit
+1253577600,KOJC,AirTemperature,57.2,fahrenheit

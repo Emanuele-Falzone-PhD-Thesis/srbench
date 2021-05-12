@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,UTWTV,AirTemperature,53.6,fahrenheit
+1253232000,UTWTV,AirTemperature,52.8,fahrenheit
+1253318400,UTWTV,AirTemperature,52.7,fahrenheit
+1253404800,UTWTV,AirTemperature,59.5,fahrenheit
+1253491200,UTWTV,AirTemperature,50.1,fahrenheit
+1253577600,UTWTV,AirTemperature,38.6,fahrenheit

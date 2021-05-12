@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1253396700,PAXK,WindSpeed,5.0,milesPerHour
+1253310600,PAXK,WindSpeed,5.0,milesPerHour
+1253314500,PAXK,WindSpeed,0.0,milesPerHour
+1253336100,PAXK,WindSpeed,5.0,milesPerHour
+1253238600,PAXK,WindSpeed,6.0,milesPerHour
+1253252700,PAXK,WindSpeed,7.0,milesPerHour
+1253116500,PAXK,WindSpeed,9.0,milesPerHour
+1253137800,PAXK,WindSpeed,0.0,milesPerHour
+1253163000,PAXK,WindSpeed,0.0,milesPerHour

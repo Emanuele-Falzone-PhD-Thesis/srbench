@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KOVS,AirTemperature,55.0,fahrenheit
+1253231760,KOVS,AirTemperature,50.0,fahrenheit
+1253317980,KOVS,AirTemperature,63.0,fahrenheit
+1253404380,KOVS,AirTemperature,52.0,fahrenheit
+1253490780,KOVS,AirTemperature,57.0,fahrenheit
+1253577180,KOVS,AirTemperature,66.9,fahrenheit

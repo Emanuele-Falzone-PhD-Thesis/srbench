@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1219819800,KE33,Precipitation,0.0,centimeters
+1219851900,KE33,Precipitation,0.3,centimeters
+1220079000,KE33,Precipitation,0.0,centimeters
+1220111100,KE33,Precipitation,0.38,centimeters

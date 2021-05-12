@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KRAC,DewPoint,48.9,fahrenheit
+1253231580,KRAC,DewPoint,52.0,fahrenheit
+1253317980,KRAC,DewPoint,53.1,fahrenheit
+1253404380,KRAC,DewPoint,57.0,fahrenheit
+1253490780,KRAC,DewPoint,64.0,fahrenheit
+1253577180,KRAC,DewPoint,55.9,fahrenheit

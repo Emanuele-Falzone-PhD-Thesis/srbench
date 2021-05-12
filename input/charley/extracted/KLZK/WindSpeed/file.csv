@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1092142200,KLZK,WindSpeed,7.0,milesPerHour
+1092145800,KLZK,WindSpeed,9.0,milesPerHour
+1092315000,KLZK,WindSpeed,14.0,milesPerHour
+1092318600,KLZK,WindSpeed,13.0,milesPerHour

@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1220175900,LNCC1,WindSpeed,0.0,milesPerHour
+1220336100,LNCC1,WindSpeed,0.0,milesPerHour
+1220956200,LNCC1,WindSpeed,0.0,milesPerHour
+1220960400,LNCC1,WindSpeed,0.0,milesPerHour
+1221242100,LNCC1,WindSpeed,0.0,milesPerHour
+1221244200,LNCC1,WindSpeed,0.0,milesPerHour
+1221310800,LNCC1,WindSpeed,0.0,milesPerHour
+1221342000,LNCC1,WindSpeed,2.0,milesPerHour

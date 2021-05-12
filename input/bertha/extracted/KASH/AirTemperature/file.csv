@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KASH,AirTemperature,48.9,fahrenheit
+1253231460,KASH,AirTemperature,50.0,fahrenheit
+1253317860,KASH,AirTemperature,54.9,fahrenheit
+1253404260,KASH,AirTemperature,43.9,fahrenheit
+1253490660,KASH,AirTemperature,47.8,fahrenheit
+1253577060,KASH,AirTemperature,50.9,fahrenheit

@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253130900,KAPG,WindSpeed,13.0,milesPerHour
+1253217000,KAPG,WindSpeed,5.0,milesPerHour
+1253267580,KAPG,WindSpeed,7.0,milesPerHour
+1253562600,KAPG,WindSpeed,0.0,milesPerHour

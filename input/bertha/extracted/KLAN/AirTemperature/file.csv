@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KLAN,AirTemperature,51.1,fahrenheit
+1253231580,KLAN,AirTemperature,48.9,fahrenheit
+1253317980,KLAN,AirTemperature,54.0,fahrenheit
+1253404380,KLAN,AirTemperature,55.0,fahrenheit
+1253490780,KLAN,AirTemperature,66.9,fahrenheit
+1253577180,KLAN,AirTemperature,61.0,fahrenheit

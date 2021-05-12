@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1219672200,SDVTL,WindSpeed,16.0,milesPerHour

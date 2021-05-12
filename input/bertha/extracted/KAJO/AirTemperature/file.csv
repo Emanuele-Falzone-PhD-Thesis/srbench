@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,KAJO,AirTemperature,61.0,fahrenheit
+1253231760,KAJO,AirTemperature,68.9,fahrenheit
+1253318160,KAJO,AirTemperature,68.0,fahrenheit
+1253404560,KAJO,AirTemperature,68.0,fahrenheit
+1253490960,KAJO,AirTemperature,64.9,fahrenheit
+1253577360,KAJO,AirTemperature,59.9,fahrenheit

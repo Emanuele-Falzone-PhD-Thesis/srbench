@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1253145180,OSCM8,AirTemperature,73.4,fahrenheit
+1253231580,OSCM8,AirTemperature,71.6,fahrenheit
+1253317980,OSCM8,AirTemperature,69.8,fahrenheit
+1253404380,OSCM8,AirTemperature,68.0,fahrenheit
+1253487180,OSCM8,AirTemperature,42.8,fahrenheit
+1253490780,OSCM8,AirTemperature,41.0,fahrenheit
+1253566380,OSCM8,AirTemperature,51.8,fahrenheit
+1253569980,OSCM8,AirTemperature,51.8,fahrenheit
+1253573580,OSCM8,AirTemperature,50.0,fahrenheit
+1253577180,OSCM8,AirTemperature,48.2,fahrenheit

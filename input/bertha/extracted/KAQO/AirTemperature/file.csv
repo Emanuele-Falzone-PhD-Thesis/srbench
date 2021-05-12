@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144700,KAQO,AirTemperature,71.6,fahrenheit
+1253231100,KAQO,AirTemperature,69.8,fahrenheit
+1253317500,KAQO,AirTemperature,71.6,fahrenheit
+1253403900,KAQO,AirTemperature,69.8,fahrenheit
+1253490300,KAQO,AirTemperature,77.0,fahrenheit
+1253576700,KAQO,AirTemperature,84.2,fahrenheit

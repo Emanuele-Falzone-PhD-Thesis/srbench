@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1124813400,BIRA2,RelativeHumidity,35.0,percent
+1124817000,BIRA2,RelativeHumidity,39.0,percent

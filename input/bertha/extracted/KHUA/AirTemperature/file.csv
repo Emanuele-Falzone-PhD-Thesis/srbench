@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253112900,KHUA,AirTemperature,87.8,fahrenheit
+1253199300,KHUA,AirTemperature,69.8,fahrenheit
+1253285700,KHUA,AirTemperature,84.2,fahrenheit
+1253544900,KHUA,AirTemperature,77.0,fahrenheit

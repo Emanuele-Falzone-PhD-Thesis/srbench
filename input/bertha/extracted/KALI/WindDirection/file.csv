@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KALI,WindDirection,260.0,degrees
+1253231580,KALI,WindDirection,30.0,degrees
+1253317980,KALI,WindDirection,160.0,degrees
+1253404380,KALI,WindDirection,200.0,degrees
+1253490780,KALI,WindDirection,160.0,degrees
+1253577180,KALI,WindDirection,160.0,degrees

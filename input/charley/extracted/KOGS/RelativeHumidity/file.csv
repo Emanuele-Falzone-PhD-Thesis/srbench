@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1092027600,KOGS,RelativeHumidity,94.0,percent
+1092145500,KOGS,RelativeHumidity,57.0,percent
+1092419100,KOGS,RelativeHumidity,88.0,percent

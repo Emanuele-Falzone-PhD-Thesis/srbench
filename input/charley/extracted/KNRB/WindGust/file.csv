@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1092434100,KNRB,WindGust,32.0,milesPerHour

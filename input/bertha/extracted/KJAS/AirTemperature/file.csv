@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1253144700,KJAS,AirTemperature,73.4,fahrenheit
+1253231100,KJAS,AirTemperature,73.4,fahrenheit
+1253317500,KJAS,AirTemperature,76.1,fahrenheit
+1253403900,KJAS,AirTemperature,72.1,fahrenheit
+1253490300,KJAS,AirTemperature,74.7,fahrenheit
+1253571900,KJAS,AirTemperature,77.5,fahrenheit
+1253573100,KJAS,AirTemperature,77.2,fahrenheit
+1253574300,KJAS,AirTemperature,77.2,fahrenheit
+1253575500,KJAS,AirTemperature,77.0,fahrenheit
+1253576700,KJAS,AirTemperature,76.6,fahrenheit

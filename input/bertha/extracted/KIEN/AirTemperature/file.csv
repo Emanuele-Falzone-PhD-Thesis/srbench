@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145120,KIEN,AirTemperature,59.0,fahrenheit
+1253231520,KIEN,AirTemperature,62.1,fahrenheit
+1253317920,KIEN,AirTemperature,62.1,fahrenheit
+1253404320,KIEN,AirTemperature,63.0,fahrenheit
+1253490720,KIEN,AirTemperature,53.1,fahrenheit
+1253577120,KIEN,AirTemperature,46.9,fahrenheit

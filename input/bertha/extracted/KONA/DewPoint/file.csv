@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KONA,DewPoint,53.6,fahrenheit
+1253231640,KONA,DewPoint,55.4,fahrenheit
+1253318040,KONA,DewPoint,59.0,fahrenheit
+1253404440,KONA,DewPoint,55.4,fahrenheit
+1253490840,KONA,DewPoint,53.6,fahrenheit
+1253577240,KONA,DewPoint,62.6,fahrenheit

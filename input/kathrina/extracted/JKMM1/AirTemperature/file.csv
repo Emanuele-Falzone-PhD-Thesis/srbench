@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1124758800,JKMM1,AirTemperature,52.6,fahrenheit
+1124762400,JKMM1,AirTemperature,53.3,fahrenheit
+1124766000,JKMM1,AirTemperature,49.9,fahrenheit
+1124769600,JKMM1,AirTemperature,48.2,fahrenheit
+1124773200,JKMM1,AirTemperature,49.5,fahrenheit
+1124776800,JKMM1,AirTemperature,52.9,fahrenheit
+1124780400,JKMM1,AirTemperature,54.5,fahrenheit
+1124784000,JKMM1,AirTemperature,55.9,fahrenheit

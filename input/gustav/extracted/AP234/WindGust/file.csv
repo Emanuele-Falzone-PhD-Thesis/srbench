@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1220096460,AP234,WindGust,0.0,milesPerHour

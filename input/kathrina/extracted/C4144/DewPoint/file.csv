@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1124841600,C4144,DewPoint,63.7,fahrenheit
+1124928000,C4144,DewPoint,67.6,fahrenheit
+1125014400,C4144,DewPoint,69.2,fahrenheit
+1125273600,C4144,DewPoint,57.4,fahrenheit

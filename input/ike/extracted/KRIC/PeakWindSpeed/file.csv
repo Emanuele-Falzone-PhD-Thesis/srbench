@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1220713620,KRIC,PeakWindSpeed,35.0,milesPerHour
+1220716440,KRIC,PeakWindSpeed,38.0,milesPerHour
+1220718540,KRIC,PeakWindSpeed,40.0,milesPerHour
+1220720040,KRIC,PeakWindSpeed,40.0,milesPerHour
+1220723640,KRIC,PeakWindSpeed,31.0,milesPerHour
+1220727240,KRIC,PeakWindSpeed,0.0,milesPerHour
+1220730840,KRIC,PeakWindSpeed,0.0,milesPerHour
+1220734440,KRIC,PeakWindSpeed,0.0,milesPerHour
+1220738040,KRIC,PeakWindSpeed,0.0,milesPerHour
+1220741640,KRIC,PeakWindSpeed,0.0,milesPerHour
+1220745240,KRIC,PeakWindSpeed,0.0,milesPerHour

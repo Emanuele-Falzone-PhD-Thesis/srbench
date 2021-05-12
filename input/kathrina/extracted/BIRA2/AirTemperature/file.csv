@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1124813400,BIRA2,AirTemperature,72.0,fahrenheit
+1124817000,BIRA2,AirTemperature,70.0,fahrenheit

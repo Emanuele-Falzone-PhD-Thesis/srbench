@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1219653900,BHBIR,PrecipitationAccumulated,0.0,centimeters
+1219654800,BHBIR,PrecipitationAccumulated,5.75,centimeters
+1219655700,BHBIR,PrecipitationAccumulated,0.0,centimeters

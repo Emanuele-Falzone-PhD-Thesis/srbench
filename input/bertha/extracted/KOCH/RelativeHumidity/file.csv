@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KOCH,RelativeHumidity,100.0,percent
+1253231700,KOCH,RelativeHumidity,88.0,percent
+1253291700,KOCH,RelativeHumidity,74.0,percent
+1253404500,KOCH,RelativeHumidity,94.0,percent
+1253490900,KOCH,RelativeHumidity,94.0,percent
+1253577300,KOCH,RelativeHumidity,89.0,percent

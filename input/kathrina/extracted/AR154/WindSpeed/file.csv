@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1125260700,AR154,WindSpeed,0.0,milesPerHour
+1125261900,AR154,WindSpeed,0.0,milesPerHour
+1125262500,AR154,WindSpeed,0.0,milesPerHour
+1125263700,AR154,WindSpeed,0.0,milesPerHour
+1125264300,AR154,WindSpeed,0.0,milesPerHour
+1125265500,AR154,WindSpeed,6.0,milesPerHour
+1125266100,AR154,WindSpeed,4.0,milesPerHour
+1125267300,AR154,WindSpeed,0.0,milesPerHour
+1125267900,AR154,WindSpeed,3.0,milesPerHour
+1125269100,AR154,WindSpeed,0.0,milesPerHour
+1125269700,AR154,WindSpeed,0.0,milesPerHour
+1125270900,AR154,WindSpeed,0.0,milesPerHour
+1125271500,AR154,WindSpeed,0.0,milesPerHour
+1125272700,AR154,WindSpeed,0.0,milesPerHour
+1125273300,AR154,WindSpeed,0.0,milesPerHour

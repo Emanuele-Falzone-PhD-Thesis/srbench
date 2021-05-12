@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1253567880,KAPA,PeakWindSpeed,0.0,milesPerHour
+1253569980,KAPA,PeakWindSpeed,32.0,milesPerHour
+1253573580,KAPA,PeakWindSpeed,0.0,milesPerHour
+1253577180,KAPA,PeakWindSpeed,0.0,milesPerHour
+1253580780,KAPA,PeakWindSpeed,0.0,milesPerHour
+1253584380,KAPA,PeakWindSpeed,0.0,milesPerHour
+1253587980,KAPA,PeakWindSpeed,0.0,milesPerHour
+1253591580,KAPA,PeakWindSpeed,0.0,milesPerHour
+1253595180,KAPA,PeakWindSpeed,0.0,milesPerHour
+1253598780,KAPA,PeakWindSpeed,0.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KLIC,DewPoint,46.0,fahrenheit
+1253231700,KLIC,DewPoint,42.1,fahrenheit
+1253318100,KLIC,DewPoint,41.0,fahrenheit
+1253404500,KLIC,DewPoint,39.9,fahrenheit
+1253490900,KLIC,DewPoint,45.0,fahrenheit
+1253577300,KLIC,DewPoint,30.9,fahrenheit

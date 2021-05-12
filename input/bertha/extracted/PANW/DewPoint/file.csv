@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253088780,PANW,DewPoint,39.2,fahrenheit
+1253268960,PANW,DewPoint,44.6,fahrenheit

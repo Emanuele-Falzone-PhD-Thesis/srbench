@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1124756400,SHCM6,WindDirection,54.0,degrees
+1124760000,SHCM6,WindDirection,143.0,degrees
+1124763600,SHCM6,WindDirection,332.0,degrees
+1124767200,SHCM6,WindDirection,263.0,degrees
+1124770800,SHCM6,WindDirection,16.0,degrees
+1124774400,SHCM6,WindDirection,358.0,degrees
+1124778000,SHCM6,WindDirection,48.0,degrees
+1124781600,SHCM6,WindDirection,340.0,degrees
+1124785200,SHCM6,WindDirection,21.0,degrees

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253143200,KTTA,AirTemperature,71.6,fahrenheit
+1253230860,KTTA,AirTemperature,66.2,fahrenheit
+1253308800,KTTA,AirTemperature,69.8,fahrenheit
+1253393040,KTTA,AirTemperature,71.6,fahrenheit
+1253470740,KTTA,AirTemperature,75.2,fahrenheit
+1253577540,KTTA,AirTemperature,64.4,fahrenheit

@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253145300,KAIO,DewPoint,51.8,fahrenheit
+1253188500,KAIO,DewPoint,59.0,fahrenheit
+1253189700,KAIO,DewPoint,59.0,fahrenheit
+1253190900,KAIO,DewPoint,59.0,fahrenheit
+1253318100,KAIO,DewPoint,50.0,fahrenheit
+1253404500,KAIO,DewPoint,50.0,fahrenheit
+1253490900,KAIO,DewPoint,57.2,fahrenheit
+1253577300,KAIO,DewPoint,50.0,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145420,KRNH,AirTemperature,55.8,fahrenheit
+1253231820,KRNH,AirTemperature,57.0,fahrenheit
+1253318220,KRNH,AirTemperature,59.7,fahrenheit
+1253404620,KRNH,AirTemperature,62.2,fahrenheit
+1253491020,KRNH,AirTemperature,57.4,fahrenheit
+1253577420,KRNH,AirTemperature,61.7,fahrenheit

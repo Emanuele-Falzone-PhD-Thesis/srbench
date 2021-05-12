@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253126880,PAKU,WindDirection,60.0,degrees
+1253213160,PAKU,WindDirection,80.0,degrees
+1253306760,PAKU,WindDirection,60.0,degrees
+1253385960,PAKU,WindDirection,0.0,degrees
+1253472360,PAKU,WindDirection,70.0,degrees
+1253558760,PAKU,WindDirection,70.0,degrees

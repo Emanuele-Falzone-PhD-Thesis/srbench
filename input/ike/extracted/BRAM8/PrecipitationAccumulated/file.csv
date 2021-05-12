@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1221097800,BRAM8,PrecipitationAccumulated,0.01,centimeters
+1221119400,BRAM8,PrecipitationAccumulated,0.01,centimeters
+1221180600,BRAM8,PrecipitationAccumulated,0.0,centimeters
+1221285000,BRAM8,PrecipitationAccumulated,0.09,centimeters
+1221339000,BRAM8,PrecipitationAccumulated,0.0,centimeters
+1221349800,BRAM8,PrecipitationAccumulated,0.0,centimeters

@@ -1,0 +1,17 @@
+timestamp,sensorId,property,value,unit
+1220140860,AK035,WindSpeed,0.0,milesPerHour
+1220142720,AK035,WindSpeed,0.0,milesPerHour
+1220145900,AK035,WindSpeed,0.0,milesPerHour
+1220147700,AK035,WindSpeed,0.0,milesPerHour
+1220151360,AK035,WindSpeed,1.0,milesPerHour
+1220153580,AK035,WindSpeed,0.0,milesPerHour
+1220155380,AK035,WindSpeed,1.0,milesPerHour
+1220157060,AK035,WindSpeed,1.0,milesPerHour
+1220158920,AK035,WindSpeed,0.0,milesPerHour
+1220162160,AK035,WindSpeed,0.0,milesPerHour
+1220164080,AK035,WindSpeed,1.0,milesPerHour
+1220165820,AK035,WindSpeed,1.0,milesPerHour
+1220167560,AK035,WindSpeed,1.0,milesPerHour
+1220169420,AK035,WindSpeed,1.0,milesPerHour
+1220171220,AK035,WindSpeed,1.0,milesPerHour
+1220172960,AK035,WindSpeed,3.0,milesPerHour

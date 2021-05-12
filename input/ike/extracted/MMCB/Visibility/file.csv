@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1220424480,MMCB,Visibility,0.75,centimeters
+1220425920,MMCB,Visibility,2.0,centimeters
+1220441160,MMCB,Visibility,3.0,centimeters
+1220510760,MMCB,Visibility,0.0,centimeters
+1220512680,MMCB,Visibility,2.0,centimeters
+1220513340,MMCB,Visibility,5.0,centimeters
+1220519760,MMCB,Visibility,3.0,centimeters
+1220598300,MMCB,Visibility,10.0,centimeters
+1220684880,MMCB,Visibility,8.0,centimeters
+1221115860,MMCB,Visibility,8.0,centimeters
+1221201900,MMCB,Visibility,7.0,centimeters
+1221300540,MMCB,Visibility,5.0,centimeters

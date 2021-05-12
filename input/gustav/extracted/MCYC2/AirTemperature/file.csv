@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,MCYC2,AirTemperature,51.6,fahrenheit
+1219629600,MCYC2,AirTemperature,49.3,fahrenheit
+1219716000,MCYC2,AirTemperature,49.1,fahrenheit
+1219802400,MCYC2,AirTemperature,51.8,fahrenheit
+1219888800,MCYC2,AirTemperature,51.8,fahrenheit
+1219975200,MCYC2,AirTemperature,56.7,fahrenheit
+1220061600,MCYC2,AirTemperature,52.9,fahrenheit

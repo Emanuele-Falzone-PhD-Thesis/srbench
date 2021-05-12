@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1092217500,PAUO,WindDirection,0.0,degrees
+1092228600,PAUO,WindDirection,0.0,degrees
+1092232200,PAUO,WindDirection,0.0,degrees
+1092300300,PAUO,WindDirection,0.0,degrees
+1092303900,PAUO,WindDirection,0.0,degrees
+1092308100,PAUO,WindDirection,230.0,degrees
+1092318900,PAUO,WindDirection,280.0,degrees
+1092383400,PAUO,WindDirection,250.0,degrees
+1092390300,PAUO,WindDirection,250.0,degrees
+1092394500,PAUO,WindDirection,250.0,degrees
+1092398100,PAUO,WindDirection,250.0,degrees
+1092412200,PAUO,WindDirection,250.0,degrees

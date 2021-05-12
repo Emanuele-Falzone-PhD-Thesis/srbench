@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1091941200,KGSM,WindDirection,110.0,degrees
+1091962500,KGSM,WindDirection,110.0,degrees
+1091980500,KGSM,WindDirection,50.0,degrees
+1092028200,KGSM,WindDirection,260.0,degrees
+1092048300,KGSM,WindDirection,0.0,degrees
+1092067200,KGSM,WindDirection,320.0,degrees
+1092114900,KGSM,WindDirection,290.0,degrees
+1092221400,KGSM,WindDirection,0.0,degrees
+1092286200,KGSM,WindDirection,290.0,degrees
+1092313800,KGSM,WindDirection,20.0,degrees
+1092330000,KGSM,WindDirection,20.0,degrees
+1092376800,KGSM,WindDirection,30.0,degrees
+1092399000,KGSM,WindDirection,50.0,degrees
+1092416700,KGSM,WindDirection,40.0,degrees

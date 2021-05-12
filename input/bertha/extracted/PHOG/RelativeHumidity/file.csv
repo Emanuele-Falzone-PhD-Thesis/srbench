@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,PHOG,RelativeHumidity,79.0,percent
+1253231640,PHOG,RelativeHumidity,0.0,percent
+1253318040,PHOG,RelativeHumidity,66.0,percent
+1253404440,PHOG,RelativeHumidity,79.0,percent
+1253490840,PHOG,RelativeHumidity,77.0,percent
+1253577240,PHOG,RelativeHumidity,78.0,percent

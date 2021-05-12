@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1220148000,CULC2,AirTemperature,42.4,fahrenheit
+1220234400,CULC2,AirTemperature,47.7,fahrenheit
+1220320800,CULC2,AirTemperature,58.6,fahrenheit
+1220407200,CULC2,AirTemperature,43.0,fahrenheit
+1220493600,CULC2,AirTemperature,38.7,fahrenheit
+1220580000,CULC2,AirTemperature,35.1,fahrenheit
+1220666400,CULC2,AirTemperature,37.4,fahrenheit
+1220752800,CULC2,AirTemperature,39.6,fahrenheit
+1220839200,CULC2,AirTemperature,66.2,fahrenheit
+1220925600,CULC2,AirTemperature,40.1,fahrenheit
+1221012000,CULC2,AirTemperature,40.8,fahrenheit
+1221098400,CULC2,AirTemperature,37.0,fahrenheit
+1221184800,CULC2,AirTemperature,43.7,fahrenheit
+1221271200,CULC2,AirTemperature,33.3,fahrenheit

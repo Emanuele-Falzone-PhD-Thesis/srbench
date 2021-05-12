@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KPRO,AirTemperature,59.0,fahrenheit
+1253231700,KPRO,AirTemperature,55.4,fahrenheit
+1253318100,KPRO,AirTemperature,55.4,fahrenheit
+1253404500,KPRO,AirTemperature,59.0,fahrenheit
+1253490900,KPRO,AirTemperature,59.0,fahrenheit
+1253577300,KPRO,AirTemperature,59.0,fahrenheit

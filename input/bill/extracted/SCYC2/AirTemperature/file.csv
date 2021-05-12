@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253574000,SCYC2,AirTemperature,28.6,fahrenheit
+1253577600,SCYC2,AirTemperature,27.9,fahrenheit
+1253581200,SCYC2,AirTemperature,27.1,fahrenheit
+1253584800,SCYC2,AirTemperature,28.0,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,KEKO,RelativeHumidity,49.0,percent
+1253231760,KEKO,RelativeHumidity,48.0,percent
+1253318160,KEKO,RelativeHumidity,39.0,percent
+1253404560,KEKO,RelativeHumidity,28.0,percent
+1253490960,KEKO,RelativeHumidity,26.0,percent
+1253577360,KEKO,RelativeHumidity,35.0,percent

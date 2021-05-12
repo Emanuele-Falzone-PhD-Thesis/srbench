@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1253114700,KCPT,WindSpeed,14.0,milesPerHour
+1253317500,KCPT,WindSpeed,3.0,milesPerHour
+1253403900,KCPT,WindSpeed,0.0,milesPerHour
+1253490300,KCPT,WindSpeed,8.0,milesPerHour
+1253568300,KCPT,WindSpeed,0.0,milesPerHour
+1253569500,KCPT,WindSpeed,0.0,milesPerHour
+1253570700,KCPT,WindSpeed,0.0,milesPerHour
+1253571900,KCPT,WindSpeed,0.0,milesPerHour
+1253573100,KCPT,WindSpeed,0.0,milesPerHour
+1253574300,KCPT,WindSpeed,0.0,milesPerHour
+1253575500,KCPT,WindSpeed,0.0,milesPerHour
+1253576700,KCPT,WindSpeed,0.0,milesPerHour

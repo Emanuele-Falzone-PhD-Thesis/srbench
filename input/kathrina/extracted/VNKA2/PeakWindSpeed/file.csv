@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1124670000,VNKA2,PeakWindSpeed,11.0,milesPerHour
+1124673600,VNKA2,PeakWindSpeed,9.0,milesPerHour
+1124677200,VNKA2,PeakWindSpeed,10.0,milesPerHour
+1124680800,VNKA2,PeakWindSpeed,5.0,milesPerHour
+1124684400,VNKA2,PeakWindSpeed,4.0,milesPerHour
+1124688000,VNKA2,PeakWindSpeed,5.0,milesPerHour
+1124691600,VNKA2,PeakWindSpeed,3.0,milesPerHour
+1124695200,VNKA2,PeakWindSpeed,0.0,milesPerHour
+1124698800,VNKA2,PeakWindSpeed,4.0,milesPerHour
+1124702400,VNKA2,PeakWindSpeed,4.0,milesPerHour
+1124706000,VNKA2,PeakWindSpeed,5.0,milesPerHour
+1124709600,VNKA2,PeakWindSpeed,10.0,milesPerHour
+1124713200,VNKA2,PeakWindSpeed,15.0,milesPerHour
+1124716800,VNKA2,PeakWindSpeed,17.0,milesPerHour
+1124720400,VNKA2,PeakWindSpeed,16.0,milesPerHour

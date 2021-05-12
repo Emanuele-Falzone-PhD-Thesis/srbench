@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253490780,OSCM8,PeakWindDirection,31.0,degrees
+1253569980,OSCM8,PeakWindDirection,5.0,degrees
+1253573580,OSCM8,PeakWindDirection,9.0,degrees
+1253577180,OSCM8,PeakWindDirection,11.0,degrees

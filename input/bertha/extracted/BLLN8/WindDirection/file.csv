@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253143020,BLLN8,WindDirection,156.0,degrees
+1253229420,BLLN8,WindDirection,126.0,degrees
+1253315820,BLLN8,WindDirection,249.0,degrees
+1253402220,BLLN8,WindDirection,173.0,degrees
+1253488620,BLLN8,WindDirection,293.0,degrees
+1253575020,BLLN8,WindDirection,290.0,degrees

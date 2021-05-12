@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1219657500,KCZK,AirTemperature,60.8,fahrenheit
+1219668300,KCZK,AirTemperature,66.2,fahrenheit
+1219743900,KCZK,AirTemperature,62.6,fahrenheit
+1219920300,KCZK,AirTemperature,69.8,fahrenheit

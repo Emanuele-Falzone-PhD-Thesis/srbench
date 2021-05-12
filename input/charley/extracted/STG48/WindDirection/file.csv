@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1091926800,STG48,WindDirection,0.0,degrees
+1091930400,STG48,WindDirection,100.0,degrees
+1091934000,STG48,WindDirection,113.0,degrees

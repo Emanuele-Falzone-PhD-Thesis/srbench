@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1124766300,MABR,WindDirection,345.0,degrees
+1124787600,MABR,WindDirection,310.0,degrees
+1124787900,MABR,WindDirection,330.0,degrees
+1124798400,MABR,WindDirection,135.0,degrees
+1124885100,MABR,WindDirection,50.0,degrees
+1124939100,MABR,WindDirection,210.0,degrees
+1124949900,MABR,WindDirection,125.0,degrees
+1124992800,MABR,WindDirection,335.0,degrees
+1125046800,MABR,WindDirection,25.0,degrees
+1125068400,MABR,WindDirection,335.0,degrees
+1125144300,MABR,WindDirection,325.0,degrees
+1125155100,MABR,WindDirection,320.0,degrees
+1125176400,MABR,WindDirection,55.0,degrees
+1125198000,MABR,WindDirection,345.0,degrees

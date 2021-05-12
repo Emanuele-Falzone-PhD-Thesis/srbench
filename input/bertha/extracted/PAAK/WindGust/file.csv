@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAAK,WindGust,26.0,milesPerHour
+1253231760,PAAK,WindGust,0.0,milesPerHour
+1253318160,PAAK,WindGust,29.0,milesPerHour
+1253404560,PAAK,WindGust,0.0,milesPerHour
+1253490960,PAAK,WindGust,0.0,milesPerHour
+1253577360,PAAK,WindGust,0.0,milesPerHour

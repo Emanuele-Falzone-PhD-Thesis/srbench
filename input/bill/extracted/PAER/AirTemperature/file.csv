@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253551980,PAER,AirTemperature,37.4,fahrenheit
+1253584560,PAER,AirTemperature,37.4,fahrenheit
+1253587800,PAER,AirTemperature,37.4,fahrenheit

@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1091944500,KAXO,WindDirection,110.0,degrees
+1091965200,KAXO,WindDirection,20.0,degrees
+1091986500,KAXO,WindDirection,20.0,degrees
+1092031200,KAXO,WindDirection,210.0,degrees
+1092051000,KAXO,WindDirection,280.0,degrees
+1092072600,KAXO,WindDirection,240.0,degrees
+1092117300,KAXO,WindDirection,0.0,degrees
+1092138300,KAXO,WindDirection,270.0,degrees
+1092159000,KAXO,WindDirection,270.0,degrees
+1092203700,KAXO,WindDirection,200.0,degrees
+1092223800,KAXO,WindDirection,0.0,degrees
+1092241800,KAXO,WindDirection,0.0,degrees
+1092287400,KAXO,WindDirection,250.0,degrees
+1092376500,KAXO,WindDirection,360.0,degrees
+1092398400,KAXO,WindDirection,360.0,degrees

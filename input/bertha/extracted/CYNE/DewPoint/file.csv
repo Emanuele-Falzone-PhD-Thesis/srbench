@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYNE,DewPoint,57.2,fahrenheit
+1253232000,CYNE,DewPoint,48.2,fahrenheit
+1253318400,CYNE,DewPoint,59.0,fahrenheit
+1253404800,CYNE,DewPoint,57.2,fahrenheit
+1253491200,CYNE,DewPoint,60.8,fahrenheit
+1253577600,CYNE,DewPoint,46.4,fahrenheit

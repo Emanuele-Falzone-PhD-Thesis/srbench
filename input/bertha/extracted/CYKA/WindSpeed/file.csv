@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYKA,WindSpeed,3.0,milesPerHour
+1253232000,CYKA,WindSpeed,10.0,milesPerHour
+1253318400,CYKA,WindSpeed,6.0,milesPerHour
+1253404800,CYKA,WindSpeed,8.0,milesPerHour
+1253491200,CYKA,WindSpeed,9.0,milesPerHour
+1253577600,CYKA,WindSpeed,8.0,milesPerHour

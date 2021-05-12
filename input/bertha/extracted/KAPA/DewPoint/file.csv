@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KAPA,DewPoint,46.0,fahrenheit
+1253231580,KAPA,DewPoint,44.1,fahrenheit
+1253317980,KAPA,DewPoint,39.9,fahrenheit
+1253404380,KAPA,DewPoint,39.9,fahrenheit
+1253490780,KAPA,DewPoint,37.9,fahrenheit
+1253577180,KAPA,DewPoint,30.0,fahrenheit

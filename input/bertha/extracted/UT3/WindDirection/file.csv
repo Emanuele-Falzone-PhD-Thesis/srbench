@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,UT3,WindDirection,45.0,degrees
+1253232000,UT3,WindDirection,70.0,degrees
+1253318400,UT3,WindDirection,70.0,degrees
+1253404800,UT3,WindDirection,54.0,degrees
+1253491200,UT3,WindDirection,259.0,degrees
+1253577600,UT3,WindDirection,334.0,degrees

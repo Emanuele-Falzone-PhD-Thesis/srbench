@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1124758800,CMP07,AirTemperature,38.7,fahrenheit
+1124762400,CMP07,AirTemperature,35.3,fahrenheit
+1124766000,CMP07,AirTemperature,33.9,fahrenheit
+1124769600,CMP07,AirTemperature,35.3,fahrenheit
+1124773200,CMP07,AirTemperature,35.4,fahrenheit
+1124776800,CMP07,AirTemperature,33.3,fahrenheit
+1124780400,CMP07,AirTemperature,31.8,fahrenheit
+1124784000,CMP07,AirTemperature,38.2,fahrenheit
+1124787600,CMP07,AirTemperature,45.1,fahrenheit
+1124791200,CMP07,AirTemperature,53.6,fahrenheit
+1124794800,CMP07,AirTemperature,60.3,fahrenheit
+1124798400,CMP07,AirTemperature,63.6,fahrenheit

@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1220569680,KLAN,PeakWindSpeed,0.0,milesPerHour
+1220571720,KLAN,PeakWindSpeed,0.0,milesPerHour
+1220572380,KLAN,PeakWindSpeed,0.0,milesPerHour

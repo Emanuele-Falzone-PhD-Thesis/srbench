@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KELM,AirTemperature,55.9,fahrenheit
+1253231580,KELM,AirTemperature,48.0,fahrenheit
+1253317980,KELM,AirTemperature,54.0,fahrenheit
+1253404380,KELM,AirTemperature,39.0,fahrenheit
+1253490780,KELM,AirTemperature,48.0,fahrenheit
+1253577180,KELM,AirTemperature,62.1,fahrenheit

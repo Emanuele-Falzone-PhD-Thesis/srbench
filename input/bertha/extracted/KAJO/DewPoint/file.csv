@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,KAJO,DewPoint,55.9,fahrenheit
+1253231760,KAJO,DewPoint,61.9,fahrenheit
+1253318160,KAJO,DewPoint,66.9,fahrenheit
+1253404560,KAJO,DewPoint,61.0,fahrenheit
+1253490960,KAJO,DewPoint,59.9,fahrenheit
+1253577360,KAJO,DewPoint,55.9,fahrenheit

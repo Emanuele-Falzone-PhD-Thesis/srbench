@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253206800,CYIK,WindGust,32.0,milesPerHour
+1253379600,CYIK,WindGust,0.0,milesPerHour
+1253552400,CYIK,WindGust,24.0,milesPerHour

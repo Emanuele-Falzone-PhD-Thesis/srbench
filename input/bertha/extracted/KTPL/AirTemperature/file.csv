@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KTPL,AirTemperature,73.4,fahrenheit
+1253231700,KTPL,AirTemperature,71.6,fahrenheit
+1253318100,KTPL,AirTemperature,69.8,fahrenheit
+1253404500,KTPL,AirTemperature,71.6,fahrenheit
+1253490900,KTPL,AirTemperature,78.8,fahrenheit
+1253577300,KTPL,AirTemperature,73.4,fahrenheit

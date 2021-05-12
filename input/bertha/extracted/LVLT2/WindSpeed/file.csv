@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253552400,LVLT2,WindSpeed,0.0,milesPerHour
+1253556000,LVLT2,WindSpeed,0.0,milesPerHour
+1253559600,LVLT2,WindSpeed,0.0,milesPerHour

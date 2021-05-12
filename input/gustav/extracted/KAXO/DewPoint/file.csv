@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1219556100,KAXO,DewPoint,73.4,fahrenheit
+1219579200,KAXO,DewPoint,73.4,fahrenheit
+1219642800,KAXO,DewPoint,77.0,fahrenheit
+1219665300,KAXO,DewPoint,75.2,fahrenheit
+1219728900,KAXO,DewPoint,75.2,fahrenheit
+1219750200,KAXO,DewPoint,75.2,fahrenheit
+1219815600,KAXO,DewPoint,78.8,fahrenheit
+1219836600,KAXO,DewPoint,78.8,fahrenheit
+1220018400,KAXO,DewPoint,71.6,fahrenheit
+1220020800,KAXO,DewPoint,77.0,fahrenheit

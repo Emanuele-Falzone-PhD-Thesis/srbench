@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1091941200,KGSM,DewPoint,75.2,fahrenheit
+1091962500,KGSM,DewPoint,77.0,fahrenheit
+1091980500,KGSM,DewPoint,75.2,fahrenheit
+1092028200,KGSM,DewPoint,75.2,fahrenheit
+1092048300,KGSM,DewPoint,77.0,fahrenheit
+1092067200,KGSM,DewPoint,78.8,fahrenheit
+1092114900,KGSM,DewPoint,75.2,fahrenheit
+1092221400,KGSM,DewPoint,75.2,fahrenheit
+1092286200,KGSM,DewPoint,77.0,fahrenheit
+1092313800,KGSM,DewPoint,78.8,fahrenheit
+1092330000,KGSM,DewPoint,77.0,fahrenheit
+1092376800,KGSM,DewPoint,66.2,fahrenheit
+1092399000,KGSM,DewPoint,62.6,fahrenheit
+1092416700,KGSM,DewPoint,60.8,fahrenheit

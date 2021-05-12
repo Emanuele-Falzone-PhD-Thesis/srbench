@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145120,KALS,RelativeHumidity,87.0,percent
+1253231520,KALS,RelativeHumidity,82.0,percent
+1253317920,KALS,RelativeHumidity,71.0,percent
+1253404320,KALS,RelativeHumidity,73.0,percent
+1253490720,KALS,RelativeHumidity,93.0,percent
+1253577120,KALS,RelativeHumidity,92.0,percent

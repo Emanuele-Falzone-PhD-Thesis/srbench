@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1253533920,NATL1,WindGust,12.0,milesPerHour
+1253537520,NATL1,WindGust,11.0,milesPerHour
+1253544720,NATL1,WindGust,11.0,milesPerHour
+1253548320,NATL1,WindGust,11.0,milesPerHour
+1253551920,NATL1,WindGust,8.0,milesPerHour
+1253555520,NATL1,WindGust,23.0,milesPerHour
+1253559120,NATL1,WindGust,13.0,milesPerHour
+1253562720,NATL1,WindGust,5.0,milesPerHour
+1253566320,NATL1,WindGust,6.0,milesPerHour
+1253569920,NATL1,WindGust,6.0,milesPerHour
+1253573520,NATL1,WindGust,2.0,milesPerHour
+1253577120,NATL1,WindGust,6.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253136000,KISO,DewPoint,65.1,fahrenheit
+1253232000,KISO,DewPoint,66.2,fahrenheit
+1253318400,KISO,DewPoint,64.2,fahrenheit
+1253404800,KISO,DewPoint,64.0,fahrenheit
+1253491200,KISO,DewPoint,59.9,fahrenheit
+1253577600,KISO,DewPoint,69.1,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KSSC,AirTemperature,73.8,fahrenheit
+1253231700,KSSC,AirTemperature,72.3,fahrenheit
+1253318220,KSSC,AirTemperature,69.8,fahrenheit
+1253404500,KSSC,AirTemperature,75.2,fahrenheit
+1253490900,KSSC,AirTemperature,74.5,fahrenheit
+1253577300,KSSC,AirTemperature,67.8,fahrenheit

@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1220143500,GLVNV,DewPoint,12.8,fahrenheit
+1220148000,GLVNV,DewPoint,7.6,fahrenheit
+1220156100,GLVNV,DewPoint,-2.8,fahrenheit
+1220159700,GLVNV,DewPoint,3.4,fahrenheit
+1220163300,GLVNV,DewPoint,3.3,fahrenheit

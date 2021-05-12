@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1220424480,MMCB,WindSpeed,0.0,milesPerHour
+1220425920,MMCB,WindSpeed,0.0,milesPerHour
+1220441160,MMCB,WindSpeed,0.0,milesPerHour
+1220510760,MMCB,WindSpeed,0.0,milesPerHour
+1220512680,MMCB,WindSpeed,0.0,milesPerHour
+1220513340,MMCB,WindSpeed,0.0,milesPerHour
+1220519760,MMCB,WindSpeed,0.0,milesPerHour
+1220598300,MMCB,WindSpeed,0.0,milesPerHour
+1220684880,MMCB,WindSpeed,0.0,milesPerHour
+1221115860,MMCB,WindSpeed,0.0,milesPerHour
+1221201900,MMCB,WindSpeed,0.0,milesPerHour
+1221289320,MMCB,WindSpeed,0.0,milesPerHour
+1221300540,MMCB,WindSpeed,0.0,milesPerHour

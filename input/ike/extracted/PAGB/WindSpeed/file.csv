@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1220513100,PAGB,WindSpeed,0.0,milesPerHour
+1220514600,PAGB,WindSpeed,3.0,milesPerHour
+1220518200,PAGB,WindSpeed,3.0,milesPerHour
+1220521800,PAGB,WindSpeed,3.0,milesPerHour
+1220525400,PAGB,WindSpeed,8.0,milesPerHour
+1220529000,PAGB,WindSpeed,7.0,milesPerHour
+1220532420,PAGB,WindSpeed,5.0,milesPerHour
+1221117900,PAGB,WindSpeed,2.0,milesPerHour
+1221119400,PAGB,WindSpeed,2.0,milesPerHour
+1221123000,PAGB,WindSpeed,3.0,milesPerHour
+1221126600,PAGB,WindSpeed,8.0,milesPerHour
+1221130200,PAGB,WindSpeed,5.0,milesPerHour
+1221133800,PAGB,WindSpeed,6.0,milesPerHour
+1221137940,PAGB,WindSpeed,5.0,milesPerHour

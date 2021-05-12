@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253130900,KAID,WindDirection,20.0,degrees
+1253303460,KAID,WindDirection,20.0,degrees

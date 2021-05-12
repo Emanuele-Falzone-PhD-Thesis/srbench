@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KIRK,DewPoint,55.9,fahrenheit
+1253231700,KIRK,DewPoint,50.0,fahrenheit
+1253318100,KIRK,DewPoint,51.1,fahrenheit
+1253404500,KIRK,DewPoint,57.0,fahrenheit
+1253490900,KIRK,DewPoint,57.2,fahrenheit
+1253577300,KIRK,DewPoint,64.0,fahrenheit

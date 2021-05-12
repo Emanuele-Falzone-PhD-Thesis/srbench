@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253130300,PALP,RelativeHumidity,93.0,percent
+1253214960,PALP,RelativeHumidity,100.0,percent
+1253299860,PALP,RelativeHumidity,93.0,percent
+1253371860,PALP,RelativeHumidity,86.0,percent
+1253469240,PALP,RelativeHumidity,0.0,percent
+1253555160,PALP,RelativeHumidity,80.0,percent

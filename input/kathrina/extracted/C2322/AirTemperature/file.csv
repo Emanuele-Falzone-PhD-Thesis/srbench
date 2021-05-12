@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1125003600,C2322,AirTemperature,63.0,fahrenheit
+1125254700,C2322,AirTemperature,73.0,fahrenheit

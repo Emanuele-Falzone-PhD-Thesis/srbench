@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KAKQ,AirTemperature,69.1,fahrenheit
+1253231640,KAKQ,AirTemperature,62.1,fahrenheit
+1253318040,KAKQ,AirTemperature,62.1,fahrenheit
+1253404440,KAKQ,AirTemperature,57.9,fahrenheit
+1253490840,KAKQ,AirTemperature,55.0,fahrenheit
+1253577240,KAKQ,AirTemperature,70.0,fahrenheit

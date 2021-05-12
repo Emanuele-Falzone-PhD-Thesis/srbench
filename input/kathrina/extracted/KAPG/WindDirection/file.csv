@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1124790600,KAPG,WindDirection,30.0,degrees
+1124794200,KAPG,WindDirection,40.0,degrees
+1124801400,KAPG,WindDirection,0.0,degrees
+1124873700,KAPG,WindDirection,20.0,degrees
+1124877000,KAPG,WindDirection,10.0,degrees
+1124880600,KAPG,WindDirection,20.0,degrees
+1124887800,KAPG,WindDirection,50.0,degrees
+1124977800,KAPG,WindDirection,0.0,degrees
+1124981100,KAPG,WindDirection,280.0,degrees

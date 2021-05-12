@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145120,KNZY,RelativeHumidity,73.0,percent
+1253231520,KNZY,RelativeHumidity,79.0,percent
+1253317920,KNZY,RelativeHumidity,76.0,percent
+1253404320,KNZY,RelativeHumidity,76.0,percent
+1253490720,KNZY,RelativeHumidity,78.0,percent
+1253577120,KNZY,RelativeHumidity,78.0,percent

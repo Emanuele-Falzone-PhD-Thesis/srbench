@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1091941200,KGSM,AirTemperature,84.2,fahrenheit
+1091962500,KGSM,AirTemperature,86.0,fahrenheit
+1091980500,KGSM,AirTemperature,82.4,fahrenheit
+1092028200,KGSM,AirTemperature,84.2,fahrenheit
+1092048300,KGSM,AirTemperature,89.6,fahrenheit
+1092067200,KGSM,AirTemperature,87.8,fahrenheit
+1092114900,KGSM,AirTemperature,84.2,fahrenheit
+1092221400,KGSM,AirTemperature,89.6,fahrenheit
+1092286200,KGSM,AirTemperature,84.2,fahrenheit
+1092313800,KGSM,AirTemperature,82.4,fahrenheit
+1092330000,KGSM,AirTemperature,82.4,fahrenheit
+1092376800,KGSM,AirTemperature,75.2,fahrenheit
+1092399000,KGSM,AirTemperature,75.2,fahrenheit
+1092416700,KGSM,AirTemperature,75.2,fahrenheit

@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1124780400,PMNM8,AirTemperature,51.0,fahrenheit
+1124812800,PMNM8,AirTemperature,55.0,fahrenheit
+1125115200,PMNM8,AirTemperature,49.0,fahrenheit
+1125126000,PMNM8,AirTemperature,52.0,fahrenheit
+1125136800,PMNM8,AirTemperature,69.0,fahrenheit
+1125190800,PMNM8,AirTemperature,52.0,fahrenheit
+1125201600,PMNM8,AirTemperature,55.0,fahrenheit
+1125212400,PMNM8,AirTemperature,52.0,fahrenheit
+1125223200,PMNM8,AirTemperature,67.0,fahrenheit

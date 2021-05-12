@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145480,KLUM,WindSpeed,0.0,milesPerHour
+1253231880,KLUM,WindSpeed,3.0,milesPerHour
+1253318280,KLUM,WindSpeed,0.0,milesPerHour
+1253404680,KLUM,WindSpeed,0.0,milesPerHour
+1253491080,KLUM,WindSpeed,0.0,milesPerHour
+1253577480,KLUM,WindSpeed,6.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145420,KROG,AirTemperature,68.0,fahrenheit
+1253231820,KROG,AirTemperature,69.1,fahrenheit
+1253318220,KROG,AirTemperature,64.0,fahrenheit
+1253404620,KROG,AirTemperature,62.6,fahrenheit
+1253491020,KROG,AirTemperature,64.9,fahrenheit
+1253576040,KROG,AirTemperature,64.4,fahrenheit

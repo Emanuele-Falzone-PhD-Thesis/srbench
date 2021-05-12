@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1124956800,CYLA,WindGust,21.0,milesPerHour
+1124960400,CYLA,WindGust,0.0,milesPerHour
+1124964000,CYLA,WindGust,0.0,milesPerHour
+1124967600,CYLA,WindGust,0.0,milesPerHour
+1124971200,CYLA,WindGust,0.0,milesPerHour
+1124974800,CYLA,WindGust,0.0,milesPerHour
+1124978400,CYLA,WindGust,0.0,milesPerHour
+1124982000,CYLA,WindGust,0.0,milesPerHour

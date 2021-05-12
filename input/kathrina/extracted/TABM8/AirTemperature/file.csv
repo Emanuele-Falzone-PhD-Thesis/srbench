@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1124805600,TABM8,AirTemperature,78.0,fahrenheit
+1124892000,TABM8,AirTemperature,67.0,fahrenheit
+1124978400,TABM8,AirTemperature,69.0,fahrenheit
+1125021600,TABM8,AirTemperature,50.0,fahrenheit
+1125064800,TABM8,AirTemperature,78.0,fahrenheit
+1125108000,TABM8,AirTemperature,57.0,fahrenheit
+1125151200,TABM8,AirTemperature,80.0,fahrenheit
+1125194400,TABM8,AirTemperature,58.0,fahrenheit

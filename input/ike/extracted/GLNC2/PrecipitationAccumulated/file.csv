@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1220148000,GLNC2,PrecipitationAccumulated,26.1,centimeters
+1220234400,GLNC2,PrecipitationAccumulated,26.1,centimeters
+1220320800,GLNC2,PrecipitationAccumulated,7.3,centimeters
+1220407200,GLNC2,PrecipitationAccumulated,26.1,centimeters
+1220493600,GLNC2,PrecipitationAccumulated,26.2,centimeters
+1220580000,GLNC2,PrecipitationAccumulated,26.2,centimeters
+1220666400,GLNC2,PrecipitationAccumulated,26.1,centimeters
+1220752800,GLNC2,PrecipitationAccumulated,26.1,centimeters
+1220839200,GLNC2,PrecipitationAccumulated,26.1,centimeters
+1220925600,GLNC2,PrecipitationAccumulated,26.1,centimeters
+1221012000,GLNC2,PrecipitationAccumulated,26.1,centimeters
+1221098400,GLNC2,PrecipitationAccumulated,26.0,centimeters
+1221184800,GLNC2,PrecipitationAccumulated,26.6,centimeters
+1221271200,GLNC2,PrecipitationAccumulated,27.0,centimeters

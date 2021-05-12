@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KALB,RelativeHumidity,86.0,percent
+1253231460,KALB,RelativeHumidity,89.0,percent
+1253317860,KALB,RelativeHumidity,61.0,percent
+1253404260,KALB,RelativeHumidity,83.0,percent
+1253490660,KALB,RelativeHumidity,90.0,percent
+1253577060,KALB,RelativeHumidity,72.0,percent

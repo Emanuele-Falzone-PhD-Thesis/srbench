@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253120400,CZFM,RelativeHumidity,62.0,percent
+1253214000,CZFM,RelativeHumidity,93.0,percent
+1253293200,CZFM,RelativeHumidity,87.0,percent
+1253379600,CZFM,RelativeHumidity,93.0,percent
+1253451600,CZFM,RelativeHumidity,100.0,percent
+1253552400,CZFM,RelativeHumidity,81.0,percent

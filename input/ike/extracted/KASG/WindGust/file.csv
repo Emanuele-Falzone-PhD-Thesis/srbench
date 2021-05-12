@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1220381280,KASG,WindGust,0.0,milesPerHour
+1220460480,KASG,WindGust,25.0,milesPerHour
+1220474880,KASG,WindGust,0.0,milesPerHour
+1220528880,KASG,WindGust,0.0,milesPerHour
+1220536080,KASG,WindGust,0.0,milesPerHour
+1220539680,KASG,WindGust,0.0,milesPerHour
+1220543280,KASG,WindGust,0.0,milesPerHour
+1220546880,KASG,WindGust,0.0,milesPerHour
+1220550480,KASG,WindGust,0.0,milesPerHour
+1220557680,KASG,WindGust,0.0,milesPerHour
+1220561940,KASG,WindGust,0.0,milesPerHour
+1221245280,KASG,WindGust,28.0,milesPerHour
+1221248880,KASG,WindGust,0.0,milesPerHour
+1221252480,KASG,WindGust,0.0,milesPerHour
+1221335280,KASG,WindGust,0.0,milesPerHour

@@ -1,0 +1,17 @@
+timestamp,sensorId,property,value,unit
+1221205860,MMRX,WindGust,0.0,milesPerHour
+1221212700,MMRX,WindGust,0.0,milesPerHour
+1221216300,MMRX,WindGust,0.0,milesPerHour
+1221219600,MMRX,WindGust,0.0,milesPerHour
+1221223500,MMRX,WindGust,21.0,milesPerHour
+1221227220,MMRX,WindGust,21.0,milesPerHour
+1221230940,MMRX,WindGust,0.0,milesPerHour
+1221234000,MMRX,WindGust,0.0,milesPerHour
+1221237960,MMRX,WindGust,0.0,milesPerHour
+1221241320,MMRX,WindGust,0.0,milesPerHour
+1221244800,MMRX,WindGust,0.0,milesPerHour
+1221248880,MMRX,WindGust,0.0,milesPerHour
+1221252360,MMRX,WindGust,0.0,milesPerHour
+1221256260,MMRX,WindGust,0.0,milesPerHour
+1221259860,MMRX,WindGust,0.0,milesPerHour
+1221263280,MMRX,WindGust,0.0,milesPerHour

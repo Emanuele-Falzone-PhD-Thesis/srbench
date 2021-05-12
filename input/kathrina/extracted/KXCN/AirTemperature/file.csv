@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1124772900,KXCN,AirTemperature,84.2,fahrenheit
+1124794500,KXCN,AirTemperature,96.8,fahrenheit
+1124816100,KXCN,AirTemperature,95.0,fahrenheit
+1124859300,KXCN,AirTemperature,84.2,fahrenheit
+1124902500,KXCN,AirTemperature,87.8,fahrenheit
+1124945700,KXCN,AirTemperature,87.8,fahrenheit
+1124988600,KXCN,AirTemperature,89.6,fahrenheit
+1125032100,KXCN,AirTemperature,86.0,fahrenheit
+1125075300,KXCN,AirTemperature,89.6,fahrenheit
+1125118500,KXCN,AirTemperature,86.0,fahrenheit

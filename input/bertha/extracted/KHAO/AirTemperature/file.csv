@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KHAO,AirTemperature,61.0,fahrenheit
+1253231580,KHAO,AirTemperature,55.9,fahrenheit
+1253317980,KHAO,AirTemperature,55.0,fahrenheit
+1253404380,KHAO,AirTemperature,63.0,fahrenheit
+1253490780,KHAO,AirTemperature,68.0,fahrenheit
+1253577600,KHAO,AirTemperature,71.6,fahrenheit

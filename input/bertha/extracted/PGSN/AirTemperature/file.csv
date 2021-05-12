@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,PGSN,AirTemperature,82.0,fahrenheit
+1253231640,PGSN,AirTemperature,82.9,fahrenheit
+1253318040,PGSN,AirTemperature,79.0,fahrenheit
+1253404440,PGSN,AirTemperature,79.0,fahrenheit
+1253490840,PGSN,AirTemperature,78.1,fahrenheit
+1253577240,PGSN,AirTemperature,78.1,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KAVX,AirTemperature,68.0,fahrenheit
+1253231460,KAVX,AirTemperature,77.0,fahrenheit
+1253317860,KAVX,AirTemperature,72.0,fahrenheit
+1253404260,KAVX,AirTemperature,72.0,fahrenheit
+1253490660,KAVX,AirTemperature,72.0,fahrenheit
+1253577060,KAVX,AirTemperature,72.0,fahrenheit

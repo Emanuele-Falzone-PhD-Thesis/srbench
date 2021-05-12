@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KAWO,WindDirection,0.0,degrees
+1253231700,KAWO,WindDirection,350.0,degrees
+1253318100,KAWO,WindDirection,140.0,degrees
+1253404500,KAWO,WindDirection,0.0,degrees
+1253490900,KAWO,WindDirection,0.0,degrees
+1253577300,KAWO,WindDirection,350.0,degrees

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KISQ,AirTemperature,44.6,fahrenheit
+1253231700,KISQ,AirTemperature,57.2,fahrenheit
+1253318100,KISQ,AirTemperature,41.0,fahrenheit
+1253404500,KISQ,AirTemperature,60.8,fahrenheit
+1253490900,KISQ,AirTemperature,53.6,fahrenheit
+1253577300,KISQ,AirTemperature,64.4,fahrenheit

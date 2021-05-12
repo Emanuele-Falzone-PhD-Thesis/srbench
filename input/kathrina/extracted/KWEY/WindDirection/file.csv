@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1124778300,KWEY,WindDirection,0.0,degrees
+1124831700,KWEY,WindDirection,220.0,degrees
+1124865900,KWEY,WindDirection,180.0,degrees
+1124873100,KWEY,WindDirection,90.0,degrees
+1124905500,KWEY,WindDirection,230.0,degrees
+1124951700,KWEY,WindDirection,0.0,degrees
+1124991300,KWEY,WindDirection,290.0,degrees
+1125002700,KWEY,WindDirection,40.0,degrees
+1125036300,KWEY,WindDirection,0.0,degrees
+1125045000,KWEY,WindDirection,0.0,degrees
+1125250800,KWEY,WindDirection,0.0,degrees

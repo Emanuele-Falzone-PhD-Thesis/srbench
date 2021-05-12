@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145420,KESN,AirTemperature,62.6,fahrenheit
+1253230920,KESN,AirTemperature,59.0,fahrenheit
+1253317680,KESN,AirTemperature,62.6,fahrenheit
+1253404440,KESN,AirTemperature,51.8,fahrenheit
+1253491200,KESN,AirTemperature,57.2,fahrenheit
+1253576700,KESN,AirTemperature,64.4,fahrenheit

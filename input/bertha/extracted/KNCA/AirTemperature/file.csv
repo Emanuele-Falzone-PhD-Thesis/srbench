@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,KNCA,AirTemperature,73.0,fahrenheit
+1253231760,KNCA,AirTemperature,71.1,fahrenheit
+1253318160,KNCA,AirTemperature,69.1,fahrenheit
+1253404560,KNCA,AirTemperature,69.1,fahrenheit
+1253490960,KNCA,AirTemperature,69.1,fahrenheit
+1253577360,KNCA,AirTemperature,72.0,fahrenheit

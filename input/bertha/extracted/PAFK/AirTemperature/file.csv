@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253119800,PAFK,AirTemperature,60.8,fahrenheit
+1253206200,PAFK,AirTemperature,59.0,fahrenheit
+1253292600,PAFK,AirTemperature,55.4,fahrenheit
+1253379000,PAFK,AirTemperature,55.4,fahrenheit
+1253465400,PAFK,AirTemperature,51.8,fahrenheit
+1253551800,PAFK,AirTemperature,35.6,fahrenheit

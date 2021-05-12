@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1125036000,MTRA2,AirTemperature,38.1,fahrenheit
+1125039600,MTRA2,AirTemperature,37.9,fahrenheit
+1125082800,MTRA2,AirTemperature,43.2,fahrenheit
+1125086400,MTRA2,AirTemperature,42.8,fahrenheit
+1125093600,MTRA2,AirTemperature,40.8,fahrenheit
+1125158400,MTRA2,AirTemperature,40.5,fahrenheit
+1125176400,MTRA2,AirTemperature,40.6,fahrenheit
+1125187200,MTRA2,AirTemperature,39.2,fahrenheit
+1125234000,MTRA2,AirTemperature,57.6,fahrenheit
+1125273600,MTRA2,AirTemperature,46.9,fahrenheit

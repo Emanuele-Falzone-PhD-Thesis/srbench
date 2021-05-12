@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PHLI,WindSpeed,12.0,milesPerHour
+1253231580,PHLI,WindSpeed,17.0,milesPerHour
+1253317980,PHLI,WindSpeed,14.0,milesPerHour
+1253404380,PHLI,WindSpeed,14.0,milesPerHour
+1253490780,PHLI,WindSpeed,10.0,milesPerHour
+1253577180,PHLI,WindSpeed,5.0,milesPerHour

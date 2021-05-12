@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253066400,ELCN5,AirTemperature,49.3,fahrenheit
+1253152800,ELCN5,AirTemperature,48.6,fahrenheit

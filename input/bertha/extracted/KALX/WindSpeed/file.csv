@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,KALX,WindSpeed,0.0,milesPerHour
+1253232000,KALX,WindSpeed,9.0,milesPerHour
+1253318400,KALX,WindSpeed,0.0,milesPerHour
+1253404800,KALX,WindSpeed,5.0,milesPerHour
+1253491200,KALX,WindSpeed,0.0,milesPerHour
+1253577600,KALX,WindSpeed,3.0,milesPerHour

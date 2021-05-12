@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PATG,AirTemperature,44.6,fahrenheit
+1253230560,PATG,AirTemperature,50.0,fahrenheit
+1253318160,PATG,AirTemperature,48.2,fahrenheit
+1253404560,PATG,AirTemperature,44.6,fahrenheit
+1253490960,PATG,AirTemperature,48.2,fahrenheit
+1253574960,PATG,AirTemperature,37.4,fahrenheit

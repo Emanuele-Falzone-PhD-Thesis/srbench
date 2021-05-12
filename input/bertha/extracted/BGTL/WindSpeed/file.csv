@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,BGTL,WindSpeed,13.0,milesPerHour
+1253231700,BGTL,WindSpeed,10.0,milesPerHour
+1253318100,BGTL,WindSpeed,9.0,milesPerHour
+1253404500,BGTL,WindSpeed,14.0,milesPerHour
+1253490900,BGTL,WindSpeed,7.0,milesPerHour
+1253577300,BGTL,WindSpeed,12.0,milesPerHour

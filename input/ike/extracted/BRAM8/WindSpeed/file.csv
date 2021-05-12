@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1221097800,BRAM8,WindSpeed,8.0,milesPerHour
+1221119400,BRAM8,WindSpeed,8.0,milesPerHour
+1221180600,BRAM8,WindSpeed,9.0,milesPerHour
+1221285000,BRAM8,WindSpeed,5.0,milesPerHour
+1221339000,BRAM8,WindSpeed,3.0,milesPerHour
+1221349800,BRAM8,WindSpeed,0.0,milesPerHour

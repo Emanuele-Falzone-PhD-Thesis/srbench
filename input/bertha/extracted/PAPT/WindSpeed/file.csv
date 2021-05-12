@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253112600,PAPT,WindSpeed,9.0,milesPerHour
+1253217480,PAPT,WindSpeed,10.0,milesPerHour
+1253300340,PAPT,WindSpeed,5.0,milesPerHour
+1253386080,PAPT,WindSpeed,5.0,milesPerHour
+1253472960,PAPT,WindSpeed,5.0,milesPerHour
+1253563140,PAPT,WindSpeed,7.0,milesPerHour

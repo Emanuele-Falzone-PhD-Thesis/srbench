@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1122849300,BLYN2,AirTemperature,327.7,fahrenheit
+1124760000,BLYN2,AirTemperature,321.0,fahrenheit
+1124779200,BLYN2,AirTemperature,194.0,fahrenheit
+1125052500,BLYN2,AirTemperature,327.7,fahrenheit

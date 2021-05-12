@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,CZSC2,AirTemperature,67.6,fahrenheit
+1219629600,CZSC2,AirTemperature,71.2,fahrenheit
+1219716000,CZSC2,AirTemperature,43.2,fahrenheit
+1219802400,CZSC2,AirTemperature,46.4,fahrenheit
+1219888800,CZSC2,AirTemperature,46.4,fahrenheit
+1219975200,CZSC2,AirTemperature,47.7,fahrenheit
+1220061600,CZSC2,AirTemperature,48.2,fahrenheit

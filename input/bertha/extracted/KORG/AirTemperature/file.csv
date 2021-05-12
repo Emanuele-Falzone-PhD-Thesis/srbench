@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144700,KORG,AirTemperature,70.3,fahrenheit
+1253231100,KORG,AirTemperature,68.0,fahrenheit
+1253317500,KORG,AirTemperature,67.8,fahrenheit
+1253403900,KORG,AirTemperature,68.5,fahrenheit
+1253490300,KORG,AirTemperature,72.5,fahrenheit
+1253576700,KORG,AirTemperature,78.1,fahrenheit

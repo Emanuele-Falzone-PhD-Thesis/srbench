@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144520,MMTC,WindSpeed,9.0,milesPerHour
+1253227680,MMTC,WindSpeed,9.0,milesPerHour
+1253314080,MMTC,WindSpeed,0.0,milesPerHour
+1253400120,MMTC,WindSpeed,0.0,milesPerHour
+1253486640,MMTC,WindSpeed,0.0,milesPerHour
+1253572980,MMTC,WindSpeed,12.0,milesPerHour

@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1092027600,KOGS,DewPoint,51.8,fahrenheit
+1092145500,KOGS,DewPoint,60.8,fahrenheit
+1092419100,KOGS,DewPoint,62.6,fahrenheit

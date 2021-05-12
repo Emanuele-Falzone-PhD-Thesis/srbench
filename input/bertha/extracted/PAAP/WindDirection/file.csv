@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253124000,PAAP,WindDirection,180.0,degrees
+1253210220,PAAP,WindDirection,360.0,degrees
+1253296740,PAAP,WindDirection,30.0,degrees
+1253382720,PAAP,WindDirection,40.0,degrees
+1253468940,PAAP,WindDirection,180.0,degrees
+1253556000,PAAP,WindDirection,360.0,degrees

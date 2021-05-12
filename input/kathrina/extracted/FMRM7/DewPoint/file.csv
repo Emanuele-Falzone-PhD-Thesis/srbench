@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1124758800,FMRM7,DewPoint,67.9,fahrenheit
+1124762400,FMRM7,DewPoint,65.5,fahrenheit
+1124766000,FMRM7,DewPoint,64.9,fahrenheit
+1124769600,FMRM7,DewPoint,63.9,fahrenheit
+1124773200,FMRM7,DewPoint,62.2,fahrenheit

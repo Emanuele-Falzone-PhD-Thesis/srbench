@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KAZO,WindSpeed,0.0,milesPerHour
+1253231580,KAZO,WindSpeed,0.0,milesPerHour
+1253317980,KAZO,WindSpeed,3.0,milesPerHour
+1253404380,KAZO,WindSpeed,3.0,milesPerHour
+1253490780,KAZO,WindSpeed,5.0,milesPerHour
+1253577600,KAZO,WindSpeed,0.0,milesPerHour

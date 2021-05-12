@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PATK,DewPoint,48.9,fahrenheit
+1253231580,PATK,DewPoint,44.1,fahrenheit
+1253317980,PATK,DewPoint,45.0,fahrenheit
+1253404380,PATK,DewPoint,46.0,fahrenheit
+1253490780,PATK,DewPoint,39.0,fahrenheit
+1253577180,PATK,DewPoint,44.1,fahrenheit

@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253570400,LVLT2,AirTemperature,86.0,fahrenheit
+1253574000,LVLT2,AirTemperature,86.0,fahrenheit
+1253577600,LVLT2,AirTemperature,81.0,fahrenheit

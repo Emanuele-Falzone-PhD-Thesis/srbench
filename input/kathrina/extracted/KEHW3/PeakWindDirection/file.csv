@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1124757000,KEHW3,PeakWindDirection,64.0,degrees
+1124760600,KEHW3,PeakWindDirection,33.0,degrees
+1124764200,KEHW3,PeakWindDirection,24.0,degrees
+1124767800,KEHW3,PeakWindDirection,305.0,degrees

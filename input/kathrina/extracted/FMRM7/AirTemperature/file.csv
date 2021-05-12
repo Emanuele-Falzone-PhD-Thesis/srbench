@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1124758800,FMRM7,AirTemperature,73.0,fahrenheit
+1124762400,FMRM7,AirTemperature,72.0,fahrenheit
+1124766000,FMRM7,AirTemperature,71.0,fahrenheit
+1124769600,FMRM7,AirTemperature,70.0,fahrenheit
+1124773200,FMRM7,AirTemperature,69.0,fahrenheit

@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1092373200,K3B6,AirTemperature,73.4,fahrenheit
+1092397200,K3B6,AirTemperature,80.6,fahrenheit

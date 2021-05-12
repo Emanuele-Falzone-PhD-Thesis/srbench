@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1219556100,KAXO,AirTemperature,77.0,fahrenheit
+1219579200,KAXO,AirTemperature,80.6,fahrenheit
+1219642800,KAXO,AirTemperature,78.8,fahrenheit
+1219665300,KAXO,AirTemperature,84.2,fahrenheit
+1219728900,KAXO,AirTemperature,78.8,fahrenheit
+1219750200,KAXO,AirTemperature,84.2,fahrenheit
+1219815600,KAXO,AirTemperature,80.6,fahrenheit
+1219836600,KAXO,AirTemperature,86.0,fahrenheit
+1220018400,KAXO,AirTemperature,86.0,fahrenheit
+1220020800,KAXO,AirTemperature,82.4,fahrenheit

@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1253149920,AS663,WindDirection,84.0,degrees
+1253151240,AS663,WindDirection,84.0,degrees
+1253509860,AS663,WindDirection,0.0,degrees
+1253514540,AS663,WindDirection,261.0,degrees
+1253517060,AS663,WindDirection,0.0,degrees
+1253517720,AS663,WindDirection,0.0,degrees
+1253552520,AS663,WindDirection,170.0,degrees

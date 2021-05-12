@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,GLNC2,PrecipitationSmoothed,25.2,centimeters
+1219629600,GLNC2,PrecipitationSmoothed,25.2,centimeters
+1219716000,GLNC2,PrecipitationSmoothed,25.2,centimeters
+1219802400,GLNC2,PrecipitationSmoothed,25.2,centimeters
+1219888800,GLNC2,PrecipitationSmoothed,25.2,centimeters
+1219975200,GLNC2,PrecipitationSmoothed,25.3,centimeters
+1220061600,GLNC2,PrecipitationSmoothed,26.1,centimeters

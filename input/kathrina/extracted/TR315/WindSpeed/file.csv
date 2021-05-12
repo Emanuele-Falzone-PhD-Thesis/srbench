@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1124984700,TR315,WindSpeed,0.0,milesPerHour

@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1220270580,PAGA,RelativeHumidity,51.0,percent
+1220276580,PAGA,RelativeHumidity,39.0,percent
+1220428680,PAGA,RelativeHumidity,93.0,percent
+1220509980,PAGA,RelativeHumidity,93.0,percent
+1220521500,PAGA,RelativeHumidity,82.0,percent
+1220864280,PAGA,RelativeHumidity,87.0,percent
+1220869260,PAGA,RelativeHumidity,87.0,percent
+1221035820,PAGA,RelativeHumidity,87.0,percent
+1221123420,PAGA,RelativeHumidity,86.0,percent

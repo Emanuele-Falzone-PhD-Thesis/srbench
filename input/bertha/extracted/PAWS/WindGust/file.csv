@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAWS,WindGust,0.0,milesPerHour
+1253231760,PAWS,WindGust,0.0,milesPerHour
+1253318160,PAWS,WindGust,0.0,milesPerHour
+1253404560,PAWS,WindGust,0.0,milesPerHour
+1253490960,PAWS,WindGust,0.0,milesPerHour

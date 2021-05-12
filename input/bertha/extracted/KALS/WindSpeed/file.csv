@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145120,KALS,WindSpeed,6.0,milesPerHour
+1253231520,KALS,WindSpeed,7.0,milesPerHour
+1253317920,KALS,WindSpeed,10.0,milesPerHour
+1253404320,KALS,WindSpeed,0.0,milesPerHour
+1253490720,KALS,WindSpeed,3.0,milesPerHour
+1253577120,KALS,WindSpeed,6.0,milesPerHour

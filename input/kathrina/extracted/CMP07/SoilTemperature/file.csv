@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1124758800,CMP07,SoilTemperature,73.8,fahrenheit
+1124762400,CMP07,SoilTemperature,71.8,fahrenheit
+1124766000,CMP07,SoilTemperature,70.3,fahrenheit
+1124769600,CMP07,SoilTemperature,68.7,fahrenheit
+1124773200,CMP07,SoilTemperature,68.1,fahrenheit
+1124776800,CMP07,SoilTemperature,67.8,fahrenheit
+1124780400,CMP07,SoilTemperature,66.7,fahrenheit
+1124784000,CMP07,SoilTemperature,64.7,fahrenheit
+1124787600,CMP07,SoilTemperature,65.8,fahrenheit
+1124791200,CMP07,SoilTemperature,64.9,fahrenheit
+1124794800,CMP07,SoilTemperature,64.5,fahrenheit
+1124798400,CMP07,SoilTemperature,69.3,fahrenheit

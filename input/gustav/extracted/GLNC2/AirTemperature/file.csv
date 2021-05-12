@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,GLNC2,AirTemperature,22.6,fahrenheit
+1219629600,GLNC2,AirTemperature,31.5,fahrenheit
+1219716000,GLNC2,AirTemperature,48.6,fahrenheit
+1219802400,GLNC2,AirTemperature,48.9,fahrenheit
+1219888800,GLNC2,AirTemperature,52.3,fahrenheit
+1219975200,GLNC2,AirTemperature,49.8,fahrenheit
+1220061600,GLNC2,AirTemperature,39.7,fahrenheit

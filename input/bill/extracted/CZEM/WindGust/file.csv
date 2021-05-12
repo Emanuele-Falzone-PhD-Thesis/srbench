@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1253106000,CZEM,WindGust,0.0,milesPerHour
+1253109600,CZEM,WindGust,0.0,milesPerHour
+1253113200,CZEM,WindGust,0.0,milesPerHour
+1253114520,CZEM,WindGust,17.0,milesPerHour
+1253115600,CZEM,WindGust,0.0,milesPerHour
+1253116800,CZEM,WindGust,0.0,milesPerHour
+1253120400,CZEM,WindGust,17.0,milesPerHour
+1253124000,CZEM,WindGust,17.0,milesPerHour
+1253127600,CZEM,WindGust,17.0,milesPerHour
+1253131200,CZEM,WindGust,0.0,milesPerHour

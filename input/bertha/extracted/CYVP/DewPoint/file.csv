@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYVP,DewPoint,39.2,fahrenheit
+1253232000,CYVP,DewPoint,48.2,fahrenheit
+1253318400,CYVP,DewPoint,32.0,fahrenheit
+1253404800,CYVP,DewPoint,37.4,fahrenheit
+1253491200,CYVP,DewPoint,48.2,fahrenheit
+1253566800,CYVP,DewPoint,46.4,fahrenheit
+1253568000,CYVP,DewPoint,0.0,fahrenheit
+1253570400,CYVP,DewPoint,44.6,fahrenheit
+1253574000,CYVP,DewPoint,42.8,fahrenheit
+1253574960,CYVP,DewPoint,0.0,fahrenheit
+1253577600,CYVP,DewPoint,42.8,fahrenheit

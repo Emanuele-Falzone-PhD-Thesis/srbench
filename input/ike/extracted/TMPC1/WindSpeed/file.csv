@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1220322000,TMPC1,WindSpeed,0.0,milesPerHour
+1220370300,TMPC1,WindSpeed,0.0,milesPerHour
+1220940000,TMPC1,WindSpeed,0.0,milesPerHour

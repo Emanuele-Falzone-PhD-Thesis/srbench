@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1219881600,ODT37,WindDirection,225.0,degrees
+1219882800,ODT37,WindDirection,225.0,degrees

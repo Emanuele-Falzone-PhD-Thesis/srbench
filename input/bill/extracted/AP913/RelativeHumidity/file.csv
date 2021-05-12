@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253549760,AP913,RelativeHumidity,100.0,percent
+1253550960,AP913,RelativeHumidity,100.0,percent
+1253554560,AP913,RelativeHumidity,100.0,percent
+1253556960,AP913,RelativeHumidity,100.0,percent

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145120,KIEN,WindDirection,0.0,degrees
+1253231520,KIEN,WindDirection,190.0,degrees
+1253317920,KIEN,WindDirection,180.0,degrees
+1253404320,KIEN,WindDirection,180.0,degrees
+1253490720,KIEN,WindDirection,0.0,degrees
+1253577120,KIEN,WindDirection,310.0,degrees

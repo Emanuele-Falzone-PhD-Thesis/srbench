@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PADE,WindDirection,240.0,degrees
+1253231580,PADE,WindDirection,200.0,degrees
+1253317980,PADE,WindDirection,350.0,degrees
+1253404380,PADE,WindDirection,210.0,degrees
+1253490780,PADE,WindDirection,290.0,degrees
+1253577180,PADE,WindDirection,10.0,degrees

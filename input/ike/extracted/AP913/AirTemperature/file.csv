@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1220227200,AP913,AirTemperature,76.0,fahrenheit
+1220519940,AP913,AirTemperature,68.0,fahrenheit
+1220631960,AP913,AirTemperature,86.0,fahrenheit
+1220971620,AP913,AirTemperature,84.0,fahrenheit
+1220973960,AP913,AirTemperature,82.0,fahrenheit
+1221065760,AP913,AirTemperature,82.0,fahrenheit
+1221267960,AP913,AirTemperature,73.0,fahrenheit
+1221271020,AP913,AirTemperature,72.0,fahrenheit

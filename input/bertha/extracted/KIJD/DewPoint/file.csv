@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145120,KIJD,DewPoint,50.0,fahrenheit
+1253231520,KIJD,DewPoint,44.1,fahrenheit
+1253317920,KIJD,DewPoint,48.9,fahrenheit
+1253404320,KIJD,DewPoint,44.1,fahrenheit
+1253490720,KIJD,DewPoint,45.0,fahrenheit
+1253577120,KIJD,DewPoint,50.0,fahrenheit

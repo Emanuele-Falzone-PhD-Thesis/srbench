@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1220643900,C2096,WindGust,5.0,milesPerHour
+1220652300,C2096,WindGust,7.0,milesPerHour
+1220688300,C2096,WindGust,7.0,milesPerHour
+1220691900,C2096,WindGust,3.0,milesPerHour

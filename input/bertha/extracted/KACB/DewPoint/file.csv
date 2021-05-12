@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KACB,DewPoint,46.4,fahrenheit
+1253231640,KACB,DewPoint,51.8,fahrenheit
+1253318040,KACB,DewPoint,42.8,fahrenheit
+1253404440,KACB,DewPoint,46.4,fahrenheit
+1253490840,KACB,DewPoint,50.0,fahrenheit
+1253577240,KACB,DewPoint,57.2,fahrenheit

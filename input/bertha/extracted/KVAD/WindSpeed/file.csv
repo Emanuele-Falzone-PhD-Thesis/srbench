@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KVAD,WindSpeed,5.0,milesPerHour
+1253231700,KVAD,WindSpeed,6.0,milesPerHour
+1253318100,KVAD,WindSpeed,6.0,milesPerHour
+1253404500,KVAD,WindSpeed,5.0,milesPerHour
+1253490900,KVAD,WindSpeed,3.0,milesPerHour
+1253577300,KVAD,WindSpeed,6.0,milesPerHour

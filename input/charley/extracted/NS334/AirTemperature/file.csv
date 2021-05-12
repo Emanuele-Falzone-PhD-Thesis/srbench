@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1092016800,NS334,AirTemperature,55.0,fahrenheit
+1092020400,NS334,AirTemperature,53.0,fahrenheit
+1092024000,NS334,AirTemperature,51.0,fahrenheit
+1092027600,NS334,AirTemperature,50.0,fahrenheit
+1092031200,NS334,AirTemperature,52.0,fahrenheit
+1092034800,NS334,AirTemperature,62.0,fahrenheit
+1092038400,NS334,AirTemperature,67.0,fahrenheit
+1092042000,NS334,AirTemperature,71.0,fahrenheit
+1092045600,NS334,AirTemperature,73.0,fahrenheit
+1092049200,NS334,AirTemperature,78.0,fahrenheit
+1092052800,NS334,AirTemperature,82.0,fahrenheit
+1092056400,NS334,AirTemperature,86.0,fahrenheit

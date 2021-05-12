@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PABE,AirTemperature,44.1,fahrenheit
+1253231580,PABE,AirTemperature,46.0,fahrenheit
+1253317980,PABE,AirTemperature,46.9,fahrenheit
+1253404380,PABE,AirTemperature,46.9,fahrenheit
+1253490780,PABE,AirTemperature,43.0,fahrenheit
+1253577180,PABE,AirTemperature,36.0,fahrenheit

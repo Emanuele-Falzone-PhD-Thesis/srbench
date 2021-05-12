@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1220148000,SENN5,PrecipitationAccumulated,19.0,centimeters
+1220234400,SENN5,PrecipitationAccumulated,19.3,centimeters
+1220320800,SENN5,PrecipitationAccumulated,19.4,centimeters
+1220407200,SENN5,PrecipitationAccumulated,19.3,centimeters
+1220493600,SENN5,PrecipitationAccumulated,19.5,centimeters
+1220580000,SENN5,PrecipitationAccumulated,19.5,centimeters
+1220666400,SENN5,PrecipitationAccumulated,19.5,centimeters
+1220752800,SENN5,PrecipitationAccumulated,19.5,centimeters
+1220839200,SENN5,PrecipitationAccumulated,19.6,centimeters
+1220925600,SENN5,PrecipitationAccumulated,19.5,centimeters
+1221012000,SENN5,PrecipitationAccumulated,19.6,centimeters
+1221098400,SENN5,PrecipitationAccumulated,19.6,centimeters
+1221184800,SENN5,PrecipitationAccumulated,19.5,centimeters
+1221271200,SENN5,PrecipitationAccumulated,19.7,centimeters

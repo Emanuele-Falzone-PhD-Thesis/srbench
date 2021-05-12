@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYQL,AirTemperature,57.2,fahrenheit
+1253232000,CYQL,AirTemperature,55.4,fahrenheit
+1253318400,CYQL,AirTemperature,50.0,fahrenheit
+1253404800,CYQL,AirTemperature,60.8,fahrenheit
+1253491200,CYQL,AirTemperature,35.6,fahrenheit
+1253577600,CYQL,AirTemperature,50.0,fahrenheit

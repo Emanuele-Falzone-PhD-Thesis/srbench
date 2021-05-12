@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1124719800,RLKC1,AirTemperature,94.0,fahrenheit
+1124723400,RLKC1,AirTemperature,93.0,fahrenheit
+1124799000,RLKC1,AirTemperature,89.0,fahrenheit
+1125155400,RLKC1,AirTemperature,96.0,fahrenheit
+1125241800,RLKC1,AirTemperature,94.0,fahrenheit
+1125245400,RLKC1,AirTemperature,91.0,fahrenheit
+1125249000,RLKC1,AirTemperature,91.0,fahrenheit
+1125252600,RLKC1,AirTemperature,89.0,fahrenheit
+1125256200,RLKC1,AirTemperature,78.0,fahrenheit
+1125263400,RLKC1,AirTemperature,66.0,fahrenheit
+1125267000,RLKC1,AirTemperature,61.0,fahrenheit
+1125270600,RLKC1,AirTemperature,57.0,fahrenheit

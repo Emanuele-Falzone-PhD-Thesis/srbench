@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253231520,KIEN,WindGust,21.0,milesPerHour
+1253317920,KIEN,WindGust,25.0,milesPerHour
+1253404320,KIEN,WindGust,35.0,milesPerHour
+1253490720,KIEN,WindGust,0.0,milesPerHour
+1253577120,KIEN,WindGust,0.0,milesPerHour

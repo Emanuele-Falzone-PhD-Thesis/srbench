@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1124697300,KIZA,WindDirection,0.0,degrees
+1124704200,KIZA,WindDirection,0.0,degrees
+1124786100,KIZA,WindDirection,0.0,degrees
+1124787300,KIZA,WindDirection,250.0,degrees
+1124789400,KIZA,WindDirection,0.0,degrees
+1124873700,KIZA,WindDirection,0.0,degrees
+1124877300,KIZA,WindDirection,0.0,degrees
+1124958900,KIZA,WindDirection,0.0,degrees
+1124960100,KIZA,WindDirection,0.0,degrees

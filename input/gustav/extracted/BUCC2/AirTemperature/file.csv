@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,BUCC2,AirTemperature,43.9,fahrenheit
+1219629600,BUCC2,AirTemperature,68.0,fahrenheit
+1219716000,BUCC2,AirTemperature,44.6,fahrenheit
+1219802400,BUCC2,AirTemperature,52.3,fahrenheit
+1219888800,BUCC2,AirTemperature,50.2,fahrenheit
+1219975200,BUCC2,AirTemperature,40.3,fahrenheit
+1220061600,BUCC2,AirTemperature,43.0,fahrenheit

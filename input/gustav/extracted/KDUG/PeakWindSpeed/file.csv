@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1219965000,KDUG,PeakWindSpeed,0.0,milesPerHour
+1219965240,KDUG,PeakWindSpeed,0.0,milesPerHour
+1219966080,KDUG,PeakWindSpeed,0.0,milesPerHour
+1219966980,KDUG,PeakWindSpeed,0.0,milesPerHour
+1219967760,KDUG,PeakWindSpeed,0.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144700,KALN,AirTemperature,63.9,fahrenheit
+1253231100,KALN,AirTemperature,57.0,fahrenheit
+1253317500,KALN,AirTemperature,60.1,fahrenheit
+1253403960,KALN,AirTemperature,68.2,fahrenheit
+1253490300,KALN,AirTemperature,63.5,fahrenheit
+1253576700,KALN,AirTemperature,68.9,fahrenheit

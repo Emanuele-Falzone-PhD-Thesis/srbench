@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1091998200,PAOT,PeakWindSpeed,30.0,milesPerHour
+1092001800,PAOT,PeakWindSpeed,0.0,milesPerHour
+1092005400,PAOT,PeakWindSpeed,0.0,milesPerHour
+1092006000,PAOT,PeakWindSpeed,0.0,milesPerHour
+1092009000,PAOT,PeakWindSpeed,0.0,milesPerHour

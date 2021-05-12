@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1124773200,WSKM8,AirTemperature,45.0,fahrenheit
+1124794800,WSKM8,AirTemperature,62.0,fahrenheit
+1124935200,WSKM8,AirTemperature,31.0,fahrenheit
+1124946000,WSKM8,AirTemperature,28.0,fahrenheit

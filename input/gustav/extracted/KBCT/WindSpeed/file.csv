@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1219646940,KBCT,WindSpeed,6.0,milesPerHour
+1219650600,KBCT,WindSpeed,0.0,milesPerHour
+1219733220,KBCT,WindSpeed,0.0,milesPerHour
+1219736880,KBCT,WindSpeed,0.0,milesPerHour
+1219740360,KBCT,WindSpeed,0.0,milesPerHour
+1219744020,KBCT,WindSpeed,5.0,milesPerHour
+1219747500,KBCT,WindSpeed,5.0,milesPerHour
+1219751280,KBCT,WindSpeed,14.0,milesPerHour
+1219819620,KBCT,WindSpeed,0.0,milesPerHour
+1219823220,KBCT,WindSpeed,0.0,milesPerHour
+1219834260,KBCT,WindSpeed,5.0,milesPerHour
+1219906020,KBCT,WindSpeed,0.0,milesPerHour

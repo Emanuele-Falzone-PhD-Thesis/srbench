@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,VLMC2,AirTemperature,49.3,fahrenheit
+1219629600,VLMC2,AirTemperature,68.4,fahrenheit
+1219716000,VLMC2,AirTemperature,48.7,fahrenheit
+1219802400,VLMC2,AirTemperature,51.1,fahrenheit
+1219888800,VLMC2,AirTemperature,50.0,fahrenheit
+1219975200,VLMC2,AirTemperature,50.4,fahrenheit
+1220061600,VLMC2,AirTemperature,52.2,fahrenheit

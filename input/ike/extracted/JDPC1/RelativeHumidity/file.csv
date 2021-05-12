@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1220486400,JDPC1,RelativeHumidity,30.0,percent
+1220490000,JDPC1,RelativeHumidity,30.0,percent
+1220493600,JDPC1,RelativeHumidity,300.0,percent

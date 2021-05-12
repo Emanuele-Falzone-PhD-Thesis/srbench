@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1219611600,KLFT,PeakWindSpeed,0.0,milesPerHour
+1219614780,KLFT,PeakWindSpeed,31.0,milesPerHour
+1219618380,KLFT,PeakWindSpeed,0.0,milesPerHour
+1219621980,KLFT,PeakWindSpeed,0.0,milesPerHour

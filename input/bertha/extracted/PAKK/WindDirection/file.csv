@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAKK,WindDirection,360.0,degrees
+1253231760,PAKK,WindDirection,360.0,degrees
+1253318160,PAKK,WindDirection,340.0,degrees
+1253404560,PAKK,WindDirection,10.0,degrees
+1253490960,PAKK,WindDirection,350.0,degrees
+1253577360,PAKK,WindDirection,10.0,degrees

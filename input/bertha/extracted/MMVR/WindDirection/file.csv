@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144700,MMVR,WindDirection,120.0,degrees
+1253231280,MMVR,WindDirection,270.0,degrees
+1253317500,MMVR,WindDirection,330.0,degrees
+1253404020,MMVR,WindDirection,310.0,degrees
+1253490300,MMVR,WindDirection,300.0,degrees
+1253576640,MMVR,WindDirection,270.0,degrees

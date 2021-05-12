@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1124755200,INPA2,PrecipitationAccumulated,4.1,centimeters
+1124928000,INPA2,PrecipitationAccumulated,5.3,centimeters
+1125014400,INPA2,PrecipitationAccumulated,5.3,centimeters

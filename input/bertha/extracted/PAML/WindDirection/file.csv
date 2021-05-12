@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253122800,PAML,WindDirection,10.0,degrees
+1253209200,PAML,WindDirection,110.0,degrees
+1253296500,PAML,WindDirection,330.0,degrees
+1253382000,PAML,WindDirection,90.0,degrees
+1253468760,PAML,WindDirection,20.0,degrees
+1253555100,PAML,WindDirection,30.0,degrees

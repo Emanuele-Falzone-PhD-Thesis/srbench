@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1220175900,LNCC1,WindDirection,0.0,degrees
+1220336100,LNCC1,WindDirection,0.0,degrees
+1220956200,LNCC1,WindDirection,0.0,degrees
+1220960400,LNCC1,WindDirection,0.0,degrees
+1221242100,LNCC1,WindDirection,0.0,degrees
+1221244200,LNCC1,WindDirection,0.0,degrees
+1221310800,LNCC1,WindDirection,0.0,degrees
+1221342000,LNCC1,WindDirection,320.0,degrees

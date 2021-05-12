@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,FRE,WindDirection,239.0,degrees
+1253232000,FRE,WindDirection,237.0,degrees
+1253318400,FRE,WindDirection,243.0,degrees
+1253404800,FRE,WindDirection,251.0,degrees
+1253491200,FRE,WindDirection,274.0,degrees
+1253577600,FRE,WindDirection,294.0,degrees

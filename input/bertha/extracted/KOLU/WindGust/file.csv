@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253404500,KOLU,WindGust,0.0,milesPerHour
+1253490900,KOLU,WindGust,16.0,milesPerHour
+1253577300,KOLU,WindGust,0.0,milesPerHour

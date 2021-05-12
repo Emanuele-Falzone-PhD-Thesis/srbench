@@ -1,0 +1,17 @@
+timestamp,sensorId,property,value,unit
+1124780400,CYAD,DewPoint,35.6,fahrenheit
+1124784000,CYAD,DewPoint,44.6,fahrenheit
+1124787600,CYAD,DewPoint,46.4,fahrenheit
+1124791200,CYAD,DewPoint,46.4,fahrenheit
+1124794800,CYAD,DewPoint,42.8,fahrenheit
+1124798400,CYAD,DewPoint,42.8,fahrenheit
+1124802000,CYAD,DewPoint,41.0,fahrenheit
+1124805600,CYAD,DewPoint,41.0,fahrenheit
+1124809200,CYAD,DewPoint,41.0,fahrenheit
+1124812800,CYAD,DewPoint,41.0,fahrenheit
+1124866800,CYAD,DewPoint,33.8,fahrenheit
+1124870400,CYAD,DewPoint,41.0,fahrenheit
+1124874000,CYAD,DewPoint,48.2,fahrenheit
+1124877600,CYAD,DewPoint,50.0,fahrenheit
+1124884800,CYAD,DewPoint,41.0,fahrenheit
+1124888400,CYAD,DewPoint,37.4,fahrenheit

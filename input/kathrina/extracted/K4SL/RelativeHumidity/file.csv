@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1124784000,K4SL,RelativeHumidity,60.0,percent
+1124817000,K4SL,RelativeHumidity,36.0,percent
+1124871600,K4SL,RelativeHumidity,43.0,percent
+1124902500,K4SL,RelativeHumidity,28.0,percent
+1124958000,K4SL,RelativeHumidity,59.0,percent
+1124989800,K4SL,RelativeHumidity,37.0,percent
+1125042900,K4SL,RelativeHumidity,63.0,percent
+1125075600,K4SL,RelativeHumidity,25.0,percent
+1125161700,K4SL,RelativeHumidity,18.0,percent
+1125216600,K4SL,RelativeHumidity,55.0,percent
+1125248400,K4SL,RelativeHumidity,36.0,percent

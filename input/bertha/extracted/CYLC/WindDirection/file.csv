@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253116800,CYLC,WindDirection,0.0,degrees
+1253203200,CYLC,WindDirection,0.0,degrees
+1253286000,CYLC,WindDirection,320.0,degrees
+1253545200,CYLC,WindDirection,360.0,degrees

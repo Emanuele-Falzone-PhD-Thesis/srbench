@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1253145300,KOLV,WindGust,0.0,milesPerHour

@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1091930400,PHTC2,AirTemperature,38.3,fahrenheit
+1091941200,PHTC2,AirTemperature,34.3,fahrenheit
+1092016800,PHTC2,AirTemperature,38.3,fahrenheit
+1092027600,PHTC2,AirTemperature,34.9,fahrenheit
+1092103200,PHTC2,AirTemperature,40.5,fahrenheit
+1092114000,PHTC2,AirTemperature,38.5,fahrenheit
+1092189600,PHTC2,AirTemperature,43.2,fahrenheit
+1092200400,PHTC2,AirTemperature,38.5,fahrenheit
+1092276000,PHTC2,AirTemperature,34.5,fahrenheit
+1092286800,PHTC2,AirTemperature,31.6,fahrenheit
+1092362400,PHTC2,AirTemperature,37.6,fahrenheit
+1092373200,PHTC2,AirTemperature,33.4,fahrenheit

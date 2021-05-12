@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1219654800,BHCHK,AirTemperature,51.0,fahrenheit
+1219658400,BHCHK,AirTemperature,52.0,fahrenheit

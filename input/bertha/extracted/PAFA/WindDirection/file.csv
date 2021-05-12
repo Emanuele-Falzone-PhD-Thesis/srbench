@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PAFA,WindDirection,20.0,degrees
+1253231580,PAFA,WindDirection,0.0,degrees
+1253317980,PAFA,WindDirection,270.0,degrees
+1253404380,PAFA,WindDirection,360.0,degrees
+1253490780,PAFA,WindDirection,360.0,degrees
+1253577180,PAFA,WindDirection,200.0,degrees

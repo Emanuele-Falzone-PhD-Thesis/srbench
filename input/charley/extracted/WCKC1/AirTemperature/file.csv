@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1092139800,WCKC1,AirTemperature,327.7,fahrenheit
+1092181800,WCKC1,AirTemperature,182.0,fahrenheit
+1092229200,WCKC1,AirTemperature,73.8,fahrenheit

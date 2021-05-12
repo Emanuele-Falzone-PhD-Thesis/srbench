@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KRTN,WindDirection,70.0,degrees
+1253231580,KRTN,WindDirection,0.0,degrees
+1253317980,KRTN,WindDirection,310.0,degrees
+1253404380,KRTN,WindDirection,10.0,degrees
+1253490780,KRTN,WindDirection,110.0,degrees
+1253577180,KRTN,WindDirection,350.0,degrees

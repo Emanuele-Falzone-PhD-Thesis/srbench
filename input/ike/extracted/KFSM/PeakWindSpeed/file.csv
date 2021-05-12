@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1220392380,KFSM,PeakWindSpeed,40.0,milesPerHour
+1220393400,KFSM,PeakWindSpeed,38.0,milesPerHour
+1220394960,KFSM,PeakWindSpeed,0.0,milesPerHour
+1220395440,KFSM,PeakWindSpeed,38.0,milesPerHour
+1220395980,KFSM,PeakWindSpeed,38.0,milesPerHour
+1220396880,KFSM,PeakWindSpeed,38.0,milesPerHour
+1220398140,KFSM,PeakWindSpeed,38.0,milesPerHour
+1220398740,KFSM,PeakWindSpeed,38.0,milesPerHour
+1220399580,KFSM,PeakWindSpeed,38.0,milesPerHour
+1220485980,KFSM,PeakWindSpeed,0.0,milesPerHour

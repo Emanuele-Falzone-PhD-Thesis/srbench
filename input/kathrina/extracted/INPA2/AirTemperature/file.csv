@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1124755200,INPA2,AirTemperature,44.8,fahrenheit
+1124928000,INPA2,AirTemperature,45.1,fahrenheit
+1125014400,INPA2,AirTemperature,39.4,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144700,KORG,WindDirection,0.0,degrees
+1253231100,KORG,WindDirection,0.0,degrees
+1253317500,KORG,WindDirection,0.0,degrees
+1253403900,KORG,WindDirection,0.0,degrees
+1253490300,KORG,WindDirection,0.0,degrees
+1253576700,KORG,WindDirection,170.0,degrees

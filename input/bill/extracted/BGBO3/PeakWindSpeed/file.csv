@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253147640,BGBO3,PeakWindSpeed,15.0,milesPerHour
+1253151240,BGBO3,PeakWindSpeed,13.0,milesPerHour
+1253561640,BGBO3,PeakWindSpeed,0.0,milesPerHour
+1253586840,BGBO3,PeakWindSpeed,7.0,milesPerHour
+1253327640,BGBO3,PeakWindSpeed,16.0,milesPerHour

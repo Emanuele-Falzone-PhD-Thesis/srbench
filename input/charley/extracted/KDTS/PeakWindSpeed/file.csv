@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1092267600,KDTS,PeakWindSpeed,32.0,milesPerHour
+1092268200,KDTS,PeakWindSpeed,32.0,milesPerHour

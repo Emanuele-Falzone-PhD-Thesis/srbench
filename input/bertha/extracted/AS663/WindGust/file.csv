@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1253149920,AS663,WindGust,2.0,milesPerHour
+1253151240,AS663,WindGust,2.0,milesPerHour
+1253509860,AS663,WindGust,0.0,milesPerHour
+1253514540,AS663,WindGust,1.0,milesPerHour
+1253517060,AS663,WindGust,0.0,milesPerHour
+1253517720,AS663,WindGust,0.0,milesPerHour
+1253552520,AS663,WindGust,5.0,milesPerHour

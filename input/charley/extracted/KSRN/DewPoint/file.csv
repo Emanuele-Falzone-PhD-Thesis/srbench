@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1091964000,KSRN,DewPoint,75.2,fahrenheit
+1092027600,KSRN,DewPoint,78.8,fahrenheit
+1092050700,KSRN,DewPoint,78.8,fahrenheit
+1092113700,KSRN,DewPoint,77.0,fahrenheit
+1092137100,KSRN,DewPoint,75.2,fahrenheit
+1092200100,KSRN,DewPoint,73.4,fahrenheit
+1092222900,KSRN,DewPoint,73.4,fahrenheit
+1092286800,KSRN,DewPoint,75.2,fahrenheit
+1092309600,KSRN,DewPoint,73.4,fahrenheit
+1092372900,KSRN,DewPoint,62.6,fahrenheit
+1092395400,KSRN,DewPoint,55.4,fahrenheit

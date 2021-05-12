@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1253141760,KNTD,DewPoint,63.0,fahrenheit
+1253145360,KNTD,DewPoint,64.0,fahrenheit
+1253228160,KNTD,DewPoint,63.0,fahrenheit
+1253231760,KNTD,DewPoint,64.9,fahrenheit
+1253314980,KNTD,DewPoint,64.4,fahrenheit
+1253318160,KNTD,DewPoint,64.0,fahrenheit
+1253404560,KNTD,DewPoint,62.1,fahrenheit
+1253490960,KNTD,DewPoint,62.1,fahrenheit
+1253577360,KNTD,DewPoint,59.0,fahrenheit

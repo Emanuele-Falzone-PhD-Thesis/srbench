@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1124784000,NUKA2,PrecipitationAccumulated,80.8,centimeters
+1124874000,NUKA2,PrecipitationAccumulated,81.3,centimeters
+1125216000,NUKA2,PrecipitationAccumulated,81.8,centimeters

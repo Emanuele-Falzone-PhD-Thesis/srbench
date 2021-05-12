@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145480,PAGA,AirTemperature,52.0,fahrenheit
+1253231880,PAGA,AirTemperature,48.9,fahrenheit
+1253318280,PAGA,AirTemperature,46.9,fahrenheit
+1253404680,PAGA,AirTemperature,46.0,fahrenheit
+1253491080,PAGA,AirTemperature,42.1,fahrenheit
+1253577480,PAGA,AirTemperature,33.8,fahrenheit

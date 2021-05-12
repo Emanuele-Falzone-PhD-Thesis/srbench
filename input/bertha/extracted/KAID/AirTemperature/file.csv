@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253130900,KAID,AirTemperature,68.0,fahrenheit
+1253303460,KAID,AirTemperature,69.8,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KROW,DewPoint,57.0,fahrenheit
+1253231460,KROW,DewPoint,55.0,fahrenheit
+1253317860,KROW,DewPoint,54.0,fahrenheit
+1253404260,KROW,DewPoint,54.0,fahrenheit
+1253490660,KROW,DewPoint,46.0,fahrenheit
+1253577060,KROW,DewPoint,39.9,fahrenheit

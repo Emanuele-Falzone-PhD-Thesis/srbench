@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KABY,WindSpeed,0.0,milesPerHour
+1253231580,KABY,WindSpeed,0.0,milesPerHour
+1253317980,KABY,WindSpeed,0.0,milesPerHour
+1253404380,KABY,WindSpeed,8.0,milesPerHour
+1253490780,KABY,WindSpeed,8.0,milesPerHour
+1253577180,KABY,WindSpeed,3.0,milesPerHour

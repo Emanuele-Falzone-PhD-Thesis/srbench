@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KOFF,AirTemperature,58.8,fahrenheit
+1253231700,KOFF,AirTemperature,61.7,fahrenheit
+1253318100,KOFF,AirTemperature,54.7,fahrenheit
+1253404500,KOFF,AirTemperature,52.3,fahrenheit
+1253490900,KOFF,AirTemperature,65.8,fahrenheit
+1253577300,KOFF,AirTemperature,52.5,fahrenheit

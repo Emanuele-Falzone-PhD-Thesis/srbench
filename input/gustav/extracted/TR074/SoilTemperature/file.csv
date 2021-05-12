@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1220111280,TR074,SoilTemperature,87.0,fahrenheit
+1220114880,TR074,SoilTemperature,85.0,fahrenheit
+1220118480,TR074,SoilTemperature,81.0,fahrenheit
+1220122080,TR074,SoilTemperature,80.0,fahrenheit
+1220125680,TR074,SoilTemperature,80.0,fahrenheit
+1220129280,TR074,SoilTemperature,78.0,fahrenheit
+1220132880,TR074,SoilTemperature,75.0,fahrenheit
+1220136480,TR074,SoilTemperature,75.0,fahrenheit

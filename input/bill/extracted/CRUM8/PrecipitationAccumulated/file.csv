@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253285700,CRUM8,PrecipitationAccumulated,1.53,centimeters
+1253402280,CRUM8,PrecipitationAccumulated,60.16,centimeters

@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1220270580,PAGA,WindSpeed,0.0,milesPerHour
+1220276580,PAGA,WindSpeed,0.0,milesPerHour
+1220428680,PAGA,WindSpeed,0.0,milesPerHour
+1220509980,PAGA,WindSpeed,0.0,milesPerHour
+1220521500,PAGA,WindSpeed,0.0,milesPerHour
+1220864280,PAGA,WindSpeed,9.0,milesPerHour
+1220869260,PAGA,WindSpeed,6.0,milesPerHour
+1221035820,PAGA,WindSpeed,0.0,milesPerHour
+1221123420,PAGA,WindSpeed,0.0,milesPerHour

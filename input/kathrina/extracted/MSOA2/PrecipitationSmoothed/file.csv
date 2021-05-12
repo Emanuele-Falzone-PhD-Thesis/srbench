@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1125226800,MSOA2,PrecipitationSmoothed,17.1,centimeters
+1125230400,MSOA2,PrecipitationSmoothed,17.1,centimeters

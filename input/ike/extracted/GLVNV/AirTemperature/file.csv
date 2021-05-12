@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1220143500,GLVNV,AirTemperature,69.6,fahrenheit
+1220148000,GLVNV,AirTemperature,68.7,fahrenheit
+1220156100,GLVNV,AirTemperature,66.4,fahrenheit
+1220159700,GLVNV,AirTemperature,63.1,fahrenheit
+1220163300,GLVNV,AirTemperature,63.0,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KILM,WindDirection,330.0,degrees
+1253231580,KILM,WindDirection,50.0,degrees
+1253317980,KILM,WindDirection,0.0,degrees
+1253404380,KILM,WindDirection,30.0,degrees
+1253490780,KILM,WindDirection,40.0,degrees
+1253577180,KILM,WindDirection,30.0,degrees

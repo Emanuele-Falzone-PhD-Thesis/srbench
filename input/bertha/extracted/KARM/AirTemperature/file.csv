@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144700,KARM,AirTemperature,75.6,fahrenheit
+1253231100,KARM,AirTemperature,73.4,fahrenheit
+1253317500,KARM,AirTemperature,74.1,fahrenheit
+1253403900,KARM,AirTemperature,75.4,fahrenheit
+1253490300,KARM,AirTemperature,77.0,fahrenheit
+1253576700,KARM,AirTemperature,79.2,fahrenheit

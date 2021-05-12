@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,KI16,AirTemperature,64.4,fahrenheit
+1253232000,KI16,AirTemperature,62.6,fahrenheit
+1253318400,KI16,AirTemperature,66.2,fahrenheit
+1253404800,KI16,AirTemperature,62.6,fahrenheit
+1253491200,KI16,AirTemperature,64.4,fahrenheit
+1253577600,KI16,AirTemperature,64.4,fahrenheit

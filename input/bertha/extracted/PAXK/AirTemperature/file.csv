@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253134200,PAXK,AirTemperature,48.2,fahrenheit
+1253223900,PAXK,AirTemperature,42.8,fahrenheit
+1253307300,PAXK,AirTemperature,44.6,fahrenheit
+1253367900,PAXK,AirTemperature,46.4,fahrenheit

@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1253066400,NESA2,WindGust,1.0,milesPerHour
+1253070000,NESA2,WindGust,6.0,milesPerHour
+1253073600,NESA2,WindGust,9.0,milesPerHour
+1253077200,NESA2,WindGust,8.0,milesPerHour
+1253080800,NESA2,WindGust,0.0,milesPerHour
+1253084400,NESA2,WindGust,7.0,milesPerHour
+1253088000,NESA2,WindGust,7.0,milesPerHour
+1253091600,NESA2,WindGust,0.0,milesPerHour
+1253095200,NESA2,WindGust,12.0,milesPerHour
+1253102400,NESA2,WindGust,13.0,milesPerHour
+1253134800,NESA2,WindGust,1.0,milesPerHour
+1253142000,NESA2,WindGust,6.0,milesPerHour
+1253145600,NESA2,WindGust,14.0,milesPerHour
+1253188800,NESA2,WindGust,14.0,milesPerHour

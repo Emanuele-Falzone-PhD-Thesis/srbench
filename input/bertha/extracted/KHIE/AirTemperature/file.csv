@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145120,KHIE,AirTemperature,51.1,fahrenheit
+1253231520,KHIE,AirTemperature,43.0,fahrenheit
+1253317920,KHIE,AirTemperature,48.0,fahrenheit
+1253404320,KHIE,AirTemperature,33.1,fahrenheit
+1253490720,KHIE,AirTemperature,35.1,fahrenheit
+1253577120,KHIE,AirTemperature,39.9,fahrenheit

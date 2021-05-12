@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1220725920,KNUI,PeakWindSpeed,32.0,milesPerHour
+1220727180,KNUI,PeakWindSpeed,32.0,milesPerHour
+1220729340,KNUI,PeakWindSpeed,31.0,milesPerHour
+1220730780,KNUI,PeakWindSpeed,31.0,milesPerHour
+1220732580,KNUI,PeakWindSpeed,0.0,milesPerHour
+1220734380,KNUI,PeakWindSpeed,0.0,milesPerHour
+1220737980,KNUI,PeakWindSpeed,0.0,milesPerHour
+1220741580,KNUI,PeakWindSpeed,0.0,milesPerHour
+1220745180,KNUI,PeakWindSpeed,0.0,milesPerHour

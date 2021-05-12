@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1220227200,AP913,WindGust,3.0,milesPerHour
+1220519940,AP913,WindGust,1.0,milesPerHour
+1220631960,AP913,WindGust,3.0,milesPerHour
+1220971620,AP913,WindGust,1.0,milesPerHour
+1220973960,AP913,WindGust,0.0,milesPerHour
+1221065760,AP913,WindGust,3.0,milesPerHour
+1221267960,AP913,WindGust,2.0,milesPerHour
+1221271020,AP913,WindGust,2.0,milesPerHour

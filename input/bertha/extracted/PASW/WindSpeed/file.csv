@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253130720,PASW,WindSpeed,0.0,milesPerHour
+1253216940,PASW,WindSpeed,0.0,milesPerHour
+1253303460,PASW,WindSpeed,0.0,milesPerHour
+1253389980,PASW,WindSpeed,0.0,milesPerHour
+1253476080,PASW,WindSpeed,3.0,milesPerHour
+1253562540,PASW,WindSpeed,0.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KANE,RelativeHumidity,94.0,percent
+1253231640,KANE,RelativeHumidity,88.0,percent
+1253318100,KANE,RelativeHumidity,83.0,percent
+1253404440,KANE,RelativeHumidity,78.0,percent
+1253490840,KANE,RelativeHumidity,77.0,percent
+1253577240,KANE,RelativeHumidity,94.0,percent

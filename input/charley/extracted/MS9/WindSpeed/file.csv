@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1091958000,MS9,WindSpeed,1.0,milesPerHour
+1092005700,MS9,WindSpeed,4.0,milesPerHour
+1092054300,MS9,WindSpeed,2.0,milesPerHour
+1092055200,MS9,WindSpeed,4.0,milesPerHour
+1092056100,MS9,WindSpeed,4.0,milesPerHour
+1092081300,MS9,WindSpeed,13.0,milesPerHour
+1092180300,MS9,WindSpeed,0.0,milesPerHour
+1092215400,MS9,WindSpeed,9.0,milesPerHour

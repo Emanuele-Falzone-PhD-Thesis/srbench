@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KLCK,AirTemperature,62.8,fahrenheit
+1253231700,KLCK,AirTemperature,66.2,fahrenheit
+1253318100,KLCK,AirTemperature,64.4,fahrenheit
+1253404500,KLCK,AirTemperature,63.1,fahrenheit
+1253490900,KLCK,AirTemperature,73.4,fahrenheit
+1253577300,KLCK,AirTemperature,72.5,fahrenheit

@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1220148000,RAWC2,PrecipitationAccumulated,27.1,centimeters
+1220234400,RAWC2,PrecipitationAccumulated,27.1,centimeters
+1220320800,RAWC2,PrecipitationAccumulated,1.4,centimeters
+1220407200,RAWC2,PrecipitationAccumulated,27.3,centimeters
+1220493600,RAWC2,PrecipitationAccumulated,27.3,centimeters
+1220580000,RAWC2,PrecipitationAccumulated,27.3,centimeters
+1220666400,RAWC2,PrecipitationAccumulated,27.4,centimeters
+1220752800,RAWC2,PrecipitationAccumulated,27.4,centimeters
+1220839200,RAWC2,PrecipitationAccumulated,6.0,centimeters
+1220925600,RAWC2,PrecipitationAccumulated,27.4,centimeters
+1221012000,RAWC2,PrecipitationAccumulated,27.4,centimeters
+1221098400,RAWC2,PrecipitationAccumulated,27.5,centimeters
+1221184800,RAWC2,PrecipitationAccumulated,28.0,centimeters
+1221271200,RAWC2,PrecipitationAccumulated,28.1,centimeters

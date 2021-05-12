@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1220179740,PAWR,WindGust,36.0,milesPerHour
+1220309880,PAWR,WindGust,21.0,milesPerHour
+1220463960,PAWR,WindGust,0.0,milesPerHour
+1220723280,PAWR,WindGust,25.0,milesPerHour
+1220828340,PAWR,WindGust,0.0,milesPerHour
+1220878140,PAWR,WindGust,21.0,milesPerHour
+1221090840,PAWR,WindGust,0.0,milesPerHour
+1221231540,PAWR,WindGust,20.0,milesPerHour

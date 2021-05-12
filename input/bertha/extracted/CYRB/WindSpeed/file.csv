@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYRB,WindSpeed,17.0,milesPerHour
+1253232000,CYRB,WindSpeed,16.0,milesPerHour
+1253318400,CYRB,WindSpeed,8.0,milesPerHour
+1253404800,CYRB,WindSpeed,10.0,milesPerHour
+1253491200,CYRB,WindSpeed,14.0,milesPerHour
+1253577600,CYRB,WindSpeed,6.0,milesPerHour

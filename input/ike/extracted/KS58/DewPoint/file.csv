@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1220676300,KS58,DewPoint,73.4,fahrenheit
+1220701500,KS58,DewPoint,0.0,fahrenheit
+1220712300,KS58,DewPoint,75.2,fahrenheit
+1220719500,KS58,DewPoint,75.2,fahrenheit
+1220762700,KS58,DewPoint,77.0,fahrenheit
+1220777280,KS58,DewPoint,77.0,fahrenheit
+1220798700,KS58,DewPoint,75.2,fahrenheit
+1220805900,KS58,DewPoint,77.0,fahrenheit
+1220863500,KS58,DewPoint,77.0,fahrenheit
+1220875200,KS58,DewPoint,78.8,fahrenheit

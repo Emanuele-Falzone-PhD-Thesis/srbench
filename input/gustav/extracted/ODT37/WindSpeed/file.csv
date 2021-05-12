@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1219881600,ODT37,WindSpeed,8.0,milesPerHour
+1219882800,ODT37,WindSpeed,10.0,milesPerHour

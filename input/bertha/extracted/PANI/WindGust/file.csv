@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253231760,PANI,WindGust,0.0,milesPerHour
+1253318160,PANI,WindGust,0.0,milesPerHour
+1253404560,PANI,WindGust,0.0,milesPerHour
+1253490960,PANI,WindGust,0.0,milesPerHour
+1253577360,PANI,WindGust,0.0,milesPerHour

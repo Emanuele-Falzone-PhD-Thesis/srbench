@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253530800,BUST2,AirTemperature,63.0,fahrenheit
+1253570400,BUST2,AirTemperature,73.8,fahrenheit
+1253574000,BUST2,AirTemperature,55.8,fahrenheit

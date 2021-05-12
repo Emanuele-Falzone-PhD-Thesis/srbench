@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1124818500,C2260,Precipitation,0.65,centimeters
+1124820000,C2260,Precipitation,0.0,centimeters
+1124820600,C2260,Precipitation,0.0,centimeters
+1124821800,C2260,Precipitation,0.0,centimeters

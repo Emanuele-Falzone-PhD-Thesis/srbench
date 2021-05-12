@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1220109840,TS004,AirTemperature,80.0,fahrenheit
+1220113440,TS004,AirTemperature,82.0,fahrenheit
+1220117040,TS004,AirTemperature,83.0,fahrenheit
+1220120640,TS004,AirTemperature,80.0,fahrenheit
+1220124240,TS004,AirTemperature,79.0,fahrenheit
+1220127840,TS004,AirTemperature,76.0,fahrenheit
+1220131440,TS004,AirTemperature,73.0,fahrenheit
+1220135040,TS004,AirTemperature,71.0,fahrenheit
+1220138640,TS004,AirTemperature,69.0,fahrenheit

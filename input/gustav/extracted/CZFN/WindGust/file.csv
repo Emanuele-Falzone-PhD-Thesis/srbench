@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1220000400,CZFN,WindGust,0.0,milesPerHour
+1220004000,CZFN,WindGust,0.0,milesPerHour
+1220007600,CZFN,WindGust,0.0,milesPerHour
+1220011200,CZFN,WindGust,20.0,milesPerHour
+1220014800,CZFN,WindGust,0.0,milesPerHour
+1220018400,CZFN,WindGust,0.0,milesPerHour
+1220022000,CZFN,WindGust,0.0,milesPerHour
+1220025600,CZFN,WindGust,0.0,milesPerHour
+1220029200,CZFN,WindGust,29.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KUUU,AirTemperature,55.9,fahrenheit
+1253231580,KUUU,AirTemperature,53.1,fahrenheit
+1253317980,KUUU,AirTemperature,63.0,fahrenheit
+1253404380,KUUU,AirTemperature,50.0,fahrenheit
+1253490780,KUUU,AirTemperature,57.0,fahrenheit
+1253577540,KUUU,AirTemperature,59.0,fahrenheit

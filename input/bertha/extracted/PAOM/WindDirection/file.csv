@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PAOM,WindDirection,320.0,degrees
+1253231580,PAOM,WindDirection,350.0,degrees
+1253317980,PAOM,WindDirection,350.0,degrees
+1253404380,PAOM,WindDirection,340.0,degrees
+1253490780,PAOM,WindDirection,310.0,degrees
+1253577180,PAOM,WindDirection,360.0,degrees

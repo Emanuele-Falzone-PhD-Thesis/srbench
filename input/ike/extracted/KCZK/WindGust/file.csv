@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1221129900,KCZK,WindGust,35.0,milesPerHour

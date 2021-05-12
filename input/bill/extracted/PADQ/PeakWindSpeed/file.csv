@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1253501580,PADQ,PeakWindSpeed,32.0,milesPerHour
+1253505180,PADQ,PeakWindSpeed,31.0,milesPerHour
+1253508780,PADQ,PeakWindSpeed,0.0,milesPerHour
+1253512380,PADQ,PeakWindSpeed,0.0,milesPerHour
+1253515980,PADQ,PeakWindSpeed,0.0,milesPerHour
+1253518680,PADQ,PeakWindSpeed,0.0,milesPerHour
+1253519580,PADQ,PeakWindSpeed,0.0,milesPerHour

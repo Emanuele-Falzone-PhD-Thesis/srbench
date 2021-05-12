@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1220738040,KACY,PeakWindSpeed,32.0,milesPerHour
+1220739480,KACY,PeakWindSpeed,35.0,milesPerHour
+1220741640,KACY,PeakWindSpeed,35.0,milesPerHour
+1220742480,KACY,PeakWindSpeed,31.0,milesPerHour
+1220745240,KACY,PeakWindSpeed,31.0,milesPerHour

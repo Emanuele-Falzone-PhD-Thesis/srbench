@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1091950200,AP486,WindDirection,140.0,degrees
+1092045900,AP486,WindDirection,180.0,degrees
+1092125700,AP486,WindDirection,145.0,degrees

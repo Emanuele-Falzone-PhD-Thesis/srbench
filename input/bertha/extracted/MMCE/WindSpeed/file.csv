@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253126700,MMCE,WindSpeed,14.0,milesPerHour
+1253213100,MMCE,WindSpeed,14.0,milesPerHour
+1253299500,MMCE,WindSpeed,17.0,milesPerHour
+1253385900,MMCE,WindSpeed,14.0,milesPerHour
+1253472300,MMCE,WindSpeed,12.0,milesPerHour
+1253558940,MMCE,WindSpeed,12.0,milesPerHour

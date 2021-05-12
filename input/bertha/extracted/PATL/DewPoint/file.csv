@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,PATL,DewPoint,41.0,fahrenheit
+1253231700,PATL,DewPoint,37.0,fahrenheit
+1253310900,PATL,DewPoint,42.1,fahrenheit
+1253346000,PATL,DewPoint,41.0,fahrenheit
+1253429220,PATL,DewPoint,39.2,fahrenheit
+1253577300,PATL,DewPoint,30.0,fahrenheit

@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1091999700,C0497,DewPoint,61.9,fahrenheit
+1092000600,C0497,DewPoint,61.5,fahrenheit
+1092001500,C0497,DewPoint,61.5,fahrenheit
+1092002400,C0497,DewPoint,61.4,fahrenheit
+1092003300,C0497,DewPoint,61.3,fahrenheit
+1092004200,C0497,DewPoint,61.7,fahrenheit
+1092005100,C0497,DewPoint,60.7,fahrenheit
+1092006000,C0497,DewPoint,61.1,fahrenheit
+1092006900,C0497,DewPoint,61.5,fahrenheit
+1092007800,C0497,DewPoint,61.5,fahrenheit
+1092008700,C0497,DewPoint,61.9,fahrenheit
+1092009600,C0497,DewPoint,61.0,fahrenheit

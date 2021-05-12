@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144700,KECU,WindDirection,360.0,degrees
+1253231100,KECU,WindDirection,360.0,degrees
+1253317500,KECU,WindDirection,30.0,degrees
+1253403900,KECU,WindDirection,0.0,degrees
+1253490300,KECU,WindDirection,130.0,degrees
+1253576700,KECU,WindDirection,150.0,degrees

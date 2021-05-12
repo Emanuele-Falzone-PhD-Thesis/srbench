@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1092054300,MS5,AirTemperature,90.1,fahrenheit
+1092055200,MS5,AirTemperature,90.7,fahrenheit
+1092056100,MS5,AirTemperature,91.2,fahrenheit
+1092437700,MS5,AirTemperature,75.9,fahrenheit

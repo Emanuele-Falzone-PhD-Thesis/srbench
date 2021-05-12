@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253472360,PAKU,WindGust,17.0,milesPerHour
+1253558760,PAKU,WindGust,26.0,milesPerHour

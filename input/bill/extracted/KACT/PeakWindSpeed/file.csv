@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1253595060,KACT,PeakWindSpeed,31.0,milesPerHour

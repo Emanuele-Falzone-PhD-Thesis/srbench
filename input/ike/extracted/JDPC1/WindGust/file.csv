@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1220486400,JDPC1,WindGust,7.0,milesPerHour
+1220490000,JDPC1,WindGust,6.0,milesPerHour
+1220493600,JDPC1,WindGust,78.0,milesPerHour

@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1124757000,KEHW3,PeakWindSpeed,5.0,milesPerHour
+1124760600,KEHW3,PeakWindSpeed,4.0,milesPerHour
+1124764200,KEHW3,PeakWindSpeed,2.0,milesPerHour
+1124767800,KEHW3,PeakWindSpeed,4.0,milesPerHour

@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1124757000,KEHW3,AirTemperature,50.0,fahrenheit
+1124760600,KEHW3,AirTemperature,48.0,fahrenheit
+1124764200,KEHW3,AirTemperature,46.0,fahrenheit
+1124767800,KEHW3,AirTemperature,45.0,fahrenheit

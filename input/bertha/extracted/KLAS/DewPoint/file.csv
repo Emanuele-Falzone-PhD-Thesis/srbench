@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,KLAS,DewPoint,37.0,fahrenheit
+1253231760,KLAS,DewPoint,39.0,fahrenheit
+1253318160,KLAS,DewPoint,41.0,fahrenheit
+1253404560,KLAS,DewPoint,37.9,fahrenheit
+1253490960,KLAS,DewPoint,33.1,fahrenheit
+1253577360,KLAS,DewPoint,10.0,fahrenheit

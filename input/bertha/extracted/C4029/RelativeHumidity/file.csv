@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253059380,C4029,RelativeHumidity,91.0,percent
+1253059680,C4029,RelativeHumidity,91.0,percent

@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1220223180,KARA,PeakWindSpeed,41.0,milesPerHour
+1220226780,KARA,PeakWindSpeed,0.0,milesPerHour
+1220275260,KARA,PeakWindSpeed,67.0,milesPerHour
+1220275560,KARA,PeakWindSpeed,67.0,milesPerHour
+1220276400,KARA,PeakWindSpeed,75.0,milesPerHour
+1220277180,KARA,PeakWindSpeed,75.0,milesPerHour
+1220277960,KARA,PeakWindSpeed,76.0,milesPerHour
+1221177180,KARA,PeakWindSpeed,0.0,milesPerHour
+1221245580,KARA,PeakWindSpeed,0.0,milesPerHour
+1221249180,KARA,PeakWindSpeed,0.0,milesPerHour
+1221252780,KARA,PeakWindSpeed,0.0,milesPerHour

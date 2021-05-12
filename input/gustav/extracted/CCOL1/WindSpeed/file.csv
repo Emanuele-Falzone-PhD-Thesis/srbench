@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1219539600,CCOL1,WindSpeed,17.0,milesPerHour
+1219543200,CCOL1,WindSpeed,15.0,milesPerHour

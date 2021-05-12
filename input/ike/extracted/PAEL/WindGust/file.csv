@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1220687340,PAEL,WindGust,0.0,milesPerHour
+1220691240,PAEL,WindGust,0.0,milesPerHour
+1220694720,PAEL,WindGust,0.0,milesPerHour
+1220698560,PAEL,WindGust,0.0,milesPerHour
+1220702280,PAEL,WindGust,0.0,milesPerHour
+1220705400,PAEL,WindGust,21.0,milesPerHour
+1220709180,PAEL,WindGust,0.0,milesPerHour
+1220712420,PAEL,WindGust,0.0,milesPerHour
+1220727240,PAEL,WindGust,0.0,milesPerHour
+1220730420,PAEL,WindGust,0.0,milesPerHour
+1220734260,PAEL,WindGust,0.0,milesPerHour

@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1220134320,D0014,AirTemperature,69.0,fahrenheit
+1220135520,D0014,AirTemperature,69.0,fahrenheit
+1220136120,D0014,AirTemperature,68.0,fahrenheit
+1220137320,D0014,AirTemperature,68.0,fahrenheit
+1220137920,D0014,AirTemperature,68.0,fahrenheit
+1220139120,D0014,AirTemperature,67.0,fahrenheit
+1220139720,D0014,AirTemperature,68.0,fahrenheit

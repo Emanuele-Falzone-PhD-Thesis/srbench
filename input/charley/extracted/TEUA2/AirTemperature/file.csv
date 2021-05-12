@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1092279600,TEUA2,AirTemperature,48.7,fahrenheit
+1092283200,TEUA2,AirTemperature,47.1,fahrenheit
+1092286800,TEUA2,AirTemperature,47.1,fahrenheit
+1092319200,TEUA2,AirTemperature,75.0,fahrenheit
+1092344400,TEUA2,AirTemperature,55.9,fahrenheit

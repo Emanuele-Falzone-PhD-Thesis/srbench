@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KNAK,DewPoint,60.1,fahrenheit
+1253231640,KNAK,DewPoint,55.0,fahrenheit
+1253318040,KNAK,DewPoint,64.0,fahrenheit
+1253404440,KNAK,DewPoint,52.0,fahrenheit
+1253490840,KNAK,DewPoint,57.0,fahrenheit
+1253577240,KNAK,DewPoint,64.0,fahrenheit

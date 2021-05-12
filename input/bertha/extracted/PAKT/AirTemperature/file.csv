@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PAKT,AirTemperature,54.0,fahrenheit
+1253232000,PAKT,AirTemperature,51.8,fahrenheit
+1253317980,PAKT,AirTemperature,51.1,fahrenheit
+1253404380,PAKT,AirTemperature,51.1,fahrenheit
+1253490780,PAKT,AirTemperature,52.0,fahrenheit
+1253577180,PAKT,AirTemperature,54.0,fahrenheit

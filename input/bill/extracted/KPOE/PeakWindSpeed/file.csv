@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253573280,KPOE,PeakWindSpeed,0.0,milesPerHour
+1253573700,KPOE,PeakWindSpeed,0.0,milesPerHour
+1253577300,KPOE,PeakWindSpeed,0.0,milesPerHour
+1253580900,KPOE,PeakWindSpeed,0.0,milesPerHour
+1253584500,KPOE,PeakWindSpeed,0.0,milesPerHour
+1253588100,KPOE,PeakWindSpeed,0.0,milesPerHour
+1253591700,KPOE,PeakWindSpeed,0.0,milesPerHour
+1253595300,KPOE,PeakWindSpeed,0.0,milesPerHour

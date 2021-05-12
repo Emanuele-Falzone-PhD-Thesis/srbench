@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1125059100,TS343,AirTemperature,61.0,fahrenheit
+1125062700,TS343,AirTemperature,75.0,fahrenheit
+1125066300,TS343,AirTemperature,77.0,fahrenheit

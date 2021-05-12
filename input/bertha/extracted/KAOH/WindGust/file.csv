@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253145180,KAOH,WindGust,0.0,milesPerHour
+1253404380,KAOH,WindGust,0.0,milesPerHour
+1253577180,KAOH,WindGust,0.0,milesPerHour

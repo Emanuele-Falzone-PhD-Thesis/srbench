@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1219549500,TFTA2,WindGust,1.0,milesPerHour
+1219585560,TFTA2,WindGust,6.0,milesPerHour
+1219907700,TFTA2,WindGust,1.0,milesPerHour
+1220001360,TFTA2,WindGust,7.0,milesPerHour

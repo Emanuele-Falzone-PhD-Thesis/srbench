@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PASN,WindDirection,340.0,degrees
+1253231580,PASN,WindDirection,300.0,degrees
+1253317980,PASN,WindDirection,60.0,degrees
+1253404380,PASN,WindDirection,360.0,degrees
+1253490780,PASN,WindDirection,10.0,degrees
+1253577180,PASN,WindDirection,40.0,degrees

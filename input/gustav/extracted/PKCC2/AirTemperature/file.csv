@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,PKCC2,AirTemperature,78.4,fahrenheit
+1219629600,PKCC2,AirTemperature,39.7,fahrenheit
+1219716000,PKCC2,AirTemperature,46.4,fahrenheit
+1219802400,PKCC2,AirTemperature,46.4,fahrenheit
+1219888800,PKCC2,AirTemperature,42.8,fahrenheit
+1219975200,PKCC2,AirTemperature,43.9,fahrenheit
+1220061600,PKCC2,AirTemperature,47.1,fahrenheit

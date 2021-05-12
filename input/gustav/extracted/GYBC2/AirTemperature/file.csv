@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,GYBC2,AirTemperature,45.3,fahrenheit
+1219629600,GYBC2,AirTemperature,46.2,fahrenheit
+1219716000,GYBC2,AirTemperature,46.0,fahrenheit
+1219802400,GYBC2,AirTemperature,43.2,fahrenheit
+1219888800,GYBC2,AirTemperature,45.1,fahrenheit
+1219975200,GYBC2,AirTemperature,50.0,fahrenheit
+1220061600,GYBC2,AirTemperature,47.3,fahrenheit

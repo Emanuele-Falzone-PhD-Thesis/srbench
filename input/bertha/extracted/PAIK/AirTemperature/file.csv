@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253142060,PAIK,AirTemperature,55.9,fahrenheit
+1253228460,PAIK,AirTemperature,46.0,fahrenheit
+1253314860,PAIK,AirTemperature,46.0,fahrenheit
+1253401260,PAIK,AirTemperature,39.0,fahrenheit
+1253487660,PAIK,AirTemperature,37.9,fahrenheit
+1253574060,PAIK,AirTemperature,35.1,fahrenheit

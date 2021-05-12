@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CWHN,WindDirection,80.0,degrees
+1253232000,CWHN,WindDirection,300.0,degrees
+1253318400,CWHN,WindDirection,230.0,degrees
+1253404800,CWHN,WindDirection,340.0,degrees
+1253491200,CWHN,WindDirection,320.0,degrees
+1253577600,CWHN,WindDirection,260.0,degrees

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253134020,KSQL,WindSpeed,10.0,milesPerHour
+1253220420,KSQL,WindSpeed,7.0,milesPerHour
+1253306820,KSQL,WindSpeed,5.0,milesPerHour
+1253393400,KSQL,WindSpeed,6.0,milesPerHour
+1253480100,KSQL,WindSpeed,0.0,milesPerHour
+1253566020,KSQL,WindSpeed,0.0,milesPerHour

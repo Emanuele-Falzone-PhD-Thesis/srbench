@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1253533920,NATL1,PeakWindDirection,206.0,degrees
+1253537520,NATL1,PeakWindDirection,206.0,degrees
+1253544720,NATL1,PeakWindDirection,121.0,degrees
+1253548320,NATL1,PeakWindDirection,159.0,degrees
+1253551920,NATL1,PeakWindDirection,137.0,degrees
+1253555520,NATL1,PeakWindDirection,141.0,degrees
+1253559120,NATL1,PeakWindDirection,211.0,degrees
+1253562720,NATL1,PeakWindDirection,97.0,degrees
+1253566320,NATL1,PeakWindDirection,144.0,degrees
+1253569920,NATL1,PeakWindDirection,106.0,degrees
+1253573520,NATL1,PeakWindDirection,159.0,degrees
+1253577120,NATL1,PeakWindDirection,163.0,degrees

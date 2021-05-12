@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,CULC2,AirTemperature,45.3,fahrenheit
+1219629600,CULC2,AirTemperature,64.0,fahrenheit
+1219716000,CULC2,AirTemperature,45.0,fahrenheit
+1219802400,CULC2,AirTemperature,46.4,fahrenheit
+1219888800,CULC2,AirTemperature,45.3,fahrenheit
+1219975200,CULC2,AirTemperature,47.3,fahrenheit
+1220061600,CULC2,AirTemperature,42.6,fahrenheit

@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1219790160,KAND,WindGust,0.0,milesPerHour
+1219793340,KAND,WindGust,0.0,milesPerHour
+1219793820,KAND,WindGust,0.0,milesPerHour
+1219794960,KAND,WindGust,0.0,milesPerHour

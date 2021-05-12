@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYXE,AirTemperature,64.4,fahrenheit
+1253232000,CYXE,AirTemperature,68.0,fahrenheit
+1253318400,CYXE,AirTemperature,59.0,fahrenheit
+1253404800,CYXE,AirTemperature,69.8,fahrenheit
+1253491200,CYXE,AirTemperature,50.0,fahrenheit
+1253577600,CYXE,AirTemperature,46.4,fahrenheit

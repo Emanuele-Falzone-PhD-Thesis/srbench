@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KVAD,AirTemperature,74.5,fahrenheit
+1253231700,KVAD,AirTemperature,73.8,fahrenheit
+1253318100,KVAD,AirTemperature,74.3,fahrenheit
+1253404500,KVAD,AirTemperature,77.0,fahrenheit
+1253490900,KVAD,AirTemperature,75.0,fahrenheit
+1253577300,KVAD,AirTemperature,74.7,fahrenheit

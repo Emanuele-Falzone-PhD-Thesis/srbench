@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KBEH,AirTemperature,53.1,fahrenheit
+1253231580,KBEH,AirTemperature,45.0,fahrenheit
+1253317980,KBEH,AirTemperature,60.1,fahrenheit
+1253404380,KBEH,AirTemperature,46.0,fahrenheit
+1253490780,KBEH,AirTemperature,69.1,fahrenheit
+1253577180,KBEH,AirTemperature,55.9,fahrenheit

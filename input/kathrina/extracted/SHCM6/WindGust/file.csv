@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1124756400,SHCM6,WindGust,8.0,milesPerHour
+1124760000,SHCM6,WindGust,9.0,milesPerHour
+1124763600,SHCM6,WindGust,8.0,milesPerHour
+1124767200,SHCM6,WindGust,3.0,milesPerHour
+1124770800,SHCM6,WindGust,7.0,milesPerHour
+1124774400,SHCM6,WindGust,6.0,milesPerHour
+1124778000,SHCM6,WindGust,5.0,milesPerHour
+1124781600,SHCM6,WindGust,5.0,milesPerHour
+1124785200,SHCM6,WindGust,5.0,milesPerHour

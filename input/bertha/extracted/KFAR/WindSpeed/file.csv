@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KFAR,WindSpeed,7.0,milesPerHour
+1253231580,KFAR,WindSpeed,7.0,milesPerHour
+1253317980,KFAR,WindSpeed,8.0,milesPerHour
+1253404380,KFAR,WindSpeed,8.0,milesPerHour
+1253490780,KFAR,WindSpeed,13.0,milesPerHour
+1253577180,KFAR,WindSpeed,13.0,milesPerHour

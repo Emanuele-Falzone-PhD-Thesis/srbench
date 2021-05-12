@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KAFF,WindDirection,360.0,degrees
+1253231700,KAFF,WindDirection,340.0,degrees
+1253318100,KAFF,WindDirection,350.0,degrees
+1253404500,KAFF,WindDirection,360.0,degrees
+1253490900,KAFF,WindDirection,350.0,degrees
+1253577300,KAFF,WindDirection,60.0,degrees

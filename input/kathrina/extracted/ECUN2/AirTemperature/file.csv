@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1125219300,ECUN2,AirTemperature,69.0,fahrenheit
+1125221100,ECUN2,AirTemperature,70.0,fahrenheit
+1125222900,ECUN2,AirTemperature,69.0,fahrenheit
+1125224700,ECUN2,AirTemperature,72.0,fahrenheit
+1125228300,ECUN2,AirTemperature,73.0,fahrenheit
+1125230100,ECUN2,AirTemperature,75.0,fahrenheit
+1125231900,ECUN2,AirTemperature,76.0,fahrenheit
+1125235500,ECUN2,AirTemperature,77.0,fahrenheit
+1125246300,ECUN2,AirTemperature,76.0,fahrenheit

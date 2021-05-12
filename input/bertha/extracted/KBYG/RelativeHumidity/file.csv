@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KBYG,RelativeHumidity,43.0,percent
+1253231580,KBYG,RelativeHumidity,30.0,percent
+1253317980,KBYG,RelativeHumidity,38.0,percent
+1253404380,KBYG,RelativeHumidity,21.0,percent
+1253490780,KBYG,RelativeHumidity,79.0,percent
+1253577180,KBYG,RelativeHumidity,49.0,percent

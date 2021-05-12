@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1253145240,KORH,AirTemperature,48.9,fahrenheit
+1253231640,KORH,AirTemperature,50.0,fahrenheit
+1253318040,KORH,AirTemperature,53.1,fahrenheit
+1253404440,KORH,AirTemperature,46.9,fahrenheit
+1253490840,KORH,AirTemperature,52.0,fahrenheit
+1253573640,KORH,AirTemperature,55.0,fahrenheit
+1253577240,KORH,AirTemperature,0.0,fahrenheit

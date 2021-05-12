@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,GLFM8,WindDirection,208.0,degrees
+1253231460,GLFM8,WindDirection,56.0,degrees
+1253317860,GLFM8,WindDirection,244.0,degrees
+1253404260,GLFM8,WindDirection,280.0,degrees
+1253490660,GLFM8,WindDirection,211.0,degrees
+1253577060,GLFM8,WindDirection,294.0,degrees

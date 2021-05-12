@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1124877600,MNCA2,AirTemperature,58.6,fahrenheit
+1124892000,MNCA2,AirTemperature,50.7,fahrenheit

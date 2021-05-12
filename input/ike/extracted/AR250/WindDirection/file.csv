@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1220917200,AR250,WindDirection,0.0,degrees
+1220919600,AR250,WindDirection,0.0,degrees
+1220973600,AR250,WindDirection,236.0,degrees
+1221024600,AR250,WindDirection,0.0,degrees

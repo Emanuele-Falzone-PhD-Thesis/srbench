@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYXR,DewPoint,39.2,fahrenheit
+1253232000,CYXR,DewPoint,53.6,fahrenheit
+1253318400,CYXR,DewPoint,35.6,fahrenheit
+1253404800,CYXR,DewPoint,41.0,fahrenheit
+1253491200,CYXR,DewPoint,48.2,fahrenheit
+1253577600,CYXR,DewPoint,60.8,fahrenheit

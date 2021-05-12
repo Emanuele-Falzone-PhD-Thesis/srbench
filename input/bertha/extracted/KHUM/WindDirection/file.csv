@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253127000,KHUM,WindDirection,220.0,degrees
+1253213400,KHUM,WindDirection,250.0,degrees
+1253299800,KHUM,WindDirection,240.0,degrees
+1253386500,KHUM,WindDirection,250.0,degrees
+1253472600,KHUM,WindDirection,180.0,degrees
+1253559000,KHUM,WindDirection,170.0,degrees

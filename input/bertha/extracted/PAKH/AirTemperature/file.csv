@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAKH,AirTemperature,50.0,fahrenheit
+1253231760,PAKH,AirTemperature,50.9,fahrenheit
+1253318160,PAKH,AirTemperature,48.9,fahrenheit
+1253404560,PAKH,AirTemperature,52.0,fahrenheit
+1253490960,PAKH,AirTemperature,52.0,fahrenheit
+1253577360,PAKH,AirTemperature,47.8,fahrenheit

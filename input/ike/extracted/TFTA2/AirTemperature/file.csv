@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1220858220,TFTA2,AirTemperature,46.2,fahrenheit
+1220912100,TFTA2,AirTemperature,45.5,fahrenheit
+1221238020,TFTA2,AirTemperature,53.8,fahrenheit

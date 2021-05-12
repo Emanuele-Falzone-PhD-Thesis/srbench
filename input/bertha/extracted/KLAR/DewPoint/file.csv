@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KLAR,DewPoint,44.1,fahrenheit
+1253231580,KLAR,DewPoint,39.0,fahrenheit
+1253317980,KLAR,DewPoint,36.0,fahrenheit
+1253404380,KLAR,DewPoint,37.0,fahrenheit
+1253490780,KLAR,DewPoint,37.0,fahrenheit
+1253577180,KLAR,DewPoint,28.9,fahrenheit

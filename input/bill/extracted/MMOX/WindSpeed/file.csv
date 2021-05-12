@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253531400,MMOX,WindSpeed,0.0,milesPerHour
+1253100000,MMOX,WindSpeed,3.0,milesPerHour
+1253146140,MMOX,WindSpeed,7.0,milesPerHour
+1253185920,MMOX,WindSpeed,3.0,milesPerHour
+1253272500,MMOX,WindSpeed,3.0,milesPerHour
+1253445000,MMOX,WindSpeed,3.0,milesPerHour
+1253454720,MMOX,WindSpeed,6.0,milesPerHour
+1253480100,MMOX,WindSpeed,7.0,milesPerHour

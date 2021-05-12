@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253124000,CWAE,WindSpeed,10.0,milesPerHour
+1253210400,CWAE,WindSpeed,10.0,milesPerHour
+1253296800,CWAE,WindSpeed,0.0,milesPerHour
+1253383200,CWAE,WindSpeed,6.0,milesPerHour
+1253469600,CWAE,WindSpeed,6.0,milesPerHour
+1253556000,CWAE,WindSpeed,0.0,milesPerHour

@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1092116700,PAPR,AirTemperature,46.4,fahrenheit
+1092120300,PAPR,AirTemperature,44.6,fahrenheit
+1092123900,PAPR,AirTemperature,50.0,fahrenheit
+1092127500,PAPR,AirTemperature,51.8,fahrenheit
+1092131100,PAPR,AirTemperature,55.4,fahrenheit
+1092134700,PAPR,AirTemperature,62.6,fahrenheit
+1092137700,PAPR,AirTemperature,68.0,fahrenheit

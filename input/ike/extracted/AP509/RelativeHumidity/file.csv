@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1220774460,AP509,RelativeHumidity,100.0,percent
+1220775060,AP509,RelativeHumidity,100.0,percent

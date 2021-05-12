@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253145300,KAUM,AirTemperature,60.8,fahrenheit
+1253231700,KAUM,AirTemperature,57.2,fahrenheit
+1253318100,KAUM,AirTemperature,66.2,fahrenheit
+1253404500,KAUM,AirTemperature,0.0,fahrenheit
+1253577300,KAUM,AirTemperature,62.6,fahrenheit

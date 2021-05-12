@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1124751600,LCHA2,AirTemperature,51.6,fahrenheit
+1124780400,LCHA2,AirTemperature,53.2,fahrenheit
+1124841600,LCHA2,AirTemperature,53.4,fahrenheit
+1124874000,LCHA2,AirTemperature,56.3,fahrenheit
+1124974800,LCHA2,AirTemperature,44.1,fahrenheit
+1124978400,LCHA2,AirTemperature,44.4,fahrenheit
+1125187200,LCHA2,AirTemperature,43.0,fahrenheit

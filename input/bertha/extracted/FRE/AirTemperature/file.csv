@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,FRE,AirTemperature,56.4,fahrenheit
+1253232000,FRE,AirTemperature,58.0,fahrenheit
+1253318400,FRE,AirTemperature,58.8,fahrenheit
+1253404800,FRE,AirTemperature,56.7,fahrenheit
+1253491200,FRE,AirTemperature,60.5,fahrenheit
+1253577600,FRE,AirTemperature,49.9,fahrenheit

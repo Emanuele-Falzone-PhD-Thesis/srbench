@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253142600,CLRA2,RelativeHumidity,73.0,percent
+1253144400,CLRA2,RelativeHumidity,73.0,percent
+1253230740,CLRA2,RelativeHumidity,84.0,percent
+1253317260,CLRA2,RelativeHumidity,96.0,percent
+1253403600,CLRA2,RelativeHumidity,78.0,percent
+1253490000,CLRA2,RelativeHumidity,78.0,percent
+1253574600,CLRA2,RelativeHumidity,70.0,percent
+1253576340,CLRA2,RelativeHumidity,70.0,percent

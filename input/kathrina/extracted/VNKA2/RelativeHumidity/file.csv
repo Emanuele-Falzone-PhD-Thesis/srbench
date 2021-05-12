@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1124670000,VNKA2,RelativeHumidity,83.0,percent
+1124673600,VNKA2,RelativeHumidity,88.0,percent
+1124677200,VNKA2,RelativeHumidity,90.0,percent
+1124680800,VNKA2,RelativeHumidity,97.0,percent
+1124684400,VNKA2,RelativeHumidity,97.0,percent
+1124688000,VNKA2,RelativeHumidity,99.0,percent
+1124691600,VNKA2,RelativeHumidity,99.0,percent
+1124695200,VNKA2,RelativeHumidity,100.0,percent
+1124698800,VNKA2,RelativeHumidity,98.0,percent
+1124702400,VNKA2,RelativeHumidity,95.0,percent
+1124706000,VNKA2,RelativeHumidity,70.0,percent
+1124709600,VNKA2,RelativeHumidity,61.0,percent
+1124713200,VNKA2,RelativeHumidity,54.0,percent
+1124716800,VNKA2,RelativeHumidity,51.0,percent
+1124720400,VNKA2,RelativeHumidity,52.0,percent

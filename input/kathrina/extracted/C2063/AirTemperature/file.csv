@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1124805600,C2063,AirTemperature,68.0,fahrenheit
+1124809200,C2063,AirTemperature,69.0,fahrenheit
+1124812800,C2063,AirTemperature,68.0,fahrenheit
+1124816400,C2063,AirTemperature,70.0,fahrenheit
+1124820000,C2063,AirTemperature,68.0,fahrenheit
+1124823600,C2063,AirTemperature,68.0,fahrenheit
+1124827200,C2063,AirTemperature,67.0,fahrenheit
+1124830800,C2063,AirTemperature,63.0,fahrenheit
+1124834400,C2063,AirTemperature,59.0,fahrenheit
+1124884800,C2063,AirTemperature,72.0,fahrenheit
+1124888400,C2063,AirTemperature,73.0,fahrenheit
+1124892000,C2063,AirTemperature,73.0,fahrenheit
+1124895600,C2063,AirTemperature,74.0,fahrenheit
+1124899200,C2063,AirTemperature,76.0,fahrenheit

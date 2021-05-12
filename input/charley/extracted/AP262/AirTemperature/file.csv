@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1092438000,AP262,AirTemperature,70.0,fahrenheit
+1092438300,AP262,AirTemperature,70.0,fahrenheit
+1092439200,AP262,AirTemperature,70.0,fahrenheit
+1092440100,AP262,AirTemperature,69.0,fahrenheit
+1092441300,AP262,AirTemperature,69.0,fahrenheit

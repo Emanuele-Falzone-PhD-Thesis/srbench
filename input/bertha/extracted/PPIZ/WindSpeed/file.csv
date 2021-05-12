@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PPIZ,WindSpeed,17.0,milesPerHour
+1253231760,PPIZ,WindSpeed,21.0,milesPerHour
+1253318160,PPIZ,WindSpeed,16.0,milesPerHour
+1253404560,PPIZ,WindSpeed,14.0,milesPerHour
+1253490960,PPIZ,WindSpeed,18.0,milesPerHour
+1253577360,PPIZ,WindSpeed,26.0,milesPerHour

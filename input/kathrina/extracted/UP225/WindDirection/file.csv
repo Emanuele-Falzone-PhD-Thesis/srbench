@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1124812800,UP225,WindDirection,133.0,degrees
+1124964000,UP225,WindDirection,114.0,degrees
+1124994000,UP225,WindDirection,270.0,degrees
+1124994300,UP225,WindDirection,269.0,degrees
+1125000000,UP225,WindDirection,101.0,degrees
+1125045300,UP225,WindDirection,358.0,degrees
+1125046500,UP225,WindDirection,328.0,degrees
+1125046800,UP225,WindDirection,317.0,degrees

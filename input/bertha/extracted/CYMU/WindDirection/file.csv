@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253120400,CYMU,WindDirection,230.0,degrees
+1253206800,CYMU,WindDirection,280.0,degrees
+1253293200,CYMU,WindDirection,350.0,degrees
+1253379600,CYMU,WindDirection,190.0,degrees
+1253466000,CYMU,WindDirection,190.0,degrees
+1253552400,CYMU,WindDirection,200.0,degrees

@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1122832800,BNRC1,WindSpeed,0.0,milesPerHour
+1124878200,BNRC1,WindSpeed,0.0,milesPerHour
+1124895300,BNRC1,WindSpeed,4.0,milesPerHour

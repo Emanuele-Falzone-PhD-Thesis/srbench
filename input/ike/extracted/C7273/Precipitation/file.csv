@@ -1,0 +1,17 @@
+timestamp,sensorId,property,value,unit
+1220341620,C7273,Precipitation,0.0,centimeters
+1220372220,C7273,Precipitation,0.0,centimeters
+1220372880,C7273,Precipitation,0.0,centimeters
+1220386080,C7273,Precipitation,0.0,centimeters
+1220447880,C7273,Precipitation,0.0,centimeters
+1220509680,C7273,Precipitation,0.01,centimeters
+1220572080,C7273,Precipitation,0.01,centimeters
+1220633880,C7273,Precipitation,0.01,centimeters
+1220698080,C7273,Precipitation,0.01,centimeters
+1220759340,C7273,Precipitation,0.01,centimeters
+1220821740,C7273,Precipitation,0.02,centimeters
+1220864340,C7273,Precipitation,0.02,centimeters
+1220875140,C7273,Precipitation,0.02,centimeters
+1220882940,C7273,Precipitation,0.02,centimeters
+1220944740,C7273,Precipitation,0.02,centimeters
+1221008340,C7273,Precipitation,0.08,centimeters

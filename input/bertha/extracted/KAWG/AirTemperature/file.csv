@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KAWG,AirTemperature,59.0,fahrenheit
+1253190900,KAWG,AirTemperature,71.6,fahrenheit
+1253318100,KAWG,AirTemperature,55.4,fahrenheit
+1253404500,KAWG,AirTemperature,59.0,fahrenheit
+1253490900,KAWG,AirTemperature,53.6,fahrenheit
+1253577300,KAWG,AirTemperature,68.0,fahrenheit

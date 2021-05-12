@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253144700,KORG,WindGust,0.0,milesPerHour
+1253231100,KORG,WindGust,0.0,milesPerHour
+1253576700,KORG,WindGust,0.0,milesPerHour

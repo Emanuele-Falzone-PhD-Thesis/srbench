@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253141460,KOQU,WindDirection,60.0,degrees
+1253227800,KOQU,WindDirection,290.0,degrees
+1253314260,KOQU,WindDirection,300.0,degrees
+1253379000,KOQU,WindDirection,340.0,degrees
+1253469000,KOQU,WindDirection,240.0,degrees

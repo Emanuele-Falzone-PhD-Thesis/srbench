@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1219543500,JAKW3,RelativeHumidity,88.0,percent
+1219557900,JAKW3,RelativeHumidity,93.0,percent
+1219586700,JAKW3,RelativeHumidity,39.0,percent
+1219601100,JAKW3,RelativeHumidity,50.0,percent
+1219615500,JAKW3,RelativeHumidity,88.0,percent
+1219658700,JAKW3,RelativeHumidity,65.0,percent
+1219673100,JAKW3,RelativeHumidity,53.0,percent
+1219687500,JAKW3,RelativeHumidity,35.0,percent
+1219730700,JAKW3,RelativeHumidity,99.0,percent
+1219745100,JAKW3,RelativeHumidity,50.0,percent
+1219773900,JAKW3,RelativeHumidity,41.0,percent
+1219788300,JAKW3,RelativeHumidity,95.0,percent
+1219802700,JAKW3,RelativeHumidity,99.0,percent

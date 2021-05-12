@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1124783100,RSENV,AirTemperature,63.9,fahrenheit
+1124996400,RSENV,AirTemperature,84.9,fahrenheit
+1125091800,RSENV,AirTemperature,67.5,fahrenheit
+1125095400,RSENV,AirTemperature,70.3,fahrenheit
+1125209700,RSENV,AirTemperature,46.6,fahrenheit

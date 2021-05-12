@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1220243700,LKEC1,WindDirection,0.0,degrees
+1220739900,LKEC1,WindDirection,0.0,degrees
+1220923500,LKEC1,WindDirection,0.0,degrees

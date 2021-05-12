@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAUN,WindDirection,100.0,degrees
+1253231760,PAUN,WindDirection,110.0,degrees
+1253318160,PAUN,WindDirection,0.0,degrees
+1253404560,PAUN,WindDirection,100.0,degrees
+1253490960,PAUN,WindDirection,340.0,degrees
+1253577360,PAUN,WindDirection,340.0,degrees

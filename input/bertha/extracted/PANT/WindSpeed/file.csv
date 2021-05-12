@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PANT,WindSpeed,17.0,milesPerHour
+1253231580,PANT,WindSpeed,14.0,milesPerHour
+1253317980,PANT,WindSpeed,8.0,milesPerHour
+1253404380,PANT,WindSpeed,6.0,milesPerHour
+1253490780,PANT,WindSpeed,6.0,milesPerHour
+1253577180,PANT,WindSpeed,18.0,milesPerHour

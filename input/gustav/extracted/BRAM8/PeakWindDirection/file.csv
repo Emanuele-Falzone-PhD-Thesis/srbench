@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1219884600,BRAM8,PeakWindDirection,280.0,degrees
+1219888200,BRAM8,PeakWindDirection,274.0,degrees
+1219891800,BRAM8,PeakWindDirection,293.0,degrees
+1219906200,BRAM8,PeakWindDirection,0.0,degrees
+1219909800,BRAM8,PeakWindDirection,259.0,degrees
+1219917000,BRAM8,PeakWindDirection,0.0,degrees
+1219927800,BRAM8,PeakWindDirection,0.0,degrees
+1219942200,BRAM8,PeakWindDirection,0.0,degrees
+1219945800,BRAM8,PeakWindDirection,0.0,degrees
+1219956600,BRAM8,PeakWindDirection,0.0,degrees
+1219960200,BRAM8,PeakWindDirection,0.0,degrees

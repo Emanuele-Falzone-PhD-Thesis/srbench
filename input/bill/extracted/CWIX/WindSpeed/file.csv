@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1253250000,CWIX,WindSpeed,9.0,milesPerHour
+1253257200,CWIX,WindSpeed,10.0,milesPerHour
+1253278800,CWIX,WindSpeed,18.0,milesPerHour
+1253163600,CWIX,WindSpeed,3.0,milesPerHour
+1253167200,CWIX,WindSpeed,2.0,milesPerHour
+1253192400,CWIX,WindSpeed,6.0,milesPerHour
+1253106000,CWIX,WindSpeed,1.0,milesPerHour
+1253134800,CWIX,WindSpeed,7.0,milesPerHour
+1253145600,CWIX,WindSpeed,6.0,milesPerHour
+1253527200,CWIX,WindSpeed,5.0,milesPerHour
+1253430000,CWIX,WindSpeed,7.0,milesPerHour
+1253458800,CWIX,WindSpeed,10.0,milesPerHour
+1253343600,CWIX,WindSpeed,18.0,milesPerHour
+1253401200,CWIX,WindSpeed,3.0,milesPerHour

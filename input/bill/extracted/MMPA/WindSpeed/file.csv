@@ -1,0 +1,17 @@
+timestamp,sensorId,property,value,unit
+1253185800,MMPA,WindSpeed,5.0,milesPerHour
+1253272080,MMPA,WindSpeed,5.0,milesPerHour
+1253302260,MMPA,WindSpeed,9.0,milesPerHour
+1253304000,MMPA,WindSpeed,12.0,milesPerHour
+1253531100,MMPA,WindSpeed,0.0,milesPerHour
+1253536200,MMPA,WindSpeed,0.0,milesPerHour
+1253566200,MMPA,WindSpeed,7.0,milesPerHour
+1253099400,MMPA,WindSpeed,5.0,milesPerHour
+1253109300,MMPA,WindSpeed,5.0,milesPerHour
+1253120100,MMPA,WindSpeed,6.0,milesPerHour
+1253375700,MMPA,WindSpeed,9.0,milesPerHour
+1253389200,MMPA,WindSpeed,7.0,milesPerHour
+1253448600,MMPA,WindSpeed,5.0,milesPerHour
+1253458500,MMPA,WindSpeed,7.0,milesPerHour
+1253466000,MMPA,WindSpeed,6.0,milesPerHour
+1253479200,MMPA,WindSpeed,0.0,milesPerHour

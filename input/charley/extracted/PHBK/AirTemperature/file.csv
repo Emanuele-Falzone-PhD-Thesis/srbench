@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1092120900,PHBK,AirTemperature,75.2,fahrenheit
+1092124500,PHBK,AirTemperature,79.0,fahrenheit
+1092128100,PHBK,AirTemperature,82.4,fahrenheit
+1092131700,PHBK,AirTemperature,84.2,fahrenheit
+1092207300,PHBK,AirTemperature,75.2,fahrenheit
+1092210900,PHBK,AirTemperature,81.0,fahrenheit
+1092221700,PHBK,AirTemperature,84.9,fahrenheit
+1092293700,PHBK,AirTemperature,75.2,fahrenheit
+1092297300,PHBK,AirTemperature,81.0,fahrenheit

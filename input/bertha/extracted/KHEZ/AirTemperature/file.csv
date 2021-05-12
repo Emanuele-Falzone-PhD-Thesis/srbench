@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KHEZ,AirTemperature,75.2,fahrenheit
+1253231700,KHEZ,AirTemperature,73.4,fahrenheit
+1253318100,KHEZ,AirTemperature,73.4,fahrenheit
+1253404500,KHEZ,AirTemperature,73.4,fahrenheit
+1253490900,KHEZ,AirTemperature,73.4,fahrenheit
+1253577300,KHEZ,AirTemperature,75.2,fahrenheit

@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1219560660,MMCB,Precipitation,2.32,centimeters
+1219562220,MMCB,Precipitation,0.0,centimeters
+1219994400,MMCB,Precipitation,0.0,centimeters

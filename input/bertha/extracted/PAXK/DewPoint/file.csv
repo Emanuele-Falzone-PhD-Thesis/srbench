@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253134200,PAXK,DewPoint,42.8,fahrenheit
+1253223900,PAXK,DewPoint,37.4,fahrenheit
+1253307300,PAXK,DewPoint,39.2,fahrenheit
+1253367900,PAXK,DewPoint,41.0,fahrenheit

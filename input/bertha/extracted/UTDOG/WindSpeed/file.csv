@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,UTDOG,WindSpeed,2.0,milesPerHour
+1253232000,UTDOG,WindSpeed,9.0,milesPerHour
+1253318400,UTDOG,WindSpeed,8.0,milesPerHour
+1253404800,UTDOG,WindSpeed,17.0,milesPerHour
+1253491200,UTDOG,WindSpeed,0.0,milesPerHour
+1253577600,UTDOG,WindSpeed,3.0,milesPerHour

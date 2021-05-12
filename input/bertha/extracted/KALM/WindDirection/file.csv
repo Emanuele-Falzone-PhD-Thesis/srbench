@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145000,KALM,WindDirection,30.0,degrees
+1253231400,KALM,WindDirection,140.0,degrees
+1253317800,KALM,WindDirection,340.0,degrees
+1253403900,KALM,WindDirection,180.0,degrees
+1253490300,KALM,WindDirection,0.0,degrees
+1253576700,KALM,WindDirection,350.0,degrees

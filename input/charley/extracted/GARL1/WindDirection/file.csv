@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1092402000,GARL1,WindDirection,40.0,degrees
+1092405600,GARL1,WindDirection,360.0,degrees
+1092409200,GARL1,WindDirection,350.0,degrees
+1092412800,GARL1,WindDirection,10.0,degrees
+1092416400,GARL1,WindDirection,350.0,degrees
+1092420000,GARL1,WindDirection,20.0,degrees
+1092423600,GARL1,WindDirection,10.0,degrees
+1092427200,GARL1,WindDirection,20.0,degrees
+1092430800,GARL1,WindDirection,170.0,degrees
+1092434400,GARL1,WindDirection,0.0,degrees
+1092438000,GARL1,WindDirection,0.0,degrees
+1092441600,GARL1,WindDirection,0.0,degrees

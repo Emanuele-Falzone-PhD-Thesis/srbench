@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253133900,PAEL,WindSpeed,0.0,milesPerHour
+1253220840,PAEL,WindSpeed,0.0,milesPerHour
+1253307060,PAEL,WindSpeed,0.0,milesPerHour
+1253393340,PAEL,WindSpeed,0.0,milesPerHour
+1253479620,PAEL,WindSpeed,0.0,milesPerHour
+1253565900,PAEL,WindSpeed,5.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KITR,DewPoint,48.0,fahrenheit
+1253231580,KITR,DewPoint,46.9,fahrenheit
+1253317980,KITR,DewPoint,46.0,fahrenheit
+1253404380,KITR,DewPoint,50.0,fahrenheit
+1253490780,KITR,DewPoint,53.1,fahrenheit
+1253577180,KITR,DewPoint,39.0,fahrenheit

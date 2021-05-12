@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KHLN,AirTemperature,66.9,fahrenheit
+1253231580,KHLN,AirTemperature,72.0,fahrenheit
+1253317980,KHLN,AirTemperature,64.9,fahrenheit
+1253404380,KHLN,AirTemperature,69.1,fahrenheit
+1253490780,KHLN,AirTemperature,39.9,fahrenheit
+1253577180,KHLN,AirTemperature,54.0,fahrenheit

@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1220433300,AR467,WindDirection,337.0,degrees
+1220442960,AR467,WindDirection,241.0,degrees
+1220444820,AR467,WindDirection,241.0,degrees
+1220522580,AR467,WindDirection,169.0,degrees
+1220917980,AR467,WindDirection,88.0,degrees

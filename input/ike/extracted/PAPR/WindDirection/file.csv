@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1220338500,PAPR,WindDirection,30.0,degrees
+1220341800,PAPR,WindDirection,30.0,degrees
+1220345400,PAPR,WindDirection,30.0,degrees
+1220352300,PAPR,WindDirection,30.0,degrees
+1220359500,PAPR,WindDirection,100.0,degrees
+1220360700,PAPR,WindDirection,100.0,degrees

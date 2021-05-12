@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1219824900,PASY,WindGust,0.0,milesPerHour
+1219827480,PASY,WindGust,0.0,milesPerHour
+1219829640,PASY,WindGust,26.0,milesPerHour
+1219830900,PASY,WindGust,0.0,milesPerHour
+1219834680,PASY,WindGust,0.0,milesPerHour
+1219838340,PASY,WindGust,0.0,milesPerHour
+1219845540,PASY,WindGust,0.0,milesPerHour
+1219849140,PASY,WindGust,0.0,milesPerHour
+1219852560,PASY,WindGust,0.0,milesPerHour
+1219855500,PASY,WindGust,0.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253134200,KBVI,AirTemperature,62.6,fahrenheit
+1253220420,KBVI,AirTemperature,66.2,fahrenheit
+1253306820,KBVI,AirTemperature,68.0,fahrenheit
+1253393220,KBVI,AirTemperature,64.4,fahrenheit
+1253479620,KBVI,AirTemperature,73.4,fahrenheit
+1253566020,KBVI,AirTemperature,69.8,fahrenheit

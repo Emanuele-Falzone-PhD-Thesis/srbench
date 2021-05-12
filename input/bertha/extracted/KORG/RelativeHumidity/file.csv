@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144700,KORG,RelativeHumidity,93.0,percent
+1253231100,KORG,RelativeHumidity,94.0,percent
+1253317500,KORG,RelativeHumidity,98.0,percent
+1253403900,KORG,RelativeHumidity,98.0,percent
+1253490300,KORG,RelativeHumidity,94.0,percent
+1253576700,KORG,RelativeHumidity,84.0,percent

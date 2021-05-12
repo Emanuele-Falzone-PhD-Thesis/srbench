@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1124784000,NUKA2,AirTemperature,51.6,fahrenheit
+1124874000,NUKA2,AirTemperature,49.8,fahrenheit
+1125216000,NUKA2,AirTemperature,47.1,fahrenheit

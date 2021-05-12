@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253142600,CLRA2,WindSpeed,6.0,milesPerHour
+1253144400,CLRA2,WindSpeed,4.0,milesPerHour
+1253230740,CLRA2,WindSpeed,4.0,milesPerHour
+1253317260,CLRA2,WindSpeed,6.0,milesPerHour
+1253403600,CLRA2,WindSpeed,9.0,milesPerHour
+1253490000,CLRA2,WindSpeed,9.0,milesPerHour
+1253574600,CLRA2,WindSpeed,6.0,milesPerHour
+1253576340,CLRA2,WindSpeed,5.0,milesPerHour

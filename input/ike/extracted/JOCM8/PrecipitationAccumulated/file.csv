@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1220379000,JOCM8,PrecipitationAccumulated,2.05,centimeters
+1220387100,JOCM8,PrecipitationAccumulated,1.93,centimeters
+1220398200,JOCM8,PrecipitationAccumulated,1.89,centimeters
+1220398800,JOCM8,PrecipitationAccumulated,1.1,centimeters
+1220536500,JOCM8,PrecipitationAccumulated,2.13,centimeters
+1220539500,JOCM8,PrecipitationAccumulated,2.28,centimeters
+1220612100,JOCM8,PrecipitationAccumulated,1.77,centimeters
+1220878800,JOCM8,PrecipitationAccumulated,1.85,centimeters
+1220890500,JOCM8,PrecipitationAccumulated,3.07,centimeters
+1220991600,JOCM8,PrecipitationAccumulated,1.53,centimeters
+1221238200,JOCM8,PrecipitationAccumulated,2.79,centimeters

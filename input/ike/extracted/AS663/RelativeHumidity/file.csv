@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1221334260,AS663,RelativeHumidity,86.0,percent
+1221336660,AS663,RelativeHumidity,88.0,percent
+1221337860,AS663,RelativeHumidity,89.0,percent
+1221340260,AS663,RelativeHumidity,90.0,percent
+1221345060,AS663,RelativeHumidity,92.0,percent

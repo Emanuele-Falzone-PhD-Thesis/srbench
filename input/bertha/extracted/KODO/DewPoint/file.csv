@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KODO,DewPoint,59.0,fahrenheit
+1253231580,KODO,DewPoint,55.9,fahrenheit
+1253317980,KODO,DewPoint,55.0,fahrenheit
+1253404380,KODO,DewPoint,50.0,fahrenheit
+1253490780,KODO,DewPoint,57.0,fahrenheit
+1253577180,KODO,DewPoint,54.0,fahrenheit

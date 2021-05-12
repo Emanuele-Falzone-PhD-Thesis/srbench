@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,BRRC2,AirTemperature,47.3,fahrenheit
+1219629600,BRRC2,AirTemperature,48.6,fahrenheit
+1219716000,BRRC2,AirTemperature,46.6,fahrenheit
+1219802400,BRRC2,AirTemperature,50.0,fahrenheit
+1219888800,BRRC2,AirTemperature,39.4,fahrenheit
+1219975200,BRRC2,AirTemperature,44.8,fahrenheit
+1220061600,BRRC2,AirTemperature,45.0,fahrenheit

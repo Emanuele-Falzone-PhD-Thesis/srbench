@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253131200,CWGZ,AirTemperature,33.8,fahrenheit
+1253203200,CWGZ,AirTemperature,32.0,fahrenheit
+1253289600,CWGZ,AirTemperature,24.8,fahrenheit
+1253376000,CWGZ,AirTemperature,23.0,fahrenheit

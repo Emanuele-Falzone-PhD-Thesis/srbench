@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253147640,BGBO3,RelativeHumidity,18.0,percent
+1253151240,BGBO3,RelativeHumidity,21.0,percent
+1253561640,BGBO3,RelativeHumidity,0.0,percent
+1253586840,BGBO3,RelativeHumidity,5.0,percent
+1253327640,BGBO3,RelativeHumidity,15.0,percent

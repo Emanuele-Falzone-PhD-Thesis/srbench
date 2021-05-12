@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1124772900,KXCN,WindDirection,350.0,degrees
+1124794500,KXCN,WindDirection,280.0,degrees
+1124816100,KXCN,WindDirection,260.0,degrees
+1124859300,KXCN,WindDirection,160.0,degrees
+1124902500,KXCN,WindDirection,0.0,degrees
+1124945700,KXCN,WindDirection,120.0,degrees
+1124988600,KXCN,WindDirection,0.0,degrees
+1125032100,KXCN,WindDirection,0.0,degrees
+1125075300,KXCN,WindDirection,20.0,degrees
+1125118500,KXCN,WindDirection,40.0,degrees

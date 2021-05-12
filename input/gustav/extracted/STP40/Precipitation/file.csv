@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1219654800,STP40,Precipitation,0.0,centimeters
+1219658400,STP40,Precipitation,0.0,centimeters
+1219662000,STP40,Precipitation,0.01,centimeters
+1219665600,STP40,Precipitation,0.0,centimeters

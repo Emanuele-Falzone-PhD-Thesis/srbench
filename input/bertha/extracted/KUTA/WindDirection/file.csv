@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KUTA,WindDirection,50.0,degrees
+1253231700,KUTA,WindDirection,50.0,degrees
+1253318100,KUTA,WindDirection,360.0,degrees
+1253404500,KUTA,WindDirection,0.0,degrees
+1253490900,KUTA,WindDirection,150.0,degrees
+1253577300,KUTA,WindDirection,160.0,degrees

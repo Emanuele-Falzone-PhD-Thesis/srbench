@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1219560660,MMCB,AirTemperature,64.4,fahrenheit
+1219562220,MMCB,AirTemperature,64.4,fahrenheit
+1219648620,MMCB,AirTemperature,66.2,fahrenheit
+1219652160,MMCB,AirTemperature,64.4,fahrenheit
+1219655400,MMCB,AirTemperature,66.2,fahrenheit
+1219669800,MMCB,AirTemperature,80.6,fahrenheit
+1219905840,MMCB,AirTemperature,68.0,fahrenheit
+1219917720,MMCB,AirTemperature,0.0,fahrenheit
+1219922640,MMCB,AirTemperature,75.2,fahrenheit
+1219994400,MMCB,AirTemperature,64.4,fahrenheit
+1220079060,MMCB,AirTemperature,64.4,fahrenheit

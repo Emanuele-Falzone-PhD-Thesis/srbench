@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1220917200,AR250,RelativeHumidity,73.0,percent
+1220919600,AR250,RelativeHumidity,74.0,percent
+1220973600,AR250,RelativeHumidity,90.0,percent
+1221024600,AR250,RelativeHumidity,84.0,percent

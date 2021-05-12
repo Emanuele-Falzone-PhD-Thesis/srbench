@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253120400,CYMU,AirTemperature,50.0,fahrenheit
+1253206800,CYMU,AirTemperature,42.8,fahrenheit
+1253293200,CYMU,AirTemperature,42.8,fahrenheit
+1253379600,CYMU,AirTemperature,42.8,fahrenheit
+1253466000,CYMU,AirTemperature,50.0,fahrenheit
+1253552400,CYMU,AirTemperature,57.2,fahrenheit

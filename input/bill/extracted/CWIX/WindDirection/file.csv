@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1253250000,CWIX,WindDirection,220.0,degrees
+1253257200,CWIX,WindDirection,240.0,degrees
+1253278800,CWIX,WindDirection,300.0,degrees
+1253163600,CWIX,WindDirection,140.0,degrees
+1253167200,CWIX,WindDirection,90.0,degrees
+1253192400,CWIX,WindDirection,160.0,degrees
+1253106000,CWIX,WindDirection,140.0,degrees
+1253134800,CWIX,WindDirection,260.0,degrees
+1253145600,CWIX,WindDirection,190.0,degrees
+1253527200,CWIX,WindDirection,90.0,degrees
+1253430000,CWIX,WindDirection,210.0,degrees
+1253458800,CWIX,WindDirection,220.0,degrees
+1253343600,CWIX,WindDirection,300.0,degrees
+1253401200,CWIX,WindDirection,210.0,degrees

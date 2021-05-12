@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253317980,KABR,WindGust,0.0,milesPerHour
+1253404380,KABR,WindGust,0.0,milesPerHour
+1253490960,KABR,WindGust,0.0,milesPerHour
+1253577180,KABR,WindGust,0.0,milesPerHour

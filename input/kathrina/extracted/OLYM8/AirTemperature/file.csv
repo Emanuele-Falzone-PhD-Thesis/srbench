@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1124954400,OLYM8,AirTemperature,15.0,fahrenheit
+1124959800,OLYM8,AirTemperature,15.0,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,KEHO,AirTemperature,66.2,fahrenheit
+1253232000,KEHO,AirTemperature,66.4,fahrenheit
+1253318400,KEHO,AirTemperature,67.8,fahrenheit
+1253404800,KEHO,AirTemperature,68.5,fahrenheit
+1253491200,KEHO,AirTemperature,67.1,fahrenheit
+1253577600,KEHO,AirTemperature,66.2,fahrenheit

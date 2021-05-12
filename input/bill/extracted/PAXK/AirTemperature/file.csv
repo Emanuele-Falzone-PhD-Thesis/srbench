@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1253396700,PAXK,AirTemperature,46.4,fahrenheit
+1253310600,PAXK,AirTemperature,44.6,fahrenheit
+1253314500,PAXK,AirTemperature,48.2,fahrenheit
+1253336100,PAXK,AirTemperature,44.6,fahrenheit
+1253238600,PAXK,AirTemperature,48.2,fahrenheit
+1253252700,PAXK,AirTemperature,42.8,fahrenheit
+1253116500,PAXK,AirTemperature,39.2,fahrenheit
+1253137800,PAXK,AirTemperature,55.4,fahrenheit
+1253163000,PAXK,AirTemperature,48.2,fahrenheit

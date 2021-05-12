@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145540,KU42,AirTemperature,62.6,fahrenheit
+1253231940,KU42,AirTemperature,64.4,fahrenheit
+1253318280,KU42,AirTemperature,62.6,fahrenheit
+1253397660,KU42,AirTemperature,71.6,fahrenheit
+1253484060,KU42,AirTemperature,71.6,fahrenheit
+1253543340,KU42,AirTemperature,64.4,fahrenheit

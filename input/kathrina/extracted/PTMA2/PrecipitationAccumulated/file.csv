@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1124712000,PTMA2,PrecipitationAccumulated,15.4,centimeters
+1124755200,PTMA2,PrecipitationAccumulated,15.4,centimeters
+1124798400,PTMA2,PrecipitationAccumulated,15.8,centimeters
+1124841600,PTMA2,PrecipitationAccumulated,15.8,centimeters
+1124884800,PTMA2,PrecipitationAccumulated,16.2,centimeters
+1124928000,PTMA2,PrecipitationAccumulated,16.3,centimeters
+1124971200,PTMA2,PrecipitationAccumulated,16.8,centimeters
+1125057600,PTMA2,PrecipitationAccumulated,17.0,centimeters
+1125100800,PTMA2,PrecipitationAccumulated,16.9,centimeters
+1125144000,PTMA2,PrecipitationAccumulated,17.0,centimeters
+1125187200,PTMA2,PrecipitationAccumulated,16.9,centimeters
+1125230400,PTMA2,PrecipitationAccumulated,17.0,centimeters
+1125273600,PTMA2,PrecipitationAccumulated,17.1,centimeters

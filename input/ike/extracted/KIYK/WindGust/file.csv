@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1220175900,KIYK,WindGust,21.0,milesPerHour
+1220215500,KIYK,WindGust,25.0,milesPerHour
+1220219700,KIYK,WindGust,0.0,milesPerHour
+1221018300,KIYK,WindGust,0.0,milesPerHour
+1221037140,KIYK,WindGust,0.0,milesPerHour
+1221039960,KIYK,WindGust,0.0,milesPerHour
+1221043800,KIYK,WindGust,0.0,milesPerHour
+1221065400,KIYK,WindGust,0.0,milesPerHour
+1221068700,KIYK,WindGust,0.0,milesPerHour
+1221072900,KIYK,WindGust,0.0,milesPerHour
+1221076080,KIYK,WindGust,0.0,milesPerHour
+1221079500,KIYK,WindGust,25.0,milesPerHour
+1221083280,KIYK,WindGust,0.0,milesPerHour

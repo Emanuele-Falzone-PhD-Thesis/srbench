@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1219655820,BHALU,AirTemperature,57.0,fahrenheit
+1219659420,BHALU,AirTemperature,59.0,fahrenheit

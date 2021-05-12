@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KAWO,AirTemperature,60.8,fahrenheit
+1253231700,KAWO,AirTemperature,53.6,fahrenheit
+1253318100,KAWO,AirTemperature,55.4,fahrenheit
+1253404500,KAWO,AirTemperature,51.8,fahrenheit
+1253490900,KAWO,AirTemperature,46.4,fahrenheit
+1253577300,KAWO,AirTemperature,53.6,fahrenheit

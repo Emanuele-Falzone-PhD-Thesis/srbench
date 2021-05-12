@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253134020,KSQL,WindDirection,270.0,degrees
+1253220420,KSQL,WindDirection,310.0,degrees
+1253306820,KSQL,WindDirection,270.0,degrees
+1253393400,KSQL,WindDirection,270.0,degrees
+1253480100,KSQL,WindDirection,0.0,degrees
+1253566020,KSQL,WindDirection,0.0,degrees

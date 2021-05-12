@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1124780100,KHIF,WindGust,0.0,milesPerHour
+1124783700,KHIF,WindGust,0.0,milesPerHour
+1124787300,KHIF,WindGust,0.0,milesPerHour
+1124790900,KHIF,WindGust,0.0,milesPerHour
+1124798100,KHIF,WindGust,0.0,milesPerHour
+1124801700,KHIF,WindGust,0.0,milesPerHour
+1124805300,KHIF,WindGust,0.0,milesPerHour
+1124808900,KHIF,WindGust,0.0,milesPerHour
+1124812500,KHIF,WindGust,24.0,milesPerHour
+1124816100,KHIF,WindGust,0.0,milesPerHour

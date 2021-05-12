@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1220169300,CRSC1,WindDirection,0.0,degrees
+1220237400,CRSC1,WindDirection,0.0,degrees
+1220366100,CRSC1,WindDirection,0.0,degrees
+1220897100,CRSC1,WindDirection,0.0,degrees
+1220926200,CRSC1,WindDirection,350.0,degrees
+1220926500,CRSC1,WindDirection,260.0,degrees
+1221308700,CRSC1,WindDirection,0.0,degrees

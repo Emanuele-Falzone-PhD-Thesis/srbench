@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253145000,BGGH,WindDirection,90.0,degrees
+1253231400,BGGH,WindDirection,50.0,degrees
+1253317800,BGGH,WindDirection,50.0,degrees
+1253404200,BGGH,WindDirection,60.0,degrees
+1253483400,BGGH,WindDirection,40.0,degrees
+1253487000,BGGH,WindDirection,50.0,degrees
+1253490600,BGGH,WindDirection,60.0,degrees
+1253577000,BGGH,WindDirection,180.0,degrees

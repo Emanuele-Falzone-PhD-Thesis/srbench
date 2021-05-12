@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1253092560,AS879,AirTemperature,64.0,fahrenheit
+1253101560,AS879,AirTemperature,63.0,fahrenheit
+1253102760,AS879,AirTemperature,64.0,fahrenheit
+1253103960,AS879,AirTemperature,64.0,fahrenheit
+1253580360,AS879,AirTemperature,72.0,fahrenheit
+1253285220,AS879,AirTemperature,64.0,fahrenheit
+1253235480,AS879,AirTemperature,66.0,fahrenheit

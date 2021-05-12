@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253130900,KAID,WindSpeed,7.0,milesPerHour
+1253303460,KAID,WindSpeed,5.0,milesPerHour

@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1124758800,FMRM7,PeakWindDirection,328.0,degrees
+1124762400,FMRM7,PeakWindDirection,15.0,degrees
+1124766000,FMRM7,PeakWindDirection,146.0,degrees
+1124769600,FMRM7,PeakWindDirection,24.0,degrees
+1124773200,FMRM7,PeakWindDirection,7.0,degrees

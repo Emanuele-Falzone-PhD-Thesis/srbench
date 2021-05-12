@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1220687220,PALJ,WindGust,0.0,milesPerHour
+1220690940,PALJ,WindGust,0.0,milesPerHour
+1220694720,PALJ,WindGust,0.0,milesPerHour
+1220698020,PALJ,WindGust,0.0,milesPerHour
+1220705820,PALJ,WindGust,0.0,milesPerHour
+1220712420,PALJ,WindGust,0.0,milesPerHour
+1220716020,PALJ,WindGust,0.0,milesPerHour
+1220719620,PALJ,WindGust,0.0,milesPerHour
+1220726820,PALJ,WindGust,21.0,milesPerHour
+1220734020,PALJ,WindGust,29.0,milesPerHour

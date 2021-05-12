@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1220637120,PAWR,Precipitation,0.0,centimeters
+1220640600,PAWR,Precipitation,0.0,centimeters
+1220644260,PAWR,Precipitation,1.01,centimeters
+1220647560,PAWR,Precipitation,0.0,centimeters
+1220651880,PAWR,Precipitation,0.0,centimeters
+1220655420,PAWR,Precipitation,0.0,centimeters
+1220658600,PAWR,Precipitation,0.0,centimeters
+1221090840,PAWR,Precipitation,0.0,centimeters

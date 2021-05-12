@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAMO,WindSpeed,7.0,milesPerHour
+1253231760,PAMO,WindSpeed,0.0,milesPerHour
+1253278560,PAMO,WindSpeed,10.0,milesPerHour

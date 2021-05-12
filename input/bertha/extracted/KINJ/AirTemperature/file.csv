@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144700,KINJ,AirTemperature,70.9,fahrenheit
+1253231100,KINJ,AirTemperature,70.7,fahrenheit
+1253317500,KINJ,AirTemperature,70.2,fahrenheit
+1253403900,KINJ,AirTemperature,71.2,fahrenheit
+1253490300,KINJ,AirTemperature,77.2,fahrenheit
+1253576700,KINJ,AirTemperature,65.8,fahrenheit

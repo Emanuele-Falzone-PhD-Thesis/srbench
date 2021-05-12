@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KICL,AirTemperature,59.0,fahrenheit
+1253231700,KICL,AirTemperature,51.8,fahrenheit
+1253318100,KICL,AirTemperature,50.0,fahrenheit
+1253404500,KICL,AirTemperature,50.0,fahrenheit
+1253490900,KICL,AirTemperature,62.6,fahrenheit
+1253577300,KICL,AirTemperature,57.2,fahrenheit

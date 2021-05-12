@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KOZR,AirTemperature,72.5,fahrenheit
+1253231700,KOZR,AirTemperature,73.9,fahrenheit
+1253318100,KOZR,AirTemperature,73.0,fahrenheit
+1253404500,KOZR,AirTemperature,72.1,fahrenheit
+1253490900,KOZR,AirTemperature,74.5,fahrenheit
+1253577300,KOZR,AirTemperature,73.4,fahrenheit

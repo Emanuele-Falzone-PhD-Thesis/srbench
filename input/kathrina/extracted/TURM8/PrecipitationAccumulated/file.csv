@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1124862900,TURM8,PrecipitationAccumulated,1.89,centimeters
+1125157200,TURM8,PrecipitationAccumulated,61.1,centimeters
+1125243600,TURM8,PrecipitationAccumulated,61.1,centimeters

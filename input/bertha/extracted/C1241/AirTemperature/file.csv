@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253203860,C1241,AirTemperature,68.0,fahrenheit
+1253204760,C1241,AirTemperature,68.0,fahrenheit
+1253205660,C1241,AirTemperature,68.0,fahrenheit
+1253443260,C1241,AirTemperature,69.0,fahrenheit
+1253535960,C1241,AirTemperature,70.0,fahrenheit
+1253536860,C1241,AirTemperature,70.0,fahrenheit
+1253543160,C1241,AirTemperature,75.0,fahrenheit
+1253544060,C1241,AirTemperature,76.0,fahrenheit

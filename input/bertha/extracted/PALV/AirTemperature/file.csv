@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253137800,PALV,AirTemperature,50.0,fahrenheit
+1253224200,PALV,AirTemperature,48.2,fahrenheit
+1253310600,PALV,AirTemperature,46.4,fahrenheit
+1253397000,PALV,AirTemperature,50.0,fahrenheit
+1253483400,PALV,AirTemperature,48.2,fahrenheit
+1253569800,PALV,AirTemperature,44.6,fahrenheit

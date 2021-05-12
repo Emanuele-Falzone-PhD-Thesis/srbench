@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144760,MMAA,AirTemperature,78.8,fahrenheit
+1253231100,MMAA,AirTemperature,80.6,fahrenheit
+1253317560,MMAA,AirTemperature,82.4,fahrenheit
+1253403900,MMAA,AirTemperature,78.8,fahrenheit
+1253490300,MMAA,AirTemperature,80.6,fahrenheit
+1253576700,MMAA,AirTemperature,84.2,fahrenheit

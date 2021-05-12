@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,KONX,AirTemperature,69.4,fahrenheit
+1253232000,KONX,AirTemperature,65.5,fahrenheit
+1253318400,KONX,AirTemperature,62.1,fahrenheit
+1253404800,KONX,AirTemperature,64.9,fahrenheit
+1253491200,KONX,AirTemperature,65.3,fahrenheit
+1253577600,KONX,AirTemperature,70.7,fahrenheit

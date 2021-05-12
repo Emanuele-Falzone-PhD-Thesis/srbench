@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KERI,AirTemperature,54.0,fahrenheit
+1253231460,KERI,AirTemperature,57.0,fahrenheit
+1253317860,KERI,AirTemperature,59.0,fahrenheit
+1253404260,KERI,AirTemperature,48.9,fahrenheit
+1253490660,KERI,AirTemperature,70.0,fahrenheit
+1253577060,KERI,AirTemperature,71.1,fahrenheit

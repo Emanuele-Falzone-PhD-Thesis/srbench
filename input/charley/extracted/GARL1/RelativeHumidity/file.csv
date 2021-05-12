@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1092402000,GARL1,RelativeHumidity,45.0,percent
+1092405600,GARL1,RelativeHumidity,45.0,percent
+1092409200,GARL1,RelativeHumidity,40.0,percent
+1092412800,GARL1,RelativeHumidity,43.0,percent
+1092416400,GARL1,RelativeHumidity,41.0,percent
+1092420000,GARL1,RelativeHumidity,41.0,percent
+1092423600,GARL1,RelativeHumidity,43.0,percent
+1092427200,GARL1,RelativeHumidity,57.0,percent
+1092430800,GARL1,RelativeHumidity,84.0,percent
+1092434400,GARL1,RelativeHumidity,90.0,percent
+1092438000,GARL1,RelativeHumidity,93.0,percent
+1092441600,GARL1,RelativeHumidity,94.0,percent

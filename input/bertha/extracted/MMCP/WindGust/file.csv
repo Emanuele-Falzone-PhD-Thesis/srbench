@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1253396700,MMCP,WindGust,0.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,KHEZ,WindDirection,0.0,degrees
+1253231700,KHEZ,WindDirection,0.0,degrees
+1253318100,KHEZ,WindDirection,150.0,degrees
+1253404500,KHEZ,WindDirection,0.0,degrees
+1253490900,KHEZ,WindDirection,130.0,degrees
+1253577300,KHEZ,WindDirection,0.0,degrees

@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1220143500,GLVNV,WindDirection,152.0,degrees
+1220148000,GLVNV,WindDirection,136.0,degrees
+1220156100,GLVNV,WindDirection,136.0,degrees
+1220159700,GLVNV,WindDirection,127.0,degrees
+1220163300,GLVNV,WindDirection,127.0,degrees

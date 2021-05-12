@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1219989360,KNSI,WindGust,0.0,milesPerHour
+1219991400,KNSI,WindGust,0.0,milesPerHour
+1219992960,KNSI,WindGust,0.0,milesPerHour
+1219996560,KNSI,WindGust,26.0,milesPerHour
+1219998900,KNSI,WindGust,0.0,milesPerHour
+1220000160,KNSI,WindGust,0.0,milesPerHour
+1220003760,KNSI,WindGust,0.0,milesPerHour
+1220007360,KNSI,WindGust,0.0,milesPerHour
+1220010960,KNSI,WindGust,0.0,milesPerHour
+1220014560,KNSI,WindGust,0.0,milesPerHour
+1220018160,KNSI,WindGust,0.0,milesPerHour
+1220021760,KNSI,WindGust,0.0,milesPerHour

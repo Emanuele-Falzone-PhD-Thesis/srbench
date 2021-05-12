@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KLOU,AirTemperature,71.1,fahrenheit
+1253231580,KLOU,AirTemperature,73.0,fahrenheit
+1253317980,KLOU,AirTemperature,72.0,fahrenheit
+1253404380,KLOU,AirTemperature,71.1,fahrenheit
+1253490780,KLOU,AirTemperature,70.0,fahrenheit
+1253577180,KLOU,AirTemperature,72.0,fahrenheit

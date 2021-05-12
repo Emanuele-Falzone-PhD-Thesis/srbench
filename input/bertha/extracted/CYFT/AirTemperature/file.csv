@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253120400,CYFT,AirTemperature,39.2,fahrenheit
+1253206800,CYFT,AirTemperature,62.6,fahrenheit
+1253293200,CYFT,AirTemperature,57.2,fahrenheit
+1253379600,CYFT,AirTemperature,37.4,fahrenheit
+1253466000,CYFT,AirTemperature,50.0,fahrenheit
+1253552400,CYFT,AirTemperature,68.0,fahrenheit

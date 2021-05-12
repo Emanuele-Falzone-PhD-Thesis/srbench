@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144940,KOBE,WindDirection,0.0,degrees
+1253231460,KOBE,WindDirection,0.0,degrees
+1253317800,KOBE,WindDirection,60.0,degrees
+1253404260,KOBE,WindDirection,0.0,degrees
+1253490420,KOBE,WindDirection,50.0,degrees
+1253576820,KOBE,WindDirection,0.0,degrees

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,KEKO,DewPoint,41.0,fahrenheit
+1253231760,KEKO,DewPoint,36.0,fahrenheit
+1253318160,KEKO,DewPoint,35.1,fahrenheit
+1253404560,KEKO,DewPoint,28.9,fahrenheit
+1253490960,KEKO,DewPoint,14.0,fahrenheit
+1253577360,KEKO,DewPoint,17.1,fahrenheit

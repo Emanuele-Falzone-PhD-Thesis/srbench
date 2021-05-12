@@ -1,0 +1,12 @@
+timestamp,sensorId,property,value,unit
+1219884600,BRAM8,AirTemperature,55.4,fahrenheit
+1219888200,BRAM8,AirTemperature,51.8,fahrenheit
+1219891800,BRAM8,AirTemperature,51.8,fahrenheit
+1219906200,BRAM8,AirTemperature,0.0,fahrenheit
+1219909800,BRAM8,AirTemperature,44.6,fahrenheit
+1219917000,BRAM8,AirTemperature,0.0,fahrenheit
+1219927800,BRAM8,AirTemperature,68.0,fahrenheit
+1219942200,BRAM8,AirTemperature,73.4,fahrenheit
+1219945800,BRAM8,AirTemperature,0.0,fahrenheit
+1219956600,BRAM8,AirTemperature,0.0,fahrenheit
+1219960200,BRAM8,AirTemperature,0.0,fahrenheit

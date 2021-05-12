@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1124697300,KIZA,Visibility,0.25,centimeters
+1124704200,KIZA,Visibility,10.0,centimeters
+1124786100,KIZA,Visibility,0.5,centimeters
+1124787300,KIZA,Visibility,0.75,centimeters
+1124789400,KIZA,Visibility,7.0,centimeters
+1124873700,KIZA,Visibility,3.0,centimeters
+1124877300,KIZA,Visibility,7.0,centimeters
+1124958900,KIZA,Visibility,3.0,centimeters
+1124960100,KIZA,Visibility,10.0,centimeters

@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1219565520,AGMW3,WindDirection,320.0,degrees
+1219723920,AGMW3,WindDirection,330.0,degrees
+1219738320,AGMW3,WindDirection,190.0,degrees
+1219786080,AGMW3,WindDirection,70.0,degrees
+1219787820,AGMW3,WindDirection,60.0,degrees
+1219789620,AGMW3,WindDirection,80.0,degrees
+1219822020,AGMW3,WindDirection,180.0,degrees
+1219968720,AGMW3,WindDirection,0.0,degrees
+1219972320,AGMW3,WindDirection,0.0,degrees
+1219981320,AGMW3,WindDirection,310.0,degrees
+1219989420,AGMW3,WindDirection,0.0,degrees
+1220047020,AGMW3,WindDirection,260.0,degrees
+1220052420,AGMW3,WindDirection,270.0,degrees
+1220054220,AGMW3,WindDirection,0.0,degrees
+1220131620,AGMW3,WindDirection,150.0,degrees

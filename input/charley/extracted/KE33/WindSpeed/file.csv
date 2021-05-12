@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1091955300,KE33,WindSpeed,0.0,milesPerHour
+1092066300,KE33,WindSpeed,8.0,milesPerHour
+1092120600,KE33,WindSpeed,3.0,milesPerHour
+1092153300,KE33,WindSpeed,9.0,milesPerHour
+1092207000,KE33,WindSpeed,3.0,milesPerHour
+1092239100,KE33,WindSpeed,5.0,milesPerHour
+1092293400,KE33,WindSpeed,0.0,milesPerHour
+1092325500,KE33,WindSpeed,7.0,milesPerHour
+1092379800,KE33,WindSpeed,0.0,milesPerHour
+1092411900,KE33,WindSpeed,5.0,milesPerHour

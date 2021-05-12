@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1219539600,SPCM7,AirTemperature,64.6,fahrenheit
+1219543200,SPCM7,AirTemperature,62.8,fahrenheit
+1219546800,SPCM7,AirTemperature,62.6,fahrenheit
+1219550400,SPCM7,AirTemperature,62.1,fahrenheit
+1219554000,SPCM7,AirTemperature,60.1,fahrenheit
+1219557600,SPCM7,AirTemperature,58.3,fahrenheit
+1219892400,SPCM7,AirTemperature,69.6,fahrenheit
+1219896000,SPCM7,AirTemperature,70.7,fahrenheit
+1219899600,SPCM7,AirTemperature,70.3,fahrenheit
+1219903200,SPCM7,AirTemperature,71.4,fahrenheit

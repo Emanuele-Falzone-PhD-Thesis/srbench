@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KPGA,AirTemperature,64.9,fahrenheit
+1253231580,KPGA,AirTemperature,71.1,fahrenheit
+1253317980,KPGA,AirTemperature,69.1,fahrenheit
+1253404380,KPGA,AirTemperature,72.0,fahrenheit
+1253490780,KPGA,AirTemperature,78.1,fahrenheit
+1253577180,KPGA,AirTemperature,64.0,fahrenheit

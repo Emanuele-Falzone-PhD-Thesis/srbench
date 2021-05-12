@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,QMZN5,AirTemperature,201.7,fahrenheit
+1219629600,QMZN5,AirTemperature,200.1,fahrenheit
+1219716000,QMZN5,AirTemperature,46.6,fahrenheit
+1219802400,QMZN5,AirTemperature,49.1,fahrenheit
+1219888800,QMZN5,AirTemperature,48.9,fahrenheit
+1219975200,QMZN5,AirTemperature,51.8,fahrenheit
+1220061600,QMZN5,AirTemperature,48.9,fahrenheit

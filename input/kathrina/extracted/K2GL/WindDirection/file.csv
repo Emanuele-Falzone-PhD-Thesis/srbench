@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1124772600,K2GL,WindDirection,200.0,degrees
+1124814300,K2GL,WindDirection,170.0,degrees
+1124862600,K2GL,WindDirection,0.0,degrees
+1124888100,K2GL,WindDirection,110.0,degrees
+1124903700,K2GL,WindDirection,0.0,degrees

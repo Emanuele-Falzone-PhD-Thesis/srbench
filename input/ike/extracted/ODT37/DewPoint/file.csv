@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1220850600,ODT37,DewPoint,32.2,fahrenheit
+1220856600,ODT37,DewPoint,32.1,fahrenheit
+1220857200,ODT37,DewPoint,31.6,fahrenheit
+1220857800,ODT37,DewPoint,32.1,fahrenheit
+1220859000,ODT37,DewPoint,33.1,fahrenheit
+1220859600,ODT37,DewPoint,34.0,fahrenheit
+1220860800,ODT37,DewPoint,33.3,fahrenheit
+1220865600,ODT37,DewPoint,35.6,fahrenheit
+1220866800,ODT37,DewPoint,35.1,fahrenheit
+1221294600,ODT37,DewPoint,31.4,fahrenheit

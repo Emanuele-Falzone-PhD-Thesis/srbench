@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1221285000,BRAM8,RelativeHumidity,0.0,percent
+1221339000,BRAM8,RelativeHumidity,70.0,percent
+1221349800,BRAM8,RelativeHumidity,0.0,percent

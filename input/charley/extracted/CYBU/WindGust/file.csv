@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1091966400,CYBU,WindGust,21.0,milesPerHour
+1091977200,CYBU,WindGust,23.0,milesPerHour
+1091980800,CYBU,WindGust,20.0,milesPerHour
+1091982900,CYBU,WindGust,0.0,milesPerHour
+1091983500,CYBU,WindGust,0.0,milesPerHour
+1091984400,CYBU,WindGust,20.0,milesPerHour
+1091985300,CYBU,WindGust,23.0,milesPerHour
+1091988000,CYBU,WindGust,17.0,milesPerHour
+1091991600,CYBU,WindGust,0.0,milesPerHour

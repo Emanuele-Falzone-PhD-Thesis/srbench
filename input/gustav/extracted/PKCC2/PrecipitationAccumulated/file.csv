@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,PKCC2,PrecipitationAccumulated,7.3,centimeters
+1219629600,PKCC2,PrecipitationAccumulated,23.4,centimeters
+1219716000,PKCC2,PrecipitationAccumulated,24.1,centimeters
+1219802400,PKCC2,PrecipitationAccumulated,25.0,centimeters
+1219888800,PKCC2,PrecipitationAccumulated,25.0,centimeters
+1219975200,PKCC2,PrecipitationAccumulated,23.1,centimeters
+1220061600,PKCC2,PrecipitationAccumulated,23.1,centimeters

@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253145300,KSRR,WindGust,0.0,milesPerHour
+1253404500,KSRR,WindGust,0.0,milesPerHour
+1253490900,KSRR,WindGust,0.0,milesPerHour
+1253571300,KSRR,WindGust,0.0,milesPerHour

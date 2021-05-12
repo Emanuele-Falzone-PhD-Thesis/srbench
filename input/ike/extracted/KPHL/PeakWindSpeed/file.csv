@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1220732340,KPHL,PeakWindSpeed,30.0,milesPerHour
+1220733300,KPHL,PeakWindSpeed,30.0,milesPerHour
+1220734440,KPHL,PeakWindSpeed,30.0,milesPerHour
+1220738040,KPHL,PeakWindSpeed,0.0,milesPerHour
+1220741640,KPHL,PeakWindSpeed,0.0,milesPerHour
+1220745240,KPHL,PeakWindSpeed,0.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253520000,SENN5,AirTemperature,40.6,fahrenheit
+1253088000,SENN5,AirTemperature,46.8,fahrenheit
+1253174400,SENN5,AirTemperature,45.9,fahrenheit
+1253260800,SENN5,AirTemperature,44.1,fahrenheit
+1253347200,SENN5,AirTemperature,38.1,fahrenheit
+1253433600,SENN5,AirTemperature,41.2,fahrenheit

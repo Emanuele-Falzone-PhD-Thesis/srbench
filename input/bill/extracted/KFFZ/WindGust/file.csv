@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1253371740,KFFZ,WindGust,0.0,milesPerHour
+1253389620,KFFZ,WindGust,0.0,milesPerHour
+1253393460,KFFZ,WindGust,0.0,milesPerHour
+1253396940,KFFZ,WindGust,0.0,milesPerHour
+1253400600,KFFZ,WindGust,0.0,milesPerHour
+1253404020,KFFZ,WindGust,25.0,milesPerHour
+1253407920,KFFZ,WindGust,0.0,milesPerHour
+1253411400,KFFZ,WindGust,0.0,milesPerHour
+1253415300,KFFZ,WindGust,0.0,milesPerHour

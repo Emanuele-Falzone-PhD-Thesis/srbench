@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,KUXL,AirTemperature,77.0,fahrenheit
+1253232000,KUXL,AirTemperature,71.6,fahrenheit
+1253318400,KUXL,AirTemperature,73.4,fahrenheit
+1253404800,KUXL,AirTemperature,73.4,fahrenheit
+1253491200,KUXL,AirTemperature,77.0,fahrenheit
+1253577600,KUXL,AirTemperature,78.8,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144640,KLOT,WindDirection,50.0,degrees
+1253231040,KLOT,WindDirection,0.0,degrees
+1253317440,KLOT,WindDirection,50.0,degrees
+1253403840,KLOT,WindDirection,120.0,degrees
+1253490240,KLOT,WindDirection,220.0,degrees
+1253576640,KLOT,WindDirection,70.0,degrees

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KAIA,WindSpeed,5.0,milesPerHour
+1253231580,KAIA,WindSpeed,6.0,milesPerHour
+1253317980,KAIA,WindSpeed,8.0,milesPerHour
+1253404380,KAIA,WindSpeed,14.0,milesPerHour
+1253491200,KAIA,WindSpeed,14.0,milesPerHour
+1253577180,KAIA,WindSpeed,13.0,milesPerHour

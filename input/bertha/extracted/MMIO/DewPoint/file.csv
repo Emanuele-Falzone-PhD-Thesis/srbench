@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144400,MMIO,DewPoint,64.4,fahrenheit
+1253230800,MMIO,DewPoint,59.0,fahrenheit
+1253310000,MMIO,DewPoint,59.0,fahrenheit
+1253400000,MMIO,DewPoint,62.6,fahrenheit
+1253490000,MMIO,DewPoint,64.4,fahrenheit
+1253576400,MMIO,DewPoint,60.8,fahrenheit

@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253120400,CZFN,WindDirection,100.0,degrees
+1253206800,CZFN,WindDirection,260.0,degrees
+1253293200,CZFN,WindDirection,190.0,degrees
+1253552400,CZFN,WindDirection,280.0,degrees

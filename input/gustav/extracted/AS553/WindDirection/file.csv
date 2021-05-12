@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1220081640,AS553,WindDirection,23.0,degrees
+1220082240,AS553,WindDirection,23.0,degrees

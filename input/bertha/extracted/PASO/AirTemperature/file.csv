@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PASO,AirTemperature,51.1,fahrenheit
+1253231580,PASO,AirTemperature,46.9,fahrenheit
+1253317980,PASO,AirTemperature,41.0,fahrenheit
+1253404380,PASO,AirTemperature,43.0,fahrenheit
+1253490780,PASO,AirTemperature,46.9,fahrenheit
+1253577180,PASO,AirTemperature,48.0,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145360,PAGL,WindSpeed,14.0,milesPerHour
+1253231760,PAGL,WindSpeed,6.0,milesPerHour
+1253318160,PAGL,WindSpeed,10.0,milesPerHour
+1253404560,PAGL,WindSpeed,8.0,milesPerHour
+1253490960,PAGL,WindSpeed,9.0,milesPerHour
+1253577360,PAGL,WindSpeed,8.0,milesPerHour

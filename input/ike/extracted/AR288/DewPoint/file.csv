@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1220794020,AR288,DewPoint,59.2,fahrenheit
+1220852220,AR288,DewPoint,67.6,fahrenheit
+1220914620,AR288,DewPoint,66.3,fahrenheit
+1220968620,AR288,DewPoint,62.1,fahrenheit
+1220972220,AR288,DewPoint,66.7,fahrenheit
+1221193620,AR288,DewPoint,67.7,fahrenheit
+1221235620,AR288,DewPoint,64.6,fahrenheit

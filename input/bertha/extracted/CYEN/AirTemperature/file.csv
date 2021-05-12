@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYEN,AirTemperature,59.0,fahrenheit
+1253232000,CYEN,AirTemperature,66.2,fahrenheit
+1253318400,CYEN,AirTemperature,59.0,fahrenheit
+1253404800,CYEN,AirTemperature,69.8,fahrenheit
+1253491200,CYEN,AirTemperature,50.0,fahrenheit
+1253577600,CYEN,AirTemperature,41.0,fahrenheit

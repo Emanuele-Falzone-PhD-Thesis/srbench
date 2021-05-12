@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253491920,MVVA3,WindDirection,0.0,degrees
+1253549340,MVVA3,WindDirection,0.0,degrees

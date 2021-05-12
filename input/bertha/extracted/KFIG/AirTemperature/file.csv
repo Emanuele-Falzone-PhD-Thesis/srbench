@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KFIG,AirTemperature,55.0,fahrenheit
+1253231640,KFIG,AirTemperature,57.0,fahrenheit
+1253318040,KFIG,AirTemperature,53.1,fahrenheit
+1253404440,KFIG,AirTemperature,44.1,fahrenheit
+1253490840,KFIG,AirTemperature,57.0,fahrenheit
+1253577240,KFIG,AirTemperature,64.9,fahrenheit

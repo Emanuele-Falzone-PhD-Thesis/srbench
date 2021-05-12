@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PANN,DewPoint,42.1,fahrenheit
+1253231580,PANN,DewPoint,44.1,fahrenheit
+1253317980,PANN,DewPoint,44.1,fahrenheit
+1253404380,PANN,DewPoint,30.9,fahrenheit
+1253490780,PANN,DewPoint,28.9,fahrenheit
+1253577180,PANN,DewPoint,33.1,fahrenheit

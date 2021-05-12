@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1125268200,C3091,AirTemperature,68.0,fahrenheit
+1125270000,C3091,AirTemperature,67.0,fahrenheit
+1125271800,C3091,AirTemperature,66.0,fahrenheit
+1125273600,C3091,AirTemperature,65.0,fahrenheit

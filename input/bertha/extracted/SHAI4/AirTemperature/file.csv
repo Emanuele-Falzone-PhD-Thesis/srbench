@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253127600,SHAI4,AirTemperature,77.4,fahrenheit
+1253131200,SHAI4,AirTemperature,73.4,fahrenheit
+1253134800,SHAI4,AirTemperature,69.6,fahrenheit
+1253138400,SHAI4,AirTemperature,65.7,fahrenheit
+1253142000,SHAI4,AirTemperature,65.1,fahrenheit

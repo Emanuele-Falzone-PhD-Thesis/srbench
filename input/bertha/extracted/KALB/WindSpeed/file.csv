@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KALB,WindSpeed,0.0,milesPerHour
+1253231460,KALB,WindSpeed,7.0,milesPerHour
+1253317860,KALB,WindSpeed,8.0,milesPerHour
+1253404260,KALB,WindSpeed,0.0,milesPerHour
+1253490660,KALB,WindSpeed,0.0,milesPerHour
+1253577060,KALB,WindSpeed,7.0,milesPerHour

@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253112900,PHSF,WindSpeed,8.0,milesPerHour
+1253199300,PHSF,WindSpeed,8.0,milesPerHour
+1253285700,PHSF,WindSpeed,14.0,milesPerHour
+1253544900,PHSF,WindSpeed,10.0,milesPerHour

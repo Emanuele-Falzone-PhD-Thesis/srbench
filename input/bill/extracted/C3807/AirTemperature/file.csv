@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253542020,C3807,AirTemperature,39.0,fahrenheit
+1253184720,C3807,AirTemperature,54.0,fahrenheit
+1253441880,C3807,AirTemperature,62.0,fahrenheit

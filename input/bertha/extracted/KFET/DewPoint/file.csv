@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145000,KFET,DewPoint,59.0,fahrenheit
+1253231400,KFET,DewPoint,57.2,fahrenheit
+1253317800,KFET,DewPoint,55.4,fahrenheit
+1253404200,KFET,DewPoint,50.0,fahrenheit
+1253490600,KFET,DewPoint,59.0,fahrenheit
+1253577000,KFET,DewPoint,44.6,fahrenheit

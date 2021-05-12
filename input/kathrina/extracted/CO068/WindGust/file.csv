@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1124698500,CO068,WindGust,6.0,milesPerHour
+1124743800,CO068,WindGust,11.0,milesPerHour
+1124797800,CO068,WindGust,13.0,milesPerHour
+1124809800,CO068,WindGust,17.0,milesPerHour
+1124810100,CO068,WindGust,17.0,milesPerHour
+1124817600,CO068,WindGust,16.0,milesPerHour
+1124830500,CO068,WindGust,16.0,milesPerHour
+1124862600,CO068,WindGust,17.0,milesPerHour
+1125057000,CO068,WindGust,14.0,milesPerHour
+1125068100,CO068,WindGust,14.0,milesPerHour
+1125109200,CO068,WindGust,7.0,milesPerHour
+1125163200,CO068,WindGust,14.0,milesPerHour
+1125187500,CO068,WindGust,5.0,milesPerHour
+1125260700,CO068,WindGust,21.0,milesPerHour

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PASO,DewPoint,44.1,fahrenheit
+1253231580,PASO,DewPoint,46.0,fahrenheit
+1253317980,PASO,DewPoint,39.9,fahrenheit
+1253404380,PASO,DewPoint,41.0,fahrenheit
+1253490780,PASO,DewPoint,44.1,fahrenheit
+1253577180,PASO,DewPoint,37.9,fahrenheit

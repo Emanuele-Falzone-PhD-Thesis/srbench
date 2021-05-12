@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1124790600,KAPG,AirTemperature,75.2,fahrenheit
+1124794200,KAPG,AirTemperature,78.8,fahrenheit
+1124801400,KAPG,AirTemperature,82.4,fahrenheit
+1124873700,KAPG,AirTemperature,69.8,fahrenheit
+1124877000,KAPG,AirTemperature,75.2,fahrenheit
+1124880600,KAPG,AirTemperature,75.2,fahrenheit
+1124887800,KAPG,AirTemperature,80.6,fahrenheit
+1124977800,KAPG,AirTemperature,80.6,fahrenheit
+1124981100,KAPG,AirTemperature,82.4,fahrenheit

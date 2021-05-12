@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1253201640,AP127,WindSpeed,14.0,milesPerHour
+1253202360,AP127,WindSpeed,14.0,milesPerHour
+1253203080,AP127,WindSpeed,14.0,milesPerHour
+1253209080,AP127,WindSpeed,14.0,milesPerHour
+1253210040,AP127,WindSpeed,14.0,milesPerHour
+1253290680,AP127,WindSpeed,14.0,milesPerHour
+1253294280,AP127,WindSpeed,14.0,milesPerHour
+1253294520,AP127,WindSpeed,14.0,milesPerHour

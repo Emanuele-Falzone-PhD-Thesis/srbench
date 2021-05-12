@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253137800,KEVB,WindDirection,130.0,degrees
+1253224020,KEVB,WindDirection,110.0,degrees
+1253310420,KEVB,WindDirection,90.0,degrees
+1253393220,KEVB,WindDirection,90.0,degrees
+1253483220,KEVB,WindDirection,100.0,degrees
+1253569620,KEVB,WindDirection,90.0,degrees

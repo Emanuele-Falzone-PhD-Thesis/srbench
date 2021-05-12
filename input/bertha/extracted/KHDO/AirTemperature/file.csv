@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KHDO,AirTemperature,72.0,fahrenheit
+1253231460,KHDO,AirTemperature,73.0,fahrenheit
+1253317860,KHDO,AirTemperature,73.9,fahrenheit
+1253404260,KHDO,AirTemperature,75.9,fahrenheit
+1253490660,KHDO,AirTemperature,79.0,fahrenheit
+1253577060,KHDO,AirTemperature,80.1,fahrenheit

@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1253583240,KDFW,PeakWindSpeed,40.0,milesPerHour
+1253583420,KDFW,PeakWindSpeed,40.0,milesPerHour
+1253583840,KDFW,PeakWindSpeed,40.0,milesPerHour
+1253584380,KDFW,PeakWindSpeed,40.0,milesPerHour
+1253584980,KDFW,PeakWindSpeed,0.0,milesPerHour
+1253587980,KDFW,PeakWindSpeed,0.0,milesPerHour
+1253591580,KDFW,PeakWindSpeed,0.0,milesPerHour
+1253593560,KDFW,PeakWindSpeed,0.0,milesPerHour
+1253595180,KDFW,PeakWindSpeed,0.0,milesPerHour

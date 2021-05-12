@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1219960260,KERI,PeakWindSpeed,0.0,milesPerHour
+1219963860,KERI,PeakWindSpeed,0.0,milesPerHour
+1219967460,KERI,PeakWindSpeed,0.0,milesPerHour

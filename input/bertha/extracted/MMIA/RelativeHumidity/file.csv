@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253133900,MMIA,RelativeHumidity,78.0,percent
+1253223900,MMIA,RelativeHumidity,88.0,percent
+1253306400,MMIA,RelativeHumidity,88.0,percent
+1253385900,MMIA,RelativeHumidity,70.0,percent
+1253479800,MMIA,RelativeHumidity,88.0,percent
+1253565840,MMIA,RelativeHumidity,88.0,percent

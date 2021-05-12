@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253120400,CYLU,WindGust,18.0,milesPerHour
+1253206800,CYLU,WindGust,0.0,milesPerHour
+1253293200,CYLU,WindGust,28.0,milesPerHour
+1253379600,CYLU,WindGust,17.0,milesPerHour
+1253466000,CYLU,WindGust,0.0,milesPerHour
+1253552400,CYLU,WindGust,0.0,milesPerHour

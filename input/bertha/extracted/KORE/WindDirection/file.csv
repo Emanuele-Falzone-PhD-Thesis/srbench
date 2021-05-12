@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,KORE,WindDirection,0.0,degrees
+1253231760,KORE,WindDirection,0.0,degrees
+1253317920,KORE,WindDirection,350.0,degrees
+1253404320,KORE,WindDirection,0.0,degrees
+1253490840,KORE,WindDirection,0.0,degrees
+1253577120,KORE,WindDirection,0.0,degrees

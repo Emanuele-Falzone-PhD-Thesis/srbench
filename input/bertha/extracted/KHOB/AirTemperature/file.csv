@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253123400,KHOB,AirTemperature,73.4,fahrenheit
+1253206200,KHOB,AirTemperature,77.0,fahrenheit
+1253296200,KHOB,AirTemperature,73.4,fahrenheit
+1253382600,KHOB,AirTemperature,71.6,fahrenheit
+1253469000,KHOB,AirTemperature,84.2,fahrenheit
+1253555400,KHOB,AirTemperature,86.0,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KORB,RelativeHumidity,88.0,percent
+1253231640,KORB,RelativeHumidity,94.0,percent
+1253318040,KORB,RelativeHumidity,82.0,percent
+1253404440,KORB,RelativeHumidity,88.0,percent
+1253490840,KORB,RelativeHumidity,82.0,percent
+1253577240,KORB,RelativeHumidity,88.0,percent

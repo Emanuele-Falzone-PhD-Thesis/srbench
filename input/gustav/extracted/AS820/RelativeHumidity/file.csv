@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1220138160,AS820,RelativeHumidity,93.0,percent
+1220138700,AS820,RelativeHumidity,93.0,percent
+1220139900,AS820,RelativeHumidity,94.0,percent
+1220140500,AS820,RelativeHumidity,94.0,percent

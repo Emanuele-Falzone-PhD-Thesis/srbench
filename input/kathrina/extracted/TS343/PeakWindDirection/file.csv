@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1125059100,TS343,PeakWindDirection,126.0,degrees
+1125062700,TS343,PeakWindDirection,185.0,degrees
+1125066300,TS343,PeakWindDirection,181.0,degrees

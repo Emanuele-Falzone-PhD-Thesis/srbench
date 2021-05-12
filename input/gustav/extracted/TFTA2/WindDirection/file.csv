@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1219549500,TFTA2,WindDirection,215.0,degrees
+1219585560,TFTA2,WindDirection,235.0,degrees
+1219907700,TFTA2,WindDirection,85.0,degrees
+1220001360,TFTA2,WindDirection,240.0,degrees

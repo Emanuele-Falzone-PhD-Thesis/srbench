@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145300,BGTL,WindDirection,100.0,degrees
+1253231700,BGTL,WindDirection,360.0,degrees
+1253318100,BGTL,WindDirection,50.0,degrees
+1253404500,BGTL,WindDirection,140.0,degrees
+1253490900,BGTL,WindDirection,90.0,degrees
+1253577300,BGTL,WindDirection,90.0,degrees

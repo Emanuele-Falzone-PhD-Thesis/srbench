@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1220723040,KNYG,PeakWindSpeed,39.0,milesPerHour
+1220723760,KNYG,PeakWindSpeed,39.0,milesPerHour
+1220727360,KNYG,PeakWindSpeed,0.0,milesPerHour
+1220730960,KNYG,PeakWindSpeed,0.0,milesPerHour
+1220734560,KNYG,PeakWindSpeed,0.0,milesPerHour
+1220738160,KNYG,PeakWindSpeed,0.0,milesPerHour
+1220741760,KNYG,PeakWindSpeed,0.0,milesPerHour
+1220745360,KNYG,PeakWindSpeed,0.0,milesPerHour

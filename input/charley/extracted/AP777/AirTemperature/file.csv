@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1092431400,AP777,AirTemperature,62.0,fahrenheit
+1092433200,AP777,AirTemperature,61.0,fahrenheit
+1092436800,AP777,AirTemperature,60.0,fahrenheit

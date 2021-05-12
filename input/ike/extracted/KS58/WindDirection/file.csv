@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1220676300,KS58,WindDirection,20.0,degrees
+1220701500,KS58,WindDirection,40.0,degrees
+1220712300,KS58,WindDirection,50.0,degrees
+1220719500,KS58,WindDirection,40.0,degrees
+1220762700,KS58,WindDirection,60.0,degrees
+1220777280,KS58,WindDirection,70.0,degrees
+1220798700,KS58,WindDirection,100.0,degrees
+1220805900,KS58,WindDirection,90.0,degrees
+1220863500,KS58,WindDirection,70.0,degrees
+1220875200,KS58,WindDirection,80.0,degrees

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253137200,MMCU,WindDirection,90.0,degrees
+1253230800,MMCU,WindDirection,270.0,degrees
+1253313600,MMCU,WindDirection,300.0,degrees
+1253396400,MMCU,WindDirection,180.0,degrees
+1253486400,MMCU,WindDirection,160.0,degrees
+1253576400,MMCU,WindDirection,170.0,degrees

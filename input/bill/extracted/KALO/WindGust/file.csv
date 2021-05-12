@@ -1,0 +1,14 @@
+timestamp,sensorId,property,value,unit
+1253566440,KALO,WindGust,0.0,milesPerHour
+1253576280,KALO,WindGust,0.0,milesPerHour
+1253577240,KALO,WindGust,0.0,milesPerHour
+1253580000,KALO,WindGust,0.0,milesPerHour
+1253580840,KALO,WindGust,0.0,milesPerHour
+1253584440,KALO,WindGust,0.0,milesPerHour
+1253584920,KALO,WindGust,0.0,milesPerHour
+1253585580,KALO,WindGust,0.0,milesPerHour
+1253588040,KALO,WindGust,0.0,milesPerHour
+1253589360,KALO,WindGust,0.0,milesPerHour
+1253591400,KALO,WindGust,0.0,milesPerHour
+1253591640,KALO,WindGust,0.0,milesPerHour
+1253595240,KALO,WindGust,0.0,milesPerHour

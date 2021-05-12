@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145600,KORE,AirTemperature,44.6,fahrenheit
+1253231760,KORE,AirTemperature,42.8,fahrenheit
+1253317920,KORE,AirTemperature,54.0,fahrenheit
+1253404320,KORE,AirTemperature,39.9,fahrenheit
+1253490840,KORE,AirTemperature,42.8,fahrenheit
+1253577120,KORE,AirTemperature,46.9,fahrenheit

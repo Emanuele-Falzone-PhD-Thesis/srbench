@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253145000,KALM,WindGust,0.0,milesPerHour
+1253231400,KALM,WindGust,0.0,milesPerHour
+1253403900,KALM,WindGust,0.0,milesPerHour
+1253490300,KALM,WindGust,0.0,milesPerHour
+1253576700,KALM,WindGust,0.0,milesPerHour

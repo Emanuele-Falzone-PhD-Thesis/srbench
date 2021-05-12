@@ -1,0 +1,17 @@
+timestamp,sensorId,property,value,unit
+1253365200,CYCD,WindGust,0.0,milesPerHour
+1253368800,CYCD,WindGust,0.0,milesPerHour
+1253372400,CYCD,WindGust,0.0,milesPerHour
+1253376000,CYCD,WindGust,0.0,milesPerHour
+1253379600,CYCD,WindGust,0.0,milesPerHour
+1253383200,CYCD,WindGust,0.0,milesPerHour
+1253386800,CYCD,WindGust,17.0,milesPerHour
+1253390400,CYCD,WindGust,17.0,milesPerHour
+1253394000,CYCD,WindGust,20.0,milesPerHour
+1253397600,CYCD,WindGust,20.0,milesPerHour
+1253401200,CYCD,WindGust,22.0,milesPerHour
+1253404800,CYCD,WindGust,20.0,milesPerHour
+1253408400,CYCD,WindGust,0.0,milesPerHour
+1253412000,CYCD,WindGust,0.0,milesPerHour
+1253415600,CYCD,WindGust,0.0,milesPerHour
+1253419200,CYCD,WindGust,0.0,milesPerHour

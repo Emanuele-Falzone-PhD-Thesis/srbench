@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1253286000,CYLA,RelativeHumidity,81.0,percent
+1253545200,CYLA,RelativeHumidity,93.0,percent

@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1220279100,SCVC1,WindSpeed,0.0,milesPerHour
+1220333100,SCVC1,WindSpeed,1.0,milesPerHour
+1220964000,SCVC1,WindSpeed,0.0,milesPerHour

@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1124697300,KIZA,WindSpeed,0.0,milesPerHour
+1124704200,KIZA,WindSpeed,0.0,milesPerHour
+1124786100,KIZA,WindSpeed,0.0,milesPerHour
+1124787300,KIZA,WindSpeed,3.0,milesPerHour
+1124789400,KIZA,WindSpeed,0.0,milesPerHour
+1124873700,KIZA,WindSpeed,0.0,milesPerHour
+1124877300,KIZA,WindSpeed,0.0,milesPerHour
+1124958900,KIZA,WindSpeed,0.0,milesPerHour
+1124960100,KIZA,WindSpeed,0.0,milesPerHour

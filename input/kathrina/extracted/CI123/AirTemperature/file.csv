@@ -1,0 +1,17 @@
+timestamp,sensorId,property,value,unit
+1124672400,CI123,AirTemperature,57.8,fahrenheit
+1124676000,CI123,AirTemperature,57.5,fahrenheit
+1124679600,CI123,AirTemperature,57.5,fahrenheit
+1124683200,CI123,AirTemperature,57.4,fahrenheit
+1124686800,CI123,AirTemperature,56.9,fahrenheit
+1124690400,CI123,AirTemperature,56.3,fahrenheit
+1124694000,CI123,AirTemperature,58.5,fahrenheit
+1124697600,CI123,AirTemperature,62.3,fahrenheit
+1124701200,CI123,AirTemperature,65.2,fahrenheit
+1124704800,CI123,AirTemperature,68.5,fahrenheit
+1124708400,CI123,AirTemperature,74.3,fahrenheit
+1124712000,CI123,AirTemperature,77.3,fahrenheit
+1124715600,CI123,AirTemperature,81.5,fahrenheit
+1124719200,CI123,AirTemperature,86.2,fahrenheit
+1124722800,CI123,AirTemperature,90.0,fahrenheit
+1124726400,CI123,AirTemperature,90.0,fahrenheit

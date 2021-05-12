@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253124000,CZMT,WindDirection,160.0,degrees
+1253210400,CZMT,WindDirection,140.0,degrees
+1253296800,CZMT,WindDirection,180.0,degrees
+1253383200,CZMT,WindDirection,270.0,degrees
+1253469600,CZMT,WindDirection,160.0,degrees
+1253556000,CZMT,WindDirection,160.0,degrees

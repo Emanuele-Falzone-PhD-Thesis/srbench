@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253231340,KRBO,WindGust,0.0,milesPerHour
+1253317740,KRBO,WindGust,0.0,milesPerHour
+1253404260,KRBO,WindGust,0.0,milesPerHour
+1253490720,KRBO,WindGust,0.0,milesPerHour
+1253577120,KRBO,WindGust,0.0,milesPerHour

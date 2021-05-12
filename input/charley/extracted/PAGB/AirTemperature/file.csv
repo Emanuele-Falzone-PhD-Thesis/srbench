@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1092203400,PAGB,AirTemperature,46.4,fahrenheit
+1092207300,PAGB,AirTemperature,44.6,fahrenheit
+1092210600,PAGB,AirTemperature,48.2,fahrenheit
+1092213300,PAGB,AirTemperature,48.2,fahrenheit
+1092214200,PAGB,AirTemperature,48.2,fahrenheit
+1092217800,PAGB,AirTemperature,51.8,fahrenheit
+1092221400,PAGB,AirTemperature,51.8,fahrenheit
+1092225000,PAGB,AirTemperature,53.6,fahrenheit
+1092226500,PAGB,AirTemperature,55.4,fahrenheit

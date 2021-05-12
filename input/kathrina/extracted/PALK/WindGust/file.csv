@@ -1,0 +1,2 @@
+timestamp,sensorId,property,value,unit
+1124815800,PALK,WindGust,23.0,milesPerHour

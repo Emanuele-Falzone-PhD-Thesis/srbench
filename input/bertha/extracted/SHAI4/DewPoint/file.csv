@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253127600,SHAI4,DewPoint,61.9,fahrenheit
+1253131200,SHAI4,DewPoint,62.2,fahrenheit
+1253134800,SHAI4,DewPoint,61.3,fahrenheit
+1253138400,SHAI4,DewPoint,61.1,fahrenheit
+1253142000,SHAI4,DewPoint,60.8,fahrenheit

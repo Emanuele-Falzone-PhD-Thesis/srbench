@@ -1,0 +1,9 @@
+timestamp,sensorId,property,value,unit
+1220731980,KMIV,PeakWindSpeed,30.0,milesPerHour
+1220734440,KMIV,PeakWindSpeed,30.0,milesPerHour
+1220735580,KMIV,PeakWindSpeed,30.0,milesPerHour
+1220737020,KMIV,PeakWindSpeed,30.0,milesPerHour
+1220738040,KMIV,PeakWindSpeed,30.0,milesPerHour
+1220741160,KMIV,PeakWindSpeed,0.0,milesPerHour
+1220741640,KMIV,PeakWindSpeed,0.0,milesPerHour
+1220745240,KMIV,PeakWindSpeed,0.0,milesPerHour

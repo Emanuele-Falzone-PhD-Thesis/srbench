@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144880,KRBO,AirTemperature,82.2,fahrenheit
+1253231340,KRBO,AirTemperature,80.8,fahrenheit
+1253317740,KRBO,AirTemperature,80.2,fahrenheit
+1253404260,KRBO,AirTemperature,80.6,fahrenheit
+1253490720,KRBO,AirTemperature,80.6,fahrenheit
+1253577120,KRBO,AirTemperature,84.2,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KUAO,AirTemperature,59.0,fahrenheit
+1253231580,KUAO,AirTemperature,54.0,fahrenheit
+1253317980,KUAO,AirTemperature,60.1,fahrenheit
+1253404380,KUAO,AirTemperature,55.0,fahrenheit
+1253490780,KUAO,AirTemperature,57.9,fahrenheit
+1253577180,KUAO,AirTemperature,70.0,fahrenheit

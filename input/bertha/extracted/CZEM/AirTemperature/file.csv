@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253116800,CZEM,AirTemperature,55.4,fahrenheit
+1253466000,CZEM,AirTemperature,68.0,fahrenheit
+1253548800,CZEM,AirTemperature,71.6,fahrenheit

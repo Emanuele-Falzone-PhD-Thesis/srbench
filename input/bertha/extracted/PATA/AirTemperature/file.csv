@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145120,PATA,AirTemperature,50.0,fahrenheit
+1253231520,PATA,AirTemperature,44.1,fahrenheit
+1253317920,PATA,AirTemperature,48.9,fahrenheit
+1253404320,PATA,AirTemperature,44.1,fahrenheit
+1253490720,PATA,AirTemperature,41.0,fahrenheit
+1253577120,PATA,AirTemperature,34.0,fahrenheit

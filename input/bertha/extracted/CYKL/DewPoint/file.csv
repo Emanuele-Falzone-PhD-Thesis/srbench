@@ -1,0 +1,16 @@
+timestamp,sensorId,property,value,unit
+1253145600,CYKL,DewPoint,30.2,fahrenheit
+1253232000,CYKL,DewPoint,42.8,fahrenheit
+1253304000,CYKL,DewPoint,33.8,fahrenheit
+1253304540,CYKL,DewPoint,33.8,fahrenheit
+1253307600,CYKL,DewPoint,33.8,fahrenheit
+1253308020,CYKL,DewPoint,33.8,fahrenheit
+1253311200,CYKL,DewPoint,33.8,fahrenheit
+1253312700,CYKL,DewPoint,32.0,fahrenheit
+1253314140,CYKL,DewPoint,32.0,fahrenheit
+1253314500,CYKL,DewPoint,32.0,fahrenheit
+1253314800,CYKL,DewPoint,32.0,fahrenheit
+1253318400,CYKL,DewPoint,32.0,fahrenheit
+1253404800,CYKL,DewPoint,35.6,fahrenheit
+1253491200,CYKL,DewPoint,41.0,fahrenheit
+1253577600,CYKL,DewPoint,53.6,fahrenheit

@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1220000400,CWIQ,WindSpeed,5.0,milesPerHour
+1220004000,CWIQ,WindSpeed,5.0,milesPerHour
+1220007600,CWIQ,WindSpeed,5.0,milesPerHour

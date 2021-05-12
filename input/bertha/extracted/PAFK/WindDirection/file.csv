@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253119800,PAFK,WindDirection,0.0,degrees
+1253206200,PAFK,WindDirection,160.0,degrees
+1253292600,PAFK,WindDirection,340.0,degrees
+1253379000,PAFK,WindDirection,290.0,degrees
+1253465400,PAFK,WindDirection,350.0,degrees
+1253551800,PAFK,WindDirection,0.0,degrees

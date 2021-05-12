@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1253120400,CYSR,WindSpeed,15.0,milesPerHour
+1253206800,CYSR,WindSpeed,15.0,milesPerHour
+1253289600,CYSR,WindSpeed,6.0,milesPerHour
+1253372400,CYSR,WindSpeed,2.0,milesPerHour

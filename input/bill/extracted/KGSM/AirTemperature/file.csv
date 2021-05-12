@@ -1,0 +1,13 @@
+timestamp,sensorId,property,value,unit
+1253539320,KGSM,AirTemperature,80.6,fahrenheit
+1253563140,KGSM,AirTemperature,84.2,fahrenheit
+1253098020,KGSM,AirTemperature,80.6,fahrenheit
+1253132580,KGSM,AirTemperature,82.4,fahrenheit
+1253194260,KGSM,AirTemperature,80.6,fahrenheit
+1253220840,KGSM,AirTemperature,82.4,fahrenheit
+1253275800,KGSM,AirTemperature,75.2,fahrenheit
+1253304120,KGSM,AirTemperature,82.4,fahrenheit
+1253367120,KGSM,AirTemperature,80.6,fahrenheit
+1253391540,KGSM,AirTemperature,84.2,fahrenheit
+1253451540,KGSM,AirTemperature,82.4,fahrenheit
+1253480580,KGSM,AirTemperature,86.0,fahrenheit

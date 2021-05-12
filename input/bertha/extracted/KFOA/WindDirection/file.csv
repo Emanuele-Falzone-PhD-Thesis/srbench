@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144700,KFOA,WindDirection,40.0,degrees
+1253231100,KFOA,WindDirection,10.0,degrees
+1253317500,KFOA,WindDirection,360.0,degrees
+1253403900,KFOA,WindDirection,50.0,degrees
+1253490300,KFOA,WindDirection,150.0,degrees
+1253576700,KFOA,WindDirection,130.0,degrees

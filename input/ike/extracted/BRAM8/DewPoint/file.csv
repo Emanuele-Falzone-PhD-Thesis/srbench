@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1221285000,BRAM8,DewPoint,0.0,fahrenheit
+1221339000,BRAM8,DewPoint,33.7,fahrenheit
+1221349800,BRAM8,DewPoint,0.0,fahrenheit

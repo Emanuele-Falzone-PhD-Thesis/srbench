@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KIPL,RelativeHumidity,30.0,percent
+1253231580,KIPL,RelativeHumidity,29.0,percent
+1253317980,KIPL,RelativeHumidity,26.0,percent
+1253404380,KIPL,RelativeHumidity,27.0,percent
+1253490780,KIPL,RelativeHumidity,29.0,percent
+1253577180,KIPL,RelativeHumidity,28.0,percent

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,PAKT,WindGust,31.0,milesPerHour
+1253232000,PAKT,WindGust,22.0,milesPerHour
+1253317980,PAKT,WindGust,17.0,milesPerHour
+1253404380,PAKT,WindGust,0.0,milesPerHour
+1253490780,PAKT,WindGust,0.0,milesPerHour
+1253577180,PAKT,WindGust,32.0,milesPerHour

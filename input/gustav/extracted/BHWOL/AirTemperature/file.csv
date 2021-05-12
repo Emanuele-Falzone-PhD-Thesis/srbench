@@ -1,0 +1,3 @@
+timestamp,sensorId,property,value,unit
+1219654200,BHWOL,AirTemperature,36.0,fahrenheit
+1219656000,BHWOL,AirTemperature,37.0,fahrenheit

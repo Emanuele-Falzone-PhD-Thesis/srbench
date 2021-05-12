@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KAIA,AirTemperature,50.0,fahrenheit
+1253231580,KAIA,AirTemperature,48.9,fahrenheit
+1253317980,KAIA,AirTemperature,48.9,fahrenheit
+1253404380,KAIA,AirTemperature,55.0,fahrenheit
+1253491200,KAIA,AirTemperature,51.8,fahrenheit
+1253577180,KAIA,AirTemperature,46.0,fahrenheit

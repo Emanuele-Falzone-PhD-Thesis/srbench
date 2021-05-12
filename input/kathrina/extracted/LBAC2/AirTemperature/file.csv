@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1124672400,LBAC2,AirTemperature,38.0,fahrenheit
+1124676000,LBAC2,AirTemperature,38.5,fahrenheit
+1124679600,LBAC2,AirTemperature,39.2,fahrenheit
+1124683200,LBAC2,AirTemperature,38.1,fahrenheit
+1124686800,LBAC2,AirTemperature,38.7,fahrenheit

@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253144700,K3LF,AirTemperature,62.6,fahrenheit
+1253231100,K3LF,AirTemperature,57.2,fahrenheit
+1253317500,K3LF,AirTemperature,60.8,fahrenheit
+1253403900,K3LF,AirTemperature,68.0,fahrenheit
+1253490300,K3LF,AirTemperature,62.6,fahrenheit
+1253576700,K3LF,AirTemperature,69.8,fahrenheit

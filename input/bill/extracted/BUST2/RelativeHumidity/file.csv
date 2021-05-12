@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253530800,BUST2,RelativeHumidity,59.0,percent
+1253570400,BUST2,RelativeHumidity,38.0,percent
+1253574000,BUST2,RelativeHumidity,71.0,percent

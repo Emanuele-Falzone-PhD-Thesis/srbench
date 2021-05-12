@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1253145180,OSCM8,DewPoint,42.5,fahrenheit
+1253231580,OSCM8,DewPoint,45.3,fahrenheit
+1253317980,OSCM8,DewPoint,42.3,fahrenheit
+1253404380,OSCM8,DewPoint,48.1,fahrenheit
+1253487180,OSCM8,DewPoint,38.0,fahrenheit
+1253490780,OSCM8,DewPoint,36.2,fahrenheit
+1253566380,OSCM8,DewPoint,24.3,fahrenheit
+1253569980,OSCM8,DewPoint,23.6,fahrenheit
+1253573580,OSCM8,DewPoint,24.8,fahrenheit
+1253577180,OSCM8,DewPoint,25.0,fahrenheit

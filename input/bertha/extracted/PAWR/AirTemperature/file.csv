@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253141220,PAWR,AirTemperature,51.8,fahrenheit
+1253231400,PAWR,AirTemperature,48.2,fahrenheit
+1253317620,PAWR,AirTemperature,53.6,fahrenheit
+1253404500,PAWR,AirTemperature,51.8,fahrenheit
+1253491020,PAWR,AirTemperature,46.4,fahrenheit
+1253577480,PAWR,AirTemperature,46.4,fahrenheit

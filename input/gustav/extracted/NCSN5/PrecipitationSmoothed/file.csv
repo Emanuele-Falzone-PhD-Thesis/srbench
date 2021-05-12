@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,NCSN5,PrecipitationSmoothed,24.2,centimeters
+1219629600,NCSN5,PrecipitationSmoothed,24.2,centimeters
+1219716000,NCSN5,PrecipitationSmoothed,24.2,centimeters
+1219802400,NCSN5,PrecipitationSmoothed,24.5,centimeters
+1219888800,NCSN5,PrecipitationSmoothed,24.6,centimeters
+1219975200,NCSN5,PrecipitationSmoothed,24.7,centimeters
+1220061600,NCSN5,PrecipitationSmoothed,24.7,centimeters

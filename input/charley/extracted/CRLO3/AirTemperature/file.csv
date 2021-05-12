@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1092124800,CRLO3,AirTemperature,52.0,fahrenheit
+1092211200,CRLO3,AirTemperature,53.0,fahrenheit
+1092297600,CRLO3,AirTemperature,56.0,fahrenheit
+1092384000,CRLO3,AirTemperature,51.0,fahrenheit

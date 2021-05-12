@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253145000,KOJA,WindGust,0.0,milesPerHour
+1253231100,KOJA,WindGust,0.0,milesPerHour
+1253317500,KOJA,WindGust,0.0,milesPerHour
+1253490300,KOJA,WindGust,0.0,milesPerHour
+1253576700,KOJA,WindGust,0.0,milesPerHour

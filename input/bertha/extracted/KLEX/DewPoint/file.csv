@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KLEX,DewPoint,53.1,fahrenheit
+1253231640,KLEX,DewPoint,63.0,fahrenheit
+1253318040,KLEX,DewPoint,64.9,fahrenheit
+1253400840,KLEX,DewPoint,59.0,fahrenheit
+1253490840,KLEX,DewPoint,64.9,fahrenheit
+1253577240,KLEX,DewPoint,66.0,fahrenheit

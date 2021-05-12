@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1219744800,CZEM,AirTemperature,62.6,fahrenheit
+1219748400,CZEM,AirTemperature,64.4,fahrenheit
+1219752000,CZEM,AirTemperature,64.4,fahrenheit
+1219755600,CZEM,AirTemperature,69.8,fahrenheit
+1219759200,CZEM,AirTemperature,69.8,fahrenheit
+1219762800,CZEM,AirTemperature,71.6,fahrenheit
+1219766400,CZEM,AirTemperature,71.6,fahrenheit
+1219831200,CZEM,AirTemperature,66.2,fahrenheit
+1219834800,CZEM,AirTemperature,69.8,fahrenheit
+1219838400,CZEM,AirTemperature,71.6,fahrenheit
+1219842000,CZEM,AirTemperature,73.4,fahrenheit
+1219845600,CZEM,AirTemperature,77.0,fahrenheit
+1219849200,CZEM,AirTemperature,77.0,fahrenheit
+1219852800,CZEM,AirTemperature,80.6,fahrenheit

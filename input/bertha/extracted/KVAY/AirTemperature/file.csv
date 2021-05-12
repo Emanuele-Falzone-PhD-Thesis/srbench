@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145240,KVAY,AirTemperature,62.1,fahrenheit
+1253231640,KVAY,AirTemperature,55.0,fahrenheit
+1253318040,KVAY,AirTemperature,66.0,fahrenheit
+1253404440,KVAY,AirTemperature,48.9,fahrenheit
+1253490840,KVAY,AirTemperature,54.0,fahrenheit
+1253577240,KVAY,AirTemperature,59.0,fahrenheit

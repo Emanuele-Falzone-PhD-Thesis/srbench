@@ -1,0 +1,8 @@
+timestamp,sensorId,property,value,unit
+1219543200,CULC2,PrecipitationSmoothed,20.7,centimeters
+1219629600,CULC2,PrecipitationSmoothed,20.7,centimeters
+1219716000,CULC2,PrecipitationSmoothed,20.7,centimeters
+1219802400,CULC2,PrecipitationSmoothed,20.7,centimeters
+1219888800,CULC2,PrecipitationSmoothed,20.8,centimeters
+1219975200,CULC2,PrecipitationSmoothed,20.9,centimeters
+1220061600,CULC2,PrecipitationSmoothed,20.9,centimeters

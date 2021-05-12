@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145420,KROG,WindDirection,50.0,degrees
+1253231820,KROG,WindDirection,40.0,degrees
+1253318220,KROG,WindDirection,40.0,degrees
+1253404620,KROG,WindDirection,70.0,degrees
+1253491020,KROG,WindDirection,120.0,degrees
+1253576040,KROG,WindDirection,110.0,degrees

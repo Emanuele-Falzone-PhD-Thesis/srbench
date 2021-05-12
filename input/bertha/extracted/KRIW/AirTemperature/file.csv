@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145180,KRIW,AirTemperature,64.9,fahrenheit
+1253231580,KRIW,AirTemperature,59.0,fahrenheit
+1253317980,KRIW,AirTemperature,64.9,fahrenheit
+1253404380,KRIW,AirTemperature,62.1,fahrenheit
+1253490780,KRIW,AirTemperature,43.0,fahrenheit
+1253577180,KRIW,AirTemperature,42.1,fahrenheit

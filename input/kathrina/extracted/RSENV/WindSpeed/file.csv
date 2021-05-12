@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1124783100,RSENV,WindSpeed,2.0,milesPerHour
+1124996400,RSENV,WindSpeed,5.0,milesPerHour
+1125091800,RSENV,WindSpeed,3.0,milesPerHour
+1125095400,RSENV,WindSpeed,8.0,milesPerHour
+1125209700,RSENV,WindSpeed,7.0,milesPerHour

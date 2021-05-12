@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1253098500,MMQT,AirTemperature,62.6,fahrenheit
+1253101500,MMQT,AirTemperature,62.6,fahrenheit
+1253116500,MMQT,AirTemperature,69.8,fahrenheit
+1253120100,MMQT,AirTemperature,71.6,fahrenheit
+1253123700,MMQT,AirTemperature,75.2,fahrenheit

@@ -1,0 +1,6 @@
+timestamp,sensorId,property,value,unit
+1091973300,PADK,AirTemperature,60.8,fahrenheit
+1091975400,PADK,AirTemperature,60.8,fahrenheit
+1091980200,PADK,AirTemperature,57.2,fahrenheit
+1092218100,PADK,AirTemperature,62.6,fahrenheit
+1092308100,PADK,AirTemperature,53.6,fahrenheit

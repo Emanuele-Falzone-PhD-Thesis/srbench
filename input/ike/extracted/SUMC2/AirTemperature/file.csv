@@ -1,0 +1,15 @@
+timestamp,sensorId,property,value,unit
+1220148000,SUMC2,AirTemperature,53.6,fahrenheit
+1220234400,SUMC2,AirTemperature,47.8,fahrenheit
+1220320800,SUMC2,AirTemperature,69.6,fahrenheit
+1220407200,SUMC2,AirTemperature,45.0,fahrenheit
+1220493600,SUMC2,AirTemperature,35.8,fahrenheit
+1220580000,SUMC2,AirTemperature,45.9,fahrenheit
+1220666400,SUMC2,AirTemperature,35.1,fahrenheit
+1220752800,SUMC2,AirTemperature,34.7,fahrenheit
+1220839200,SUMC2,AirTemperature,31.1,fahrenheit
+1220925600,SUMC2,AirTemperature,34.2,fahrenheit
+1221012000,SUMC2,AirTemperature,40.1,fahrenheit
+1221098400,SUMC2,AirTemperature,37.8,fahrenheit
+1221184800,SUMC2,AirTemperature,39.4,fahrenheit
+1221271200,SUMC2,AirTemperature,32.7,fahrenheit

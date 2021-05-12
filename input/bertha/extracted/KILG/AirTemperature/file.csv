@@ -1,0 +1,7 @@
+timestamp,sensorId,property,value,unit
+1253145060,KILG,AirTemperature,63.0,fahrenheit
+1253231460,KILG,AirTemperature,59.0,fahrenheit
+1253317860,KILG,AirTemperature,63.0,fahrenheit
+1253404260,KILG,AirTemperature,51.1,fahrenheit
+1253490660,KILG,AirTemperature,55.9,fahrenheit
+1253577060,KILG,AirTemperature,64.0,fahrenheit

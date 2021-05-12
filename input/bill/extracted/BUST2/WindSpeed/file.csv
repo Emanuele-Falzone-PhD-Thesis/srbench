@@ -1,0 +1,4 @@
+timestamp,sensorId,property,value,unit
+1253530800,BUST2,WindSpeed,12.0,milesPerHour
+1253570400,BUST2,WindSpeed,12.0,milesPerHour
+1253574000,BUST2,WindSpeed,21.0,milesPerHour

@@ -1,0 +1,10 @@
+timestamp,sensorId,property,value,unit
+1220270580,PAGA,WindDirection,0.0,degrees
+1220276580,PAGA,WindDirection,0.0,degrees
+1220428680,PAGA,WindDirection,0.0,degrees
+1220509980,PAGA,WindDirection,0.0,degrees
+1220521500,PAGA,WindDirection,0.0,degrees
+1220864280,PAGA,WindDirection,100.0,degrees
+1220869260,PAGA,WindDirection,90.0,degrees
+1221035820,PAGA,WindDirection,0.0,degrees
+1221123420,PAGA,WindDirection,0.0,degrees

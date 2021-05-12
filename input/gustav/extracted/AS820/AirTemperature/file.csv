@@ -1,0 +1,5 @@
+timestamp,sensorId,property,value,unit
+1220138160,AS820,AirTemperature,73.0,fahrenheit
+1220138700,AS820,AirTemperature,73.0,fahrenheit
+1220139900,AS820,AirTemperature,73.0,fahrenheit
+1220140500,AS820,AirTemperature,73.0,fahrenheit

@@ -1,0 +1,11 @@
+timestamp,sensorId,property,value,unit
+1124762400,SYLW4,AirTemperature,72.7,fahrenheit
+1124773200,SYLW4,AirTemperature,43.5,fahrenheit
+1124784000,SYLW4,AirTemperature,46.8,fahrenheit
+1124794800,SYLW4,AirTemperature,59.4,fahrenheit
+1124805600,SYLW4,AirTemperature,62.1,fahrenheit
+1124816400,SYLW4,AirTemperature,60.3,fahrenheit
+1124827200,SYLW4,AirTemperature,58.6,fahrenheit
+1124838000,SYLW4,AirTemperature,55.9,fahrenheit
+1124848800,SYLW4,AirTemperature,65.5,fahrenheit
+1124859600,SYLW4,AirTemperature,54.0,fahrenheit
