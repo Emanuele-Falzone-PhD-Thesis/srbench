@@ -15,7 +15,7 @@ charley/
     ├── sensor_Y/
     └── sensor_Z/
 ```
-- PG-JSON [2]: the data is organized in JSON files. Each file is named with a UNIX timestamp and contains the PG-JSON serialization of the events that occurred at the specified time instant.
+- JSON-PG [2]: the data is organized in JSON files. Each file is named with a UNIX timestamp and contains the JSON-PG serialization of the events that occurred at the specified time instant.
 ```
 charley/
 └── pg-json/
@@ -24,18 +24,18 @@ charley/
 ```
 
 ## Build
-To generate PG-JSON representation:
+To generate JSON-PG representation:
 
 - Build docker image:
 ```
-docker build -t pg-json .
+docker build -t json-pg .
 ```
 - Run the docker image mounting the input and output volumes as follows:
 ```
 docker run \
     -v ${PWD}/input/charley:/data/input \
     -v ${PWD}/output/charley:/data/output \
-    pg-json
+    json-pg
 ```
 - The output folder contains the PG-JSON representation of the data.
 
