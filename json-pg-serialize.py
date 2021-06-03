@@ -1,6 +1,7 @@
 import os
 import csv
 import json
+import sys
 from collections import defaultdict
 
 def get_csv_files(folder):
@@ -20,6 +21,10 @@ def get_filename(path):
     head, tail = os.path.split(path)
     name, extension = os.path.splitext(tail)
     return name
+
+def get_dirname(path):
+    head, tail = os.path.split(path)
+    return head.split("/")[-1]
 
 class IDFactory:
 
@@ -137,20 +142,26 @@ def propery_graph_as_dict(propery_graph):
 
 if __name__ == "__main__":
     
-    input_folder = "/data/_output/csv"
-    output_folder = "/data/output/pg-json"
+    print("Number of arguments:", len(sys.argv), "arguments.")
+    print("Argument List:", str(sys.argv))
 
-    print("Collecting csv files from {}".format(input_folder))
+    if len(sys.argv) != 3:
+        print("Please specify input and output folders.")
+        exit(1)
 
-    ensure_dir(output_folder)
+    input_folder = sys.argv[1]
+    output_base_folder = sys.argv[2]
+
+    print("Input folder: {}".format(input_folder))
+    print("Output folder: {}".format(output_base_folder))
+
+    ensure_dir(output_base_folder)
 
     csv_files = get_csv_files(input_folder)
 
-    print("Collected {} csv files".format(len(csv_files)))
-
     print("Progress: {:.2%}".format(0), end="\r", flush=True)
 
-    id_factory = IDFactory() 
+    id_factory = IDFactory()
 
     for i, csv_file in enumerate(csv_files):
 
@@ -159,6 +170,9 @@ if __name__ == "__main__":
         input_file = open(csv_file, "r")
         reader = csv.DictReader(input_file)
         
+        output_folder = os.path.join(output_base_folder, get_dirname(csv_file))
+        ensure_dir(output_folder)
+
         output_filename = os.path.join(output_folder, "{}.json".format(get_filename(csv_file)))
 
         for row in reader:

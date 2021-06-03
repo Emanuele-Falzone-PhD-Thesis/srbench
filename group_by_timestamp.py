@@ -1,5 +1,6 @@
 import os
 import csv
+import sys
 
 def get_csv_files(folder):
     csv_files = []
@@ -23,20 +24,24 @@ def ensure_csv(path, fieldnames):
 
 if __name__ == "__main__":
     
-    input_folder = "/data/input"
-    output_folder = "/data/_output/csv"
+    print("Number of arguments:", len(sys.argv), "arguments.")
+    print("Argument List:", str(sys.argv))
 
-    print("Collecting csv files from {}".format(input_folder))
+    if len(sys.argv) != 3:
+        print("Please specify input and output folders.")
+        exit(1)
 
-    ensure_dir(output_folder)
+    input_folder = sys.argv[1]
+    output_base_folder = sys.argv[2]
+
+    print("Input folder: {}".format(input_folder))
+    print("Output folder: {}".format(output_base_folder))
+
+    ensure_dir(output_base_folder)
 
     csv_files = get_csv_files(input_folder)
 
-    print("Collected {} csv files".format(len(csv_files)))
-
     fieldnames = ["timestamp","sensorId","property","value","unit"]
-
-    print("Wrinting csv files to {}".format(output_folder))
 
     print("Progress: {:.2%}".format(0), end="\r", flush=True)
 
@@ -47,7 +52,10 @@ if __name__ == "__main__":
         
         for row in reader:
             
-            output_filename = os.path.join(output_folder, "{}.csv".format(row["timestamp"]))
+            output_folder = os.path.join(output_base_folder, row["timestamp"])
+            ensure_dir(output_folder)
+
+            output_filename = os.path.join(output_folder, "{}.csv".format(row["sensorId"]))
             ensure_csv(output_filename, fieldnames)
 
             output_file = open(output_filename, "a")
